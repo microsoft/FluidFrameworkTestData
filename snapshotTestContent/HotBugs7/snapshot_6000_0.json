@@ -719,15 +719,6 @@
                       "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "header",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
