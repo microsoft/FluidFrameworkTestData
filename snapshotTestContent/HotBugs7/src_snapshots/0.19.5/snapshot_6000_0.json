@@ -542,7 +542,7 @@
                           "path": "randomPlaceholderBlobName",
                           "type": "Blob",
                           "value": {
-                            "contents": "[{\"clientId\":\"685663d8-b87b-4040-af13-ffc3d4d4b386\",\"clientSequenceNumber\":1829,\"contents\":{\"pos1\":2143,\"seg\":{\"text\":\"b\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false}},\"type\":0},\"minimumSequenceNumber\":5998,\"referenceSequenceNumber\":5998,\"sequenceNumber\":5999,\"timestamp\":1564949503149,\"term\":1,\"traces\":[],\"type\":\"op\"}]",
+                            "contents": "[{\"clientId\":\"685663d8-b87b-4040-af13-ffc3d4d4b386\",\"clientSequenceNumber\":1829,\"contents\":{\"pos1\":2143,\"seg\":{\"text\":\"b\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false}},\"type\":0},\"minimumSequenceNumber\":5998,\"referenceSequenceNumber\":5998,\"sequenceNumber\":5999,\"timestamp\":1564949503149,\"traces\":[],\"type\":\"op\",\"term\":1}]",
                             "encoding": "utf-8"
                           }
                         }
