@@ -488,7 +488,7 @@
                           "path": "randomPlaceholderBlobName",
                           "type": "Blob",
                           "value": {
-                            "contents": "[{\"clientId\":\"3e1d4dec-e660-4522-ba47-b3640d08629d\",\"clientSequenceNumber\":3616,\"contents\":{\"pos1\":1388,\"seg\":{\"text\":\"r\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false}},\"type\":0},\"minimumSequenceNumber\":3999,\"referenceSequenceNumber\":3999,\"sequenceNumber\":4000,\"timestamp\":1564949135548,\"term\":1,\"traces\":[],\"type\":\"op\"}]",
+                            "contents": "[{\"clientId\":\"3e1d4dec-e660-4522-ba47-b3640d08629d\",\"clientSequenceNumber\":3616,\"contents\":{\"pos1\":1388,\"seg\":{\"text\":\"r\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false}},\"type\":0},\"minimumSequenceNumber\":3999,\"referenceSequenceNumber\":3999,\"sequenceNumber\":4000,\"timestamp\":1564949135548,\"traces\":[],\"type\":\"op\",\"term\":1}]",
                             "encoding": "utf-8"
                           }
                         }

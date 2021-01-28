@@ -407,7 +407,7 @@
                           "path": "randomPlaceholderBlobName",
                           "type": "Blob",
                           "value": {
-                            "contents": "[{\"clientId\":\"da6b4d9f-3328-4512-9bb8-ff75d0e5f3a6\",\"clientSequenceNumber\":171,\"contents\":{\"pos1\":42,\"seg\":\"5\",\"type\":0},\"minimumSequenceNumber\":998,\"referenceSequenceNumber\":998,\"sequenceNumber\":999,\"timestamp\":1565282853456,\"term\":1,\"traces\":[],\"type\":\"op\"}]",
+                            "contents": "[{\"clientId\":\"da6b4d9f-3328-4512-9bb8-ff75d0e5f3a6\",\"clientSequenceNumber\":171,\"contents\":{\"pos1\":42,\"seg\":\"5\",\"type\":0},\"minimumSequenceNumber\":998,\"referenceSequenceNumber\":998,\"sequenceNumber\":999,\"timestamp\":1565282853456,\"traces\":[],\"type\":\"op\",\"term\":1}]",
                             "encoding": "utf-8"
                           }
                         }
