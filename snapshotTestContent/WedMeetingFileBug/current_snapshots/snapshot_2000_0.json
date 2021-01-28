@@ -41,7 +41,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -104,7 +104,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -158,7 +158,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -194,7 +194,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -230,7 +230,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -239,7 +239,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"c5c35926-1ae1-4bd1-a386-048660e066a7\",\"53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"8728822b-5a61-4837-b6e2-74288cc47c80\",\"85a5c79c-79d1-47b5-8998-5379b0e1aad7\"]}}}",
+                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\",\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\",\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\"]}}}",
                       "encoding": "utf-8"
                     }
                   },
@@ -248,7 +248,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"},\"styleRegistryStyleHeading 1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"c5c35926-1ae1-4bd1-a386-048660e066a7\"}},\"styleRegistryStyleHeading 2\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\"}},\"styleRegistryStyleBody\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\"}},\"styleRegistryStyleStrong\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\"}},\"styleRegistryStyleEmphasis\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"a70c0d5f-55c1-4d0d-b42a-b28b547187d2\"}},\"styleRegistryStyleTitle\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"8728822b-5a61-4837-b6e2-74288cc47c80\"}},\"styleRegistryStyleFixed Table\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"85a5c79c-79d1-47b5-8998-5379b0e1aad7\"}}}}",
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"},\"styleRegistryStyleHeading 1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\"}},\"styleRegistryStyleHeading 2\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\"}},\"styleRegistryStyleBody\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\"}},\"styleRegistryStyleStrong\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\"}},\"styleRegistryStyleEmphasis\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\"}},\"styleRegistryStyleTitle\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\"}},\"styleRegistryStyleFixed Table\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\"}}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -266,7 +266,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -302,7 +302,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -338,7 +338,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -374,7 +374,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -410,7 +410,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -446,7 +446,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -482,7 +482,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -518,7 +518,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -554,7 +554,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -590,7 +590,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -626,7 +626,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -635,7 +635,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"33632013-873c-42ee-900a-14589f988d07\",\"030a1b44-7d52-4806-8839-0711b4d13c76\",\"d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"0057afd4-13a7-4307-b72f-b2ae569580f0\",\"1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"b514202e-232c-499d-9284-64ad9bf3c9c8\",\"48e838d8-68d4-4062-a2ef-62424910e440\",\"ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"]}}}",
+                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\",\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\",\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\",\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\",\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\",\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"]}}}",
                       "encoding": "utf-8"
                     }
                   },
@@ -644,7 +644,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"listRegistryList-86\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"9ab56c68-a11e-4746-a080-f3d7b7955e2b\"}},\"listRegistryList-26\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"21706f58-9558-4814-a2c8-776bf9f0fc6d\"}},\"listRegistryList-11\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"c47d890b-d81a-4bf0-a002-9c12023a4d4f\"}},\"listRegistryList-34\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"33632013-873c-42ee-900a-14589f988d07\"}},\"listRegistryList-7\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"030a1b44-7d52-4806-8839-0711b4d13c76\"}},\"listRegistryList-35\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"d46facec-1e69-4fe7-8f36-c78aedb277eb\"}},\"listRegistryList117\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"0057afd4-13a7-4307-b72f-b2ae569580f0\"}},\"listRegistryList-108\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"1986cc6a-3ad7-4188-88cc-b9b10276fda8\"}},\"listRegistryList15\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"73121fb4-acb5-4896-a1f6-ce50fa3d991b\"}},\"listRegistryList1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"ae92b7cd-2328-49b3-879b-06dbf761eb6b\"}},\"listRegistryList-67\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"b514202e-232c-499d-9284-64ad9bf3c9c8\"}},\"listRegistryList-115\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"48e838d8-68d4-4062-a2ef-62424910e440\"}},\"listRegistryList43\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"ca23fb91-3ca3-4858-8fe9-b14fa4321d10\"}},\"listRegistryList-65\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"}}}}",
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"listRegistryList-86\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\"}},\"listRegistryList-26\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\"}},\"listRegistryList-11\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\"}},\"listRegistryList-34\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\"}},\"listRegistryList-7\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\"}},\"listRegistryList-35\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\"}},\"listRegistryList117\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\"}},\"listRegistryList-108\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\"}},\"listRegistryList15\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\"}},\"listRegistryList1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\"}},\"listRegistryList-67\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\"}},\"listRegistryList-115\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\"}},\"listRegistryList43\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\"}},\"listRegistryList-65\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"}}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -662,7 +662,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -698,7 +698,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -734,7 +734,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -770,7 +770,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -806,7 +806,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -842,7 +842,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -878,7 +878,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -914,7 +914,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -950,7 +950,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -986,7 +986,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1022,7 +1022,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1058,7 +1058,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1094,7 +1094,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1130,7 +1130,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"199ded11-9f44-4cb6-94ca-fc70d8ef24f5\"]}}}",
+                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\"]}}}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1139,7 +1139,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"intervalCollections\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"199ded11-9f44-4cb6-94ca-fc70d8ef24f5\"}}}",
+                      "contents": "{\"intervalCollections\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -1153,7 +1153,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"2aaed5f1-497c-4041-925c-18504127df54\",\"d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"773470ad-42cf-4a7c-8c3e-485291c43de6\",\"/defaultComponent\"],\"/2aaed5f1-497c-4041-925c-18504127df54\":[\"/defaultComponent\"],\"/d87479a6-14f5-4891-b493-4a8229c9c7ab\":[\"/defaultComponent\"],\"/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\":[\"/defaultComponent\"],\"/ecb7d730-cc68-4ab8-9bea-ad24324f9009\":[\"199ded11-9f44-4cb6-94ca-fc70d8ef24f5\",\"/defaultComponent\"],\"/0aadefc0-1c16-47e9-931c-61a73b5b1e79\":[\"c5c35926-1ae1-4bd1-a386-048660e066a7\",\"53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"8728822b-5a61-4837-b6e2-74288cc47c80\",\"85a5c79c-79d1-47b5-8998-5379b0e1aad7\",\"/defaultComponent\"],\"/c5c35926-1ae1-4bd1-a386-048660e066a7\":[\"/defaultComponent\"],\"/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\":[\"/defaultComponent\"],\"/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\":[\"/defaultComponent\"],\"/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\":[\"/defaultComponent\"],\"/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\":[\"/defaultComponent\"],\"/8728822b-5a61-4837-b6e2-74288cc47c80\":[\"/defaultComponent\"],\"/85a5c79c-79d1-47b5-8998-5379b0e1aad7\":[\"/defaultComponent\"],\"/773470ad-42cf-4a7c-8c3e-485291c43de6\":[\"9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"33632013-873c-42ee-900a-14589f988d07\",\"030a1b44-7d52-4806-8839-0711b4d13c76\",\"d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"0057afd4-13a7-4307-b72f-b2ae569580f0\",\"1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"b514202e-232c-499d-9284-64ad9bf3c9c8\",\"48e838d8-68d4-4062-a2ef-62424910e440\",\"ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\",\"/defaultComponent\"],\"/9ab56c68-a11e-4746-a080-f3d7b7955e2b\":[\"/defaultComponent\"],\"/21706f58-9558-4814-a2c8-776bf9f0fc6d\":[\"/defaultComponent\"],\"/c47d890b-d81a-4bf0-a002-9c12023a4d4f\":[\"/defaultComponent\"],\"/33632013-873c-42ee-900a-14589f988d07\":[\"/defaultComponent\"],\"/030a1b44-7d52-4806-8839-0711b4d13c76\":[\"/defaultComponent\"],\"/d46facec-1e69-4fe7-8f36-c78aedb277eb\":[\"/defaultComponent\"],\"/0057afd4-13a7-4307-b72f-b2ae569580f0\":[\"/defaultComponent\"],\"/1986cc6a-3ad7-4188-88cc-b9b10276fda8\":[\"/defaultComponent\"],\"/73121fb4-acb5-4896-a1f6-ce50fa3d991b\":[\"/defaultComponent\"],\"/ae92b7cd-2328-49b3-879b-06dbf761eb6b\":[\"/defaultComponent\"],\"/b514202e-232c-499d-9284-64ad9bf3c9c8\":[\"/defaultComponent\"],\"/48e838d8-68d4-4062-a2ef-62424910e440\":[\"/defaultComponent\"],\"/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\":[\"/defaultComponent\"],\"/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\":[\"/defaultComponent\"],\"/\":[\"/defaultComponent/root\",\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\",\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\",\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\",\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\",\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\",\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\",\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\",\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\",\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\",\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\",\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\",\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"]}}}",
+                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\",\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\",\"/defaultComponent\"],\"/2aaed5f1-497c-4041-925c-18504127df54\":[\"/defaultComponent\"],\"/d87479a6-14f5-4891-b493-4a8229c9c7ab\":[\"/defaultComponent\"],\"/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\":[\"/defaultComponent\"],\"/ecb7d730-cc68-4ab8-9bea-ad24324f9009\":[\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\",\"/defaultComponent\"],\"/0aadefc0-1c16-47e9-931c-61a73b5b1e79\":[\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\",\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\",\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\",\"/defaultComponent\"],\"/c5c35926-1ae1-4bd1-a386-048660e066a7\":[\"/defaultComponent\"],\"/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\":[\"/defaultComponent\"],\"/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\":[\"/defaultComponent\"],\"/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\":[\"/defaultComponent\"],\"/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\":[\"/defaultComponent\"],\"/8728822b-5a61-4837-b6e2-74288cc47c80\":[\"/defaultComponent\"],\"/85a5c79c-79d1-47b5-8998-5379b0e1aad7\":[\"/defaultComponent\"],\"/773470ad-42cf-4a7c-8c3e-485291c43de6\":[\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\",\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\",\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\",\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\",\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\",\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\",\"/defaultComponent\"],\"/9ab56c68-a11e-4746-a080-f3d7b7955e2b\":[\"/defaultComponent\"],\"/21706f58-9558-4814-a2c8-776bf9f0fc6d\":[\"/defaultComponent\"],\"/c47d890b-d81a-4bf0-a002-9c12023a4d4f\":[\"/defaultComponent\"],\"/33632013-873c-42ee-900a-14589f988d07\":[\"/defaultComponent\"],\"/030a1b44-7d52-4806-8839-0711b4d13c76\":[\"/defaultComponent\"],\"/d46facec-1e69-4fe7-8f36-c78aedb277eb\":[\"/defaultComponent\"],\"/0057afd4-13a7-4307-b72f-b2ae569580f0\":[\"/defaultComponent\"],\"/1986cc6a-3ad7-4188-88cc-b9b10276fda8\":[\"/defaultComponent\"],\"/73121fb4-acb5-4896-a1f6-ce50fa3d991b\":[\"/defaultComponent\"],\"/ae92b7cd-2328-49b3-879b-06dbf761eb6b\":[\"/defaultComponent\"],\"/b514202e-232c-499d-9284-64ad9bf3c9c8\":[\"/defaultComponent\"],\"/48e838d8-68d4-4062-a2ef-62424910e440\":[\"/defaultComponent\"],\"/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\":[\"/defaultComponent\"],\"/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\":[\"/defaultComponent\"],\"/\":[\"/defaultComponent/root\",\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\",\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\",\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\",\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\",\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\",\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\",\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\",\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\",\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\",\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\",\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\",\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"]}}}",
                 "encoding": "utf-8"
               }
             },
@@ -1166,7 +1166,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.33.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.34.0\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1175,7 +1175,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"2aaed5f1-497c-4041-925c-18504127df54\",\"d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"773470ad-42cf-4a7c-8c3e-485291c43de6\"]}}}",
+                      "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\",\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\"]}}}",
                       "encoding": "utf-8"
                     }
                   },
@@ -1184,7 +1184,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"presence\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"2aaed5f1-497c-4041-925c-18504127df54\"}},\"language\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"d87479a6-14f5-4891-b493-4a8229c9c7ab\"}},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"ecb7d730-cc68-4ab8-9bea-ad24324f9009\"}},\"text.ItemType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"endOfKeys\":{\"type\":\"Plain\",\"value\":true},\"text.documentStyleRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"0aadefc0-1c16-47e9-931c-61a73b5b1e79\"}},\"text.documentListRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"773470ad-42cf-4a7c-8c3e-485291c43de6\"}}}}",
+                      "contents": "{\"blobs\":[],\"content\":{\"presence\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\"}},\"language\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\"}},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\"}},\"text.ItemType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"endOfKeys\":{\"type\":\"Plain\",\"value\":true},\"text.documentStyleRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\"}},\"text.documentListRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\"}}}}",
                       "encoding": "utf-8"
                     }
                   }
