@@ -1,0 +1,1150 @@
+{
+  "tree": {
+    "entries": [
+      {
+        "mode": "100644",
+        "path": ".attributes",
+        "type": "Blob",
+        "value": {
+          "contents": "{\"branch\":\"FileStorageDocId\",\"minimumSequenceNumber\":4068,\"sequenceNumber\":5000,\"term\":1}",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "path": "adb0d648-f3ca-4f84-bf50-12f0d060b943",
+        "value": {
+          "entries": [
+            {
+              "path": ".component",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"pkg\":\"[\\\"@ms/formula\\\"]\",\"snapshotFormatVersion\":\"0.1\",\"isRootDataStore\":true}",
+                "encoding": "utf-8"
+              }
+            },
+            {
+              "path": "gc",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"/adb0d648-f3ca-4f84-bf50-12f0d060b943\"],\"/\":[\"/adb0d648-f3ca-4f84-bf50-12f0d060b943/root\"]}}}",
+                "encoding": "utf-8"
+              }
+            },
+            {
+              "path": "root",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"endOfKeys\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            }
+          ]
+        },
+        "mode": "040000",
+        "type": "Tree"
+      },
+      {
+        "path": "atMentions",
+        "value": {
+          "entries": [
+            {
+              "path": ".component",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"pkg\":\"[\\\"@ms/atmentions\\\"]\",\"snapshotFormatVersion\":\"0.1\",\"isRootDataStore\":true}",
+                "encoding": "utf-8"
+              }
+            },
+            {
+              "path": "gc",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/instances\":[\"/atMentions\"],\"/\":[\"/atMentions/instances\"]}}}",
+                "encoding": "utf-8"
+              }
+            },
+            {
+              "path": "instances",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            }
+          ]
+        },
+        "mode": "040000",
+        "type": "Tree"
+      },
+      {
+        "path": "defaultComponent",
+        "value": {
+          "entries": [
+            {
+              "path": ".component",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"pkg\":\"[\\\"@ms/scriptor\\\"]\",\"snapshotFormatVersion\":\"0.1\",\"isRootDataStore\":true}",
+                "encoding": "utf-8"
+              }
+            },
+            {
+              "path": "0057afd4-13a7-4307-b72f-b2ae569580f0",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList117\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "030a1b44-7d52-4806-8839-0711b4d13c76",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-7\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "0aadefc0-1c16-47e9-931c-61a73b5b1e79",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"},\"styleRegistryStyleHeading 1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\"}},\"styleRegistryStyleHeading 2\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\"}},\"styleRegistryStyleBody\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\"}},\"styleRegistryStyleStrong\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\"}},\"styleRegistryStyleEmphasis\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\"}},\"styleRegistryStyleTitle\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\"}},\"styleRegistryStyleFixed Table\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\"}}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "0ad77daf-c3e8-4114-9152-375e1e520779",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList58\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "1986cc6a-3ad7-4188-88cc-b9b10276fda8",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-108\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "199ded11-9f44-4cb6-94ca-fc70d8ef24f5",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "21706f58-9558-4814-a2c8-776bf9f0fc6d",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-26\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "2aaed5f1-497c-4041-925c-18504127df54",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"c08d27ca-3b63-4b75-b323-02ae349d838c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":57,\"refSeqNumber\":1716}},\"06b48de8-ee84-4028-856a-ac6e860654ca\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":247,\"refSeqNumber\":3889}},\"f4de0fce-ee06-42a8-af33-93b32b4239e4\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":247,\"refSeqNumber\":4068}},\"e3b97299-ae83-4bda-bce2-e970e0c22d53\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":276,\"refSeqNumber\":4942}},\"f1bebf46-f4e2-4d3e-98eb-6d15afb759bc\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":167,\"pos\":179,\"refSeqNumber\":4766}}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "2be13d6e-a695-4591-82d8-f92d34a88bdc",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList0\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "33632013-873c-42ee-900a-14589f988d07",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-34\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "3b03f95c-5b3e-4004-8dc6-826b3cf1ed44",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Strong\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"character\"},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "46d5d03a-7b0c-44e9-8e78-e96a4204d42f",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList90\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "48e838d8-68d4-4062-a2ef-62424910e440",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-115\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Body\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"defaultStyle\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "53d9cccf-d1ac-4aa0-bf28-c827fda78ef1",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Heading 2\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Segoe UI\"},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":18},\"propertiesfontColor\":{\"type\":\"Plain\",\"value\":\"#484644\"},\"propertiespaddingBottom\":{\"type\":\"Plain\",\"value\":15},\"propertiespaddingTop\":{\"type\":\"Plain\",\"value\":12},\"propertiesrole\":{\"type\":\"Plain\",\"value\":\"heading\"},\"propertiesariaLevel\":{\"type\":\"Plain\",\"value\":\"2\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "661cc644-2445-498f-9ad6-496501ca8945",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList75\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "73121fb4-acb5-4896-a1f6-ce50fa3d991b",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList15\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "773470ad-42cf-4a7c-8c3e-485291c43de6",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"listRegistryList-86\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\"}},\"listRegistryList-26\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\"}},\"listRegistryList-11\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\"}},\"listRegistryList-34\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\"}},\"listRegistryList-7\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\"}},\"listRegistryList-35\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\"}},\"listRegistryList117\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\"}},\"listRegistryList-108\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\"}},\"listRegistryList15\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\"}},\"listRegistryList1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\"}},\"listRegistryList-67\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\"}},\"listRegistryList-115\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\"}},\"listRegistryList43\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\"}},\"listRegistryList-65\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\"}},\"listRegistryList-85\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/a8c66d5f-c0f6-44dc-a3af-a7a19c65dc41\"}},\"listRegistryList106\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/af74c154-8e24-4fc9-9ce9-2724c2bdeb26\"}},\"listRegistryList60\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/8f4ba7fc-1526-4700-bab9-09d25d9ae7dc\"}},\"listRegistryList90\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/46d5d03a-7b0c-44e9-8e78-e96a4204d42f\"}},\"listRegistryList58\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0ad77daf-c3e8-4114-9152-375e1e520779\"}},\"listRegistryList75\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/661cc644-2445-498f-9ad6-496501ca8945\"}},\"listRegistryList0\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/2be13d6e-a695-4591-82d8-f92d34a88bdc\"}}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "85a5c79c-79d1-47b5-8998-5379b0e1aad7",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Fixed Table\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"table\"},\"propertiestableColumnWidth\":{\"type\":\"Plain\",\"value\":100},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "8728822b-5a61-4837-b6e2-74288cc47c80",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Title\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Calibri Light\"},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":28}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "8f4ba7fc-1526-4700-bab9-09d25d9ae7dc",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList60\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "9ab56c68-a11e-4746-a080-f3d7b7955e2b",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-86\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-65\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "a70c0d5f-55c1-4d0d-b42a-b28b547187d2",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Emphasis\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"character\"},\"propertiesitalic\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "a8c66d5f-c0f6-44dc-a3af-a7a19c65dc41",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-85\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "ae92b7cd-2328-49b3-879b-06dbf761eb6b",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList1\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "af74c154-8e24-4fc9-9ce9-2724c2bdeb26",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList106\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "b514202e-232c-499d-9284-64ad9bf3c9c8",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-67\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "c47d890b-d81a-4bf0-a002-9c12023a4d4f",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-11\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "c5c35926-1ae1-4bd1-a386-048660e066a7",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Heading 1\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Segoe UI SemiBold\"},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":24},\"propertiespaddingBottom\":{\"type\":\"Plain\",\"value\":15},\"propertiespaddingTop\":{\"type\":\"Plain\",\"value\":12},\"propertiesrole\":{\"type\":\"Plain\",\"value\":\"heading\"},\"propertiesariaLevel\":{\"type\":\"Plain\",\"value\":\"1\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "ca23fb91-3ca3-4858-8fe9-b14fa4321d10",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList43\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "d46facec-1e69-4fe7-8f36-c78aedb277eb",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-35\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "d87479a6-14f5-4891-b493-4a8229c9c7ab",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "ecb7d730-cc68-4ab8-9bea-ad24324f9009",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "content",
+                    "value": {
+                      "entries": [
+                        {
+                          "path": "catchupOps",
+                          "mode": "100644",
+                          "type": "Blob",
+                          "value": {
+                            "contents": "[{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":86,\"contents\":{\"pos1\":304,\"pos2\":324,\"props\":{\"styleName\":null,\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-0835-0000-000000000000}\":null,\"{00000000-0000-0836-0000-000000000000}\":null,\"{00000000-0000-2a48-0000-000000000000}\":0,\"{00000000-0000-4a4f-0000-000000000000}\":null,\"{00000000-0000-4a51-0000-000000000000}\":null,\"{00000000-0000-4a43-0000-000000000000}\":null,\"{00000000-0000-6870-0000-000000000000}\":null,\"{00000000-0000-2a0c-0000-000000000000}\":null},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4459,\"sequenceNumber\":4460,\"timestamp\":1562186704962,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":87,\"contents\":{\"pos1\":324,\"pos2\":325,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"bold\":false,\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4460,\"sequenceNumber\":4461,\"timestamp\":1562186704962,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":88,\"contents\":{\"pos1\":324,\"pos2\":325,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4461,\"sequenceNumber\":4462,\"timestamp\":1562186704962,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":89,\"contents\":{\"pos1\":324,\"pos2\":325,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4462,\"sequenceNumber\":4463,\"timestamp\":1562186704962,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":90,\"contents\":{\"pos1\":324,\"pos2\":325,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 2\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4463,\"sequenceNumber\":4464,\"timestamp\":1562186704962,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":92,\"contents\":{\"pos1\":304,\"pos2\":324,\"props\":{\"styleName\":null,\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-0835-0000-000000000000}\":null,\"{00000000-0000-0836-0000-000000000000}\":null,\"{00000000-0000-2a48-0000-000000000000}\":0,\"{00000000-0000-4a4f-0000-000000000000}\":null,\"{00000000-0000-4a51-0000-000000000000}\":null,\"{00000000-0000-4a43-0000-000000000000}\":null,\"{00000000-0000-6870-0000-000000000000}\":null,\"{00000000-0000-2a0c-0000-000000000000}\":null},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4464,\"sequenceNumber\":4465,\"timestamp\":1562186707494,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":93,\"contents\":{\"pos1\":324,\"pos2\":325,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4465,\"sequenceNumber\":4466,\"timestamp\":1562186707494,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":100,\"contents\":{\"pos1\":3594,\"pos2\":3614,\"props\":{\"styleName\":null,\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-0835-0000-000000000000}\":null,\"{00000000-0000-0836-0000-000000000000}\":null,\"{00000000-0000-2a48-0000-000000000000}\":0,\"{00000000-0000-4a4f-0000-000000000000}\":null,\"{00000000-0000-4a51-0000-000000000000}\":null,\"{00000000-0000-4a43-0000-000000000000}\":null,\"{00000000-0000-6870-0000-000000000000}\":null,\"{00000000-0000-2a0c-0000-000000000000}\":null},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4469,\"sequenceNumber\":4470,\"timestamp\":1562186717546,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":101,\"contents\":{\"pos1\":3614,\"pos2\":3615,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"bold\":false,\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4470,\"sequenceNumber\":4471,\"timestamp\":1562186717546,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":102,\"contents\":{\"pos1\":3614,\"pos2\":3615,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4471,\"sequenceNumber\":4472,\"timestamp\":1562186717546,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":103,\"contents\":{\"pos1\":3614,\"pos2\":3615,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4472,\"sequenceNumber\":4473,\"timestamp\":1562186717546,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"606172e5-4114-4fca-a014-44f6f72b41f6\",\"clientSequenceNumber\":104,\"contents\":{\"pos1\":3614,\"pos2\":3615,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4473,\"sequenceNumber\":4474,\"timestamp\":1562186717546,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":24,\"contents\":{\"pos1\":248,\"seg\":{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"8a00a3d8-0bde-4330-b53b-7db40f702fa1\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList75\"}}},\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4540,\"sequenceNumber\":4541,\"timestamp\":1562187603823,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":27,\"contents\":{\"pos1\":248,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4542,\"sequenceNumber\":4543,\"timestamp\":1562187605761,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":29,\"contents\":{\"pos1\":249,\"seg\":\"b\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4544,\"sequenceNumber\":4545,\"timestamp\":1562187605933,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":31,\"contents\":{\"pos1\":250,\"seg\":\"s\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4546,\"sequenceNumber\":4547,\"timestamp\":1562187606027,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":33,\"contents\":{\"pos1\":251,\"seg\":\"q\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4548,\"sequenceNumber\":4549,\"timestamp\":1562187606089,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":35,\"contents\":{\"pos1\":252,\"seg\":\"t\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4550,\"sequenceNumber\":4551,\"timestamp\":1562187606277,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":37,\"contents\":{\"pos1\":253,\"seg\":\"a\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4552,\"sequenceNumber\":4553,\"timestamp\":1562187606355,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":39,\"contents\":{\"pos1\":254,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4554,\"sequenceNumber\":4555,\"timestamp\":1562187606449,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":42,\"contents\":{\"pos1\":255,\"seg\":\"8\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4556,\"sequenceNumber\":4557,\"timestamp\":1562187606949,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":44,\"contents\":{\"pos1\":256,\"seg\":\"c\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4558,\"sequenceNumber\":4559,\"timestamp\":1562187607152,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":46,\"contents\":{\"pos1\":257,\"seg\":\"p\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4560,\"sequenceNumber\":4561,\"timestamp\":1562187607277,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":49,\"contents\":{\"pos1\":258,\"seg\":\"c\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4562,\"sequenceNumber\":4563,\"timestamp\":1562187609106,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":51,\"contents\":{\"pos1\":259,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4564,\"sequenceNumber\":4565,\"timestamp\":1562187609278,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":53,\"contents\":{\"pos1\":260,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4566,\"sequenceNumber\":4567,\"timestamp\":1562187609388,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":55,\"contents\":{\"pos1\":261,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4568,\"sequenceNumber\":4569,\"timestamp\":1562187609481,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":57,\"contents\":{\"pos1\":262,\"seg\":\"7\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4570,\"sequenceNumber\":4571,\"timestamp\":1562187609622,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":59,\"contents\":{\"pos1\":263,\"seg\":\"n\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4572,\"sequenceNumber\":4573,\"timestamp\":1562187609700,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":61,\"contents\":{\"pos1\":264,\"seg\":\"y\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4574,\"sequenceNumber\":4575,\"timestamp\":1562187609856,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":63,\"contents\":{\"pos1\":265,\"seg\":\"b\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4576,\"sequenceNumber\":4577,\"timestamp\":1562187609950,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":65,\"contents\":{\"pos1\":266,\"seg\":\"k\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4578,\"sequenceNumber\":4579,\"timestamp\":1562187610019,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":67,\"contents\":{\"pos1\":267,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4580,\"sequenceNumber\":4581,\"timestamp\":1562187610140,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":70,\"contents\":{\"pos1\":268,\"seg\":\"y\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4582,\"sequenceNumber\":4583,\"timestamp\":1562187611187,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":72,\"contents\":{\"pos1\":269,\"seg\":\"a\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4584,\"sequenceNumber\":4585,\"timestamp\":1562187611406,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":74,\"contents\":{\"pos1\":270,\"seg\":\"o\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4586,\"sequenceNumber\":4587,\"timestamp\":1562187611577,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":76,\"contents\":{\"pos1\":271,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4588,\"sequenceNumber\":4589,\"timestamp\":1562187611781,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":78,\"contents\":{\"pos1\":272,\"seg\":\"y\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4590,\"sequenceNumber\":4591,\"timestamp\":1562187611843,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":80,\"contents\":{\"pos1\":273,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4592,\"sequenceNumber\":4593,\"timestamp\":1562187612031,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":82,\"contents\":{\"pos1\":274,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4594,\"sequenceNumber\":4595,\"timestamp\":1562187612218,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":84,\"contents\":{\"pos1\":275,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4596,\"sequenceNumber\":4597,\"timestamp\":1562187612296,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":86,\"contents\":{\"pos1\":276,\"seg\":\"h\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4598,\"sequenceNumber\":4599,\"timestamp\":1562187612390,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":89,\"contents\":{\"pos1\":278,\"seg\":{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"5f8b30a1-86f4-43f7-b010-bb20ac443079\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList75\"}}},\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4600,\"sequenceNumber\":4601,\"timestamp\":1562187613609,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":92,\"contents\":{\"pos1\":278,\"seg\":\"f\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4602,\"sequenceNumber\":4603,\"timestamp\":1562187618297,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":94,\"contents\":{\"pos1\":279,\"seg\":\"u\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4604,\"sequenceNumber\":4605,\"timestamp\":1562187618484,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":96,\"contents\":{\"pos1\":280,\"seg\":\"3\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4606,\"sequenceNumber\":4607,\"timestamp\":1562187618593,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":98,\"contents\":{\"pos1\":281,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4608,\"sequenceNumber\":4609,\"timestamp\":1562187618750,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":100,\"contents\":{\"pos1\":282,\"seg\":\"j\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4610,\"sequenceNumber\":4611,\"timestamp\":1562187618906,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":102,\"contents\":{\"pos1\":283,\"seg\":\"m\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4612,\"sequenceNumber\":4613,\"timestamp\":1562187619062,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":104,\"contents\":{\"pos1\":284,\"seg\":\"q\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4614,\"sequenceNumber\":4615,\"timestamp\":1562187619140,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":106,\"contents\":{\"pos1\":285,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4616,\"sequenceNumber\":4617,\"timestamp\":1562187619234,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":108,\"contents\":{\"pos1\":286,\"seg\":\"j\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4618,\"sequenceNumber\":4619,\"timestamp\":1562187619328,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":111,\"contents\":{\"pos1\":287,\"seg\":\"1\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4620,\"sequenceNumber\":4621,\"timestamp\":1562187620469,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":113,\"contents\":{\"pos1\":288,\"seg\":\"t\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4622,\"sequenceNumber\":4623,\"timestamp\":1562187620656,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":115,\"contents\":{\"pos1\":289,\"seg\":\"1\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4624,\"sequenceNumber\":4625,\"timestamp\":1562187620750,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":118,\"contents\":{\"pos1\":290,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4626,\"sequenceNumber\":4627,\"timestamp\":1562187621109,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":120,\"contents\":{\"pos1\":291,\"seg\":\"5\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4628,\"sequenceNumber\":4629,\"timestamp\":1562187621312,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":122,\"contents\":{\"pos1\":292,\"seg\":\"b\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4630,\"sequenceNumber\":4631,\"timestamp\":1562187621453,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":124,\"contents\":{\"pos1\":293,\"seg\":\"g\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4632,\"sequenceNumber\":4633,\"timestamp\":1562187621562,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":164,\"contents\":{\"pos1\":295,\"seg\":{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"209337a1-c7ae-4817-bfe6-221b550154ab\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList75\"}}},\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4635,\"sequenceNumber\":4636,\"timestamp\":1562187629518,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":167,\"contents\":{\"pos1\":295,\"seg\":\"x\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4637,\"sequenceNumber\":4638,\"timestamp\":1562187630300,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":169,\"contents\":{\"pos1\":296,\"seg\":\"o\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4639,\"sequenceNumber\":4640,\"timestamp\":1562187630410,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":171,\"contents\":{\"pos1\":297,\"seg\":\"a\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4641,\"sequenceNumber\":4642,\"timestamp\":1562187630503,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":173,\"contents\":{\"pos1\":298,\"seg\":\"o\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4643,\"sequenceNumber\":4644,\"timestamp\":1562187630582,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":175,\"contents\":{\"pos1\":299,\"seg\":\"q\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4645,\"sequenceNumber\":4646,\"timestamp\":1562187630628,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":178,\"contents\":{\"pos1\":300,\"seg\":\"g\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4647,\"sequenceNumber\":4648,\"timestamp\":1562187630910,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":180,\"contents\":{\"pos1\":301,\"seg\":\"g\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4649,\"sequenceNumber\":4650,\"timestamp\":1562187631082,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":182,\"contents\":{\"pos1\":302,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4651,\"sequenceNumber\":4652,\"timestamp\":1562187631144,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":184,\"contents\":{\"pos1\":303,\"seg\":\"p\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4653,\"sequenceNumber\":4654,\"timestamp\":1562187631238,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":186,\"contents\":{\"pos1\":304,\"seg\":\"i\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4655,\"sequenceNumber\":4656,\"timestamp\":1562187631332,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":188,\"contents\":{\"pos1\":305,\"seg\":\"j\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4657,\"sequenceNumber\":4658,\"timestamp\":1562187631410,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":190,\"contents\":{\"pos1\":306,\"seg\":\"j\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4659,\"sequenceNumber\":4660,\"timestamp\":1562187631519,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":192,\"contents\":{\"pos1\":307,\"seg\":\"g\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4661,\"sequenceNumber\":4662,\"timestamp\":1562187631644,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":194,\"contents\":{\"pos1\":308,\"seg\":\"9\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4663,\"sequenceNumber\":4664,\"timestamp\":1562187631753,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":197,\"contents\":{\"pos1\":309,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4665,\"sequenceNumber\":4666,\"timestamp\":1562187632300,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":199,\"contents\":{\"pos1\":310,\"seg\":\"b\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4667,\"sequenceNumber\":4668,\"timestamp\":1562187632394,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":201,\"contents\":{\"pos1\":311,\"seg\":\"z\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4669,\"sequenceNumber\":4670,\"timestamp\":1562187632503,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":203,\"contents\":{\"pos1\":312,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4671,\"sequenceNumber\":4672,\"timestamp\":1562187632613,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":205,\"contents\":{\"pos1\":313,\"seg\":\"w\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4673,\"sequenceNumber\":4674,\"timestamp\":1562187632722,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":207,\"contents\":{\"pos1\":314,\"seg\":\"w\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4675,\"sequenceNumber\":4676,\"timestamp\":1562187632769,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":209,\"contents\":{\"pos1\":315,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4677,\"sequenceNumber\":4678,\"timestamp\":1562187632863,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":211,\"contents\":{\"pos1\":316,\"seg\":\"m\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4679,\"sequenceNumber\":4680,\"timestamp\":1562187632988,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":213,\"contents\":{\"pos1\":317,\"seg\":\"e\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4681,\"sequenceNumber\":4682,\"timestamp\":1562187633099,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":215,\"contents\":{\"pos1\":318,\"seg\":\"5\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4683,\"sequenceNumber\":4684,\"timestamp\":1562187633239,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":217,\"contents\":{\"pos1\":319,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4685,\"sequenceNumber\":4686,\"timestamp\":1562187633458,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":219,\"contents\":{\"pos1\":320,\"seg\":\"z\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4687,\"sequenceNumber\":4688,\"timestamp\":1562187633552,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":221,\"contents\":{\"pos1\":321,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4689,\"sequenceNumber\":4690,\"timestamp\":1562187633661,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":223,\"contents\":{\"pos1\":322,\"seg\":\"y\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4691,\"sequenceNumber\":4692,\"timestamp\":1562187633739,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":225,\"contents\":{\"pos1\":323,\"seg\":\"j\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4693,\"sequenceNumber\":4694,\"timestamp\":1562187633911,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":227,\"contents\":{\"pos1\":324,\"seg\":\"i\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4695,\"sequenceNumber\":4696,\"timestamp\":1562187634021,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":229,\"contents\":{\"pos1\":325,\"seg\":\"3\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4697,\"sequenceNumber\":4698,\"timestamp\":1562187634208,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":231,\"contents\":{\"pos1\":326,\"seg\":\"n\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4699,\"sequenceNumber\":4700,\"timestamp\":1562187634364,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":233,\"contents\":{\"pos1\":327,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4701,\"sequenceNumber\":4702,\"timestamp\":1562187634458,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":235,\"contents\":{\"pos1\":328,\"seg\":\"t\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4703,\"sequenceNumber\":4704,\"timestamp\":1562187634536,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":237,\"contents\":{\"pos1\":329,\"seg\":\"k\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4705,\"sequenceNumber\":4706,\"timestamp\":1562187634682,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":239,\"contents\":{\"pos1\":330,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4707,\"sequenceNumber\":4708,\"timestamp\":1562187634871,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":241,\"contents\":{\"pos1\":331,\"seg\":\"c\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4709,\"sequenceNumber\":4710,\"timestamp\":1562187634979,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":243,\"contents\":{\"pos1\":332,\"seg\":\"z\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4711,\"sequenceNumber\":4712,\"timestamp\":1562187635073,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":245,\"contents\":{\"pos1\":333,\"seg\":\"f\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4713,\"sequenceNumber\":4714,\"timestamp\":1562187635182,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":247,\"contents\":{\"pos1\":334,\"seg\":\"l\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4715,\"sequenceNumber\":4716,\"timestamp\":1562187635276,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":249,\"contents\":{\"pos1\":335,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4717,\"sequenceNumber\":4718,\"timestamp\":1562187635432,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":253,\"contents\":{\"pos1\":335,\"pos2\":336,\"type\":1},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4720,\"sequenceNumber\":4721,\"timestamp\":1562187635854,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":254,\"contents\":{\"pos1\":335,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4721,\"sequenceNumber\":4722,\"timestamp\":1562187635979,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":256,\"contents\":{\"pos1\":336,\"seg\":\"p\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4723,\"sequenceNumber\":4724,\"timestamp\":1562187636136,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":258,\"contents\":{\"pos1\":337,\"seg\":\"g\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4725,\"sequenceNumber\":4726,\"timestamp\":1562187636323,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":260,\"contents\":{\"pos1\":338,\"seg\":\"d\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4727,\"sequenceNumber\":4728,\"timestamp\":1562187636401,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":262,\"contents\":{\"pos1\":339,\"seg\":\"d\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4729,\"sequenceNumber\":4730,\"timestamp\":1562187636604,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":264,\"contents\":{\"pos1\":340,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4731,\"sequenceNumber\":4732,\"timestamp\":1562187636620,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":267,\"contents\":{\"pos1\":341,\"seg\":\"d\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4733,\"sequenceNumber\":4734,\"timestamp\":1562187636948,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":269,\"contents\":{\"pos1\":342,\"seg\":\"8\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4735,\"sequenceNumber\":4736,\"timestamp\":1562187637152,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":271,\"contents\":{\"pos1\":343,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4737,\"sequenceNumber\":4738,\"timestamp\":1562187637246,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":273,\"contents\":{\"pos1\":344,\"seg\":\"8\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4739,\"sequenceNumber\":4740,\"timestamp\":1562187637480,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":275,\"contents\":{\"pos1\":345,\"seg\":\"9\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4741,\"sequenceNumber\":4742,\"timestamp\":1562187637621,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":278,\"contents\":{\"pos1\":346,\"seg\":\"7\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4743,\"sequenceNumber\":4744,\"timestamp\":1562187638027,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":280,\"contents\":{\"pos1\":347,\"seg\":\"u\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4745,\"sequenceNumber\":4746,\"timestamp\":1562187638168,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":282,\"contents\":{\"pos1\":348,\"seg\":\"a\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4747,\"sequenceNumber\":4748,\"timestamp\":1562187638261,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":284,\"contents\":{\"pos1\":349,\"seg\":\"f\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4749,\"sequenceNumber\":4750,\"timestamp\":1562187638340,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":286,\"contents\":{\"pos1\":350,\"seg\":\"m\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4751,\"sequenceNumber\":4752,\"timestamp\":1562187638418,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":288,\"contents\":{\"pos1\":351,\"seg\":\"u\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4753,\"sequenceNumber\":4754,\"timestamp\":1562187638621,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":290,\"contents\":{\"pos1\":352,\"seg\":\"l\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4755,\"sequenceNumber\":4756,\"timestamp\":1562187638684,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":292,\"contents\":{\"pos1\":353,\"seg\":\"w\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4757,\"sequenceNumber\":4758,\"timestamp\":1562187638777,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":294,\"contents\":{\"pos1\":354,\"seg\":\"a\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4759,\"sequenceNumber\":4760,\"timestamp\":1562187638855,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":302,\"contents\":{\"pos1\":287,\"pos2\":288,\"type\":1},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4764,\"sequenceNumber\":4765,\"timestamp\":1562187650259,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\",\"clientSequenceNumber\":304,\"contents\":{\"pos1\":287,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4765,\"sequenceNumber\":4766,\"timestamp\":1562187652859,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":210,\"contents\":{\"pos1\":277,\"pos2\":278,\"type\":1},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4884,\"sequenceNumber\":4885,\"timestamp\":1562188317227,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":211,\"contents\":{\"pos1\":248,\"pos2\":277,\"type\":1},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4885,\"sequenceNumber\":4886,\"timestamp\":1562188317227,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":215,\"contents\":{\"pos1\":248,\"seg\":{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"98368029-67c9-4c22-8f93-e3c9a6bb52b2\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList75\"}}},\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4887,\"sequenceNumber\":4888,\"timestamp\":1562188323275,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":218,\"contents\":{\"pos1\":248,\"seg\":\"n\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4889,\"sequenceNumber\":4890,\"timestamp\":1562188328716,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":220,\"contents\":{\"pos1\":249,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4891,\"sequenceNumber\":4892,\"timestamp\":1562188328951,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":222,\"contents\":{\"pos1\":250,\"seg\":\"t\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4893,\"sequenceNumber\":4894,\"timestamp\":1562188329123,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":224,\"contents\":{\"pos1\":251,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4895,\"sequenceNumber\":4896,\"timestamp\":1562188329310,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":226,\"contents\":{\"pos1\":252,\"seg\":\"5\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4897,\"sequenceNumber\":4898,\"timestamp\":1562188329388,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":228,\"contents\":{\"pos1\":253,\"seg\":\"k\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4899,\"sequenceNumber\":4900,\"timestamp\":1562188329607,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":230,\"contents\":{\"pos1\":254,\"seg\":\"j\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4901,\"sequenceNumber\":4902,\"timestamp\":1562188329748,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":232,\"contents\":{\"pos1\":255,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4903,\"sequenceNumber\":4904,\"timestamp\":1562188329841,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":234,\"contents\":{\"pos1\":256,\"seg\":\"o\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4905,\"sequenceNumber\":4906,\"timestamp\":1562188329982,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":236,\"contents\":{\"pos1\":257,\"seg\":\"7\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4907,\"sequenceNumber\":4908,\"timestamp\":1562188330013,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":238,\"contents\":{\"pos1\":258,\"seg\":\"b\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4909,\"sequenceNumber\":4910,\"timestamp\":1562188330107,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":241,\"contents\":{\"pos1\":259,\"seg\":\"c\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4911,\"sequenceNumber\":4912,\"timestamp\":1562188331170,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":243,\"contents\":{\"pos1\":260,\"seg\":\"n\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4913,\"sequenceNumber\":4914,\"timestamp\":1562188331295,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":245,\"contents\":{\"pos1\":261,\"seg\":\"8\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4915,\"sequenceNumber\":4916,\"timestamp\":1562188331405,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":247,\"contents\":{\"pos1\":262,\"seg\":\"4\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4917,\"sequenceNumber\":4918,\"timestamp\":1562188331576,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":249,\"contents\":{\"pos1\":263,\"seg\":\"u\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4919,\"sequenceNumber\":4920,\"timestamp\":1562188331686,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":251,\"contents\":{\"pos1\":264,\"seg\":\"t\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4921,\"sequenceNumber\":4922,\"timestamp\":1562188331795,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":253,\"contents\":{\"pos1\":265,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4923,\"sequenceNumber\":4924,\"timestamp\":1562188331905,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":255,\"contents\":{\"pos1\":266,\"seg\":\"0\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4925,\"sequenceNumber\":4926,\"timestamp\":1562188331983,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":257,\"contents\":{\"pos1\":267,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4927,\"sequenceNumber\":4928,\"timestamp\":1562188332248,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":259,\"contents\":{\"pos1\":268,\"seg\":\"d\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4929,\"sequenceNumber\":4930,\"timestamp\":1562188332436,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":261,\"contents\":{\"pos1\":269,\"seg\":\"v\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4931,\"sequenceNumber\":4932,\"timestamp\":1562188332576,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":263,\"contents\":{\"pos1\":270,\"seg\":\"7\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4933,\"sequenceNumber\":4934,\"timestamp\":1562188332733,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":265,\"contents\":{\"pos1\":271,\"seg\":\"5\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4935,\"sequenceNumber\":4936,\"timestamp\":1562188332826,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":268,\"contents\":{\"pos1\":272,\"seg\":\"6\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4937,\"sequenceNumber\":4938,\"timestamp\":1562188333780,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":271,\"contents\":{\"pos1\":273,\"seg\":\"f\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4939,\"sequenceNumber\":4940,\"timestamp\":1562188334076,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":273,\"contents\":{\"pos1\":274,\"seg\":\"4\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4941,\"sequenceNumber\":4942,\"timestamp\":1562188334342,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",\"clientSequenceNumber\":275,\"contents\":{\"pos1\":275,\"seg\":\"x\",\"type\":0},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4943,\"sequenceNumber\":4944,\"timestamp\":1562188334452,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":44,\"contents\":{\"pos1\":411,\"pos2\":431,\"props\":{\"styleName\":null,\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-0835-0000-000000000000}\":null,\"{00000000-0000-0836-0000-000000000000}\":null,\"{00000000-0000-2a48-0000-000000000000}\":0,\"{00000000-0000-4a4f-0000-000000000000}\":null,\"{00000000-0000-4a51-0000-000000000000}\":null,\"{00000000-0000-4a43-0000-000000000000}\":null,\"{00000000-0000-6870-0000-000000000000}\":null,\"{00000000-0000-2a0c-0000-000000000000}\":null},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4976,\"sequenceNumber\":4977,\"timestamp\":1562188499493,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":45,\"contents\":{\"pos1\":431,\"pos2\":432,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"bold\":false,\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4977,\"sequenceNumber\":4978,\"timestamp\":1562188499493,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":46,\"contents\":{\"pos1\":431,\"pos2\":432,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4978,\"sequenceNumber\":4979,\"timestamp\":1562188499493,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":47,\"contents\":{\"pos1\":431,\"pos2\":432,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4979,\"sequenceNumber\":4980,\"timestamp\":1562188499493,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":48,\"contents\":{\"pos1\":431,\"pos2\":432,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4980,\"sequenceNumber\":4981,\"timestamp\":1562188499493,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":52,\"contents\":{\"pos1\":3701,\"pos2\":3721,\"props\":{\"styleName\":null,\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-0835-0000-000000000000}\":null,\"{00000000-0000-0836-0000-000000000000}\":null,\"{00000000-0000-2a48-0000-000000000000}\":0,\"{00000000-0000-4a4f-0000-000000000000}\":null,\"{00000000-0000-4a51-0000-000000000000}\":null,\"{00000000-0000-4a43-0000-000000000000}\":null,\"{00000000-0000-6870-0000-000000000000}\":null,\"{00000000-0000-2a0c-0000-000000000000}\":null},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4982,\"sequenceNumber\":4983,\"timestamp\":1562188506384,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":53,\"contents\":{\"pos1\":3721,\"pos2\":3722,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"bold\":false,\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4983,\"sequenceNumber\":4984,\"timestamp\":1562188506384,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":54,\"contents\":{\"pos1\":3721,\"pos2\":3722,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"highlight\":\"\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4984,\"sequenceNumber\":4985,\"timestamp\":1562188506384,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":55,\"contents\":{\"pos1\":3721,\"pos2\":3722,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4985,\"sequenceNumber\":4986,\"timestamp\":1562188506384,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"920ecacf-ac18-42a6-828b-436b73105599\",\"clientSequenceNumber\":56,\"contents\":{\"pos1\":3721,\"pos2\":3722,\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}},\"type\":2},\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4986,\"sequenceNumber\":4987,\"timestamp\":1562188506384,\"traces\":[],\"type\":\"op\",\"term\":1}]",
+                            "encoding": "utf-8"
+                          }
+                        },
+                        {
+                          "path": "header",
+                          "mode": "100644",
+                          "type": "Blob",
+                          "value": {
+                            "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":175,\"chunkLengthChars\":4846,\"totalLengthChars\":4846,\"totalSegmentCount\":175,\"chunkSequenceNumber\":4068,\"segmentTexts\":[{\"text\":\"yzonda3pyvpdnavki43jmcq9ejb7lpywar5qb7zrp2guto0h0j\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":true,\"{00000000-0000-2a0c-0000-000000000000}\":\"\",\"{00000000-0000-2a3e-0000-000000000000}\":true,\"{00000000-0000-0837-0000-000000000000}\":false}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"0b2ce092-fcac-4a69-8a06-b75067b05dfb\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":true,\"highlight\":\"\"}}},{\"text\":\"ncvrn3sgmqrewogh5mtvhhsffou7i93 due to an SPO file format changeo\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"7e6fa238-1ac7-4abe-9915-4712730307a5\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"02325cf0-ed38-41e2-947f-f9eccab95bec\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},\"Agenda for 7/3/2019\",{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"249bf576-05f8-4f30-abe3-5d8114aa90e3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}}},\"Are the data loss bugs known/understood?\",{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"0a82c3a2-d74f-4ea1-a7ba-02d126d8efdf\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList58\"}}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"476f0794-cdbe-4df8-8261-15304486b9c5\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList58\"}}},{\"text\":\"Status Updates\",\"props\":{\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-2a48-0000-000000000000}\":0}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"84e821fc-9129-43fd-8d7b-283a5b4d809a\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 2\"}}},\"Compliance / GRC process is crystallizing\",{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"37d5dfaf-d80c-4cbd-951d-4992ec5dcd07\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList75\"}}},\"Ales sync \",{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"3d973f39-a5ed-4ddb-b8f8-9de6c0cc213e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList75\"}}},\"Bugs\",{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"8ff7c1f2-b319-4783-aec8-99024565769a\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 2\"}}},\"paragraph spacing doesn't have 8px bottom padding\",{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"7540d01b-78e8-4994-b5c6-714422f45437\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList0\"}}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"83de54ec-a6e7-4049-bde3-4505acc293a6\",\"ItemType\":\"Paragraph\",\"Properties\":{}}},{\"text\":\"aelbr8zs79ainpoa3q66\",\"props\":{\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-2a48-0000-000000000000}\":0}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6af05f09-0521-442d-be24-af723ca3721e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}}},{\"text\":\"5hn2ibx9ynsrd9kbde7zue6j45d0oqt6ehur8p6lrww9pttbj\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"9f93c982-c630-47d3-9a55-e7f9f295f68c\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"j0ewiix3fkgoqzxlrnrrsxlyjfjc3ayq5n8o6jqybdegld2c3ob0uj\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"06f9a905-551f-4a96-ab0a-e09bf601f2ed\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList43\"}}},{\"text\":\"7yrze7kxah\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"40bb7dba-d03a-4763-86c9-6e10c53eaeb1\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList43\"}}},{\"text\":\"1te6olnwd62lhf7fit\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"2e8f808a-be95-4295-9c61-68ed609d0e68\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList43\"}}},{\"text\":\"jk8smvl19i7577ixqysn4ld1piv6nc9p0fk25t74i14uoyozsa2wyqqr50mjohgbgq\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"7803c0f5-e1f8-4387-b5af-46ec97a0f928\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList43\"}}},{\"text\":\"apn7h0bjcp2c7x4w6zkvdb865auiizjuhav\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"a990da9a-d512-46a3-b594-ced8e76e52e8\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList43\"}}},{\"text\":\"ssqx2lyfxudzh2lh86z1nwtm94qp7muahtboxm85e7ta6s9adwgvoeb1k\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"1ba0e95d-90ec-4185-9e67-e8b6aaacd093\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList43\"}}},{\"text\":\"tb1vti3ed7u299o9c1l\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"c8e55946-b491-4e82-bbc4-5a570dd3c101\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList43\"}}},{\"text\":\"r6wp4o6zwrutqski8ivif\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"34c904d1-4bcc-4213-a181-7842c88496ce\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList43\"}}},{\"text\":\"aw0wepj6zx755e8fel469nan\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"30039ecc-e294-4c23-b34d-0723ac4f4c42\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList43\"}}},{\"text\":\"7d2jd32viwy\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"text\":\"cuul7boxs1ns\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":true,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"text\":\"qgczqmfykxipnil9uvp3vvdut65gn6pqvuul1gfysmo62hmg0a8no68nfd3ytr\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"a007c2ed-b84d-46b5-a9df-eebfd9903268\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList43\"}}},{\"text\":\"7a3b66ea6o364loxlvounfvllug52bbuqof\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"21984637-6015-4761-bd7d-1af6a1ae2280\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"ccj7djyqcor98lh6lrlpa2opvd2y66rt4780gh4k6nvpauhqdm6mvjjab8wvkv19kcw859b1h4h3jlak\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"708314f4-de6b-4310-8a50-b05b844c2b3a\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"j4u3vmp5aaj1s98akyo9hi33rdocyyckv8q2nmswqzmor9q43hme\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"587198bd-067a-41b0-933b-7b899db341ab\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"5t9a00imjcmrqmcxp2c37snvtnbbjymnfk6pgtt7h1u\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d97bf2c3-4ef3-49db-9d70-a12d6debf874\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"9oqg5og6s47sqsx4u6iqxax7rpmd0lfr9xlnv8kqy\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"text\":\"bsbc652a57827vepyqd3abyfdu829bmok2o22pyemxi88xfp98\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":true,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"text\":\"j😊\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"81c6347d-0fc4-4a4a-abcd-51378633ff1a\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"54kdvamv9jh1re0sgt3mspo3l4xfu1769el8zkqkhxos8y333kyf3mqoot1itclzrbdodbhy7p1acp20l3sagxs7dm50474pfo16n\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"26fed600-3a68-4d39-a1c7-87663e529234\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"4c8tfzdn99i8aqgwf5pjqqdlulhgql6r6hntqlzvumvxksopnkwtxgmftbl1mtt8kp1pq5w45id2kukcfw1eyxzae0gv8yd37k76f8\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"8d2fe749-6bb3-44d2-9f5a-42ecc829a0c4\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"c9ig9vugbyih8defdx5cion093z6d75wf1ixroadulvbar0pq3k2qso1e7ojlfyfhkzk9lyaewnwu2s4jrthxgrzuw2psj51ceh33mw\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"cc643c34-99a0-4505-905e-a286f0234762\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"vda6e4my7f8xfjmn9s6x5km3yadljzgno758dzd0tockbk5whakyqqfif2avyf5kqe8a99mamecadw5\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"35fa85d5-8f2d-48e6-99fe-9b3a1800cbb3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"yexx3t0gcftmsopey8msr90u\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"85b9316c-a132-435c-b96f-83c2289bd48f\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"d6jqi086u3n3kg79m0f9f\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d9cc141c-e2ce-424c-b840-eb7a9c368eeb\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"m95d7l412jh1uscstel1chafqwack49qazyd9kgujsxm6ovutjhlrpt8l2dzmd7t5xvl😊\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"75b0fcd8-b306-4b37-a1e6-a0e2914dcf06\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"vz8g77bp9wfj7le5agxrgt3moe8v9mhtzqrq77kxgah7kfcsdqbulvogg40mk4i8s5sbo5sl33lex3gxggpaohags78poh69rfcav212c5g650zutkq9z43lz0\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"964b916f-fb84-4452-b4a6-52841d947481\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"5w2twapirn327ps14ja46uqf3t😉\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":true,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"caf3296f-d2e4-4d5d-8e84-a53b55acbdc4\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-65\"}}},{\"text\":\"iqnjh9ow42lr7vabclthrfwm4he9dw89wer7o1q3ywafpxnfx9t00j0z552izvikoklsk3drvncnkps5iw\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6c363fe7-2d4e-48aa-9563-328723bbbbd4\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"yf2p3lbftgbc2i0rzoj6us3wkhpeu9f5lztngd7eepqeqielba9aaker5gerzckkaodmy76fm6wr2gglpv0b8crxfpezk4xboce13p7v3y6uewb2lk0o9sq5gzkrvhwp0x25ia34b\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"f6316d61-b47d-40a5-beb4-75843124f037\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-85\"}}},{\"text\":\"n91hnt1lmwa9xpwp0zpl39rc1frybr8wm9jo4t33p8ankck8smcamhst1mx5hh0sj8z6\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d7d9004d-26a4-42d3-998d-6fe8cf7d359c\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-85\"}}},{\"text\":\"6p430u5q8j43dbre3mdlyb2oowvklpq4mdlfvwqr283t4mdqm3myviyyvqys4vvpbh5ge963mgc9e6g8\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6cd86eb1-22df-4d0d-bf32-5759dd533793\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"gy3zszxcn2vjbuis6nnoj93sb2kjpq7\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"19babd91-5e6e-4332-8d93-3b14f94adc52\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"9gb1f8717upf9fcgmba9gmh3tbew4my3noahhveqxjs1s0hsbs9nxdsmnm3dk8bu4z8if13pdtyl\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"1fa38f18-2f1f-48ab-ba4d-a11e88d2a025\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList106\"}}},{\"text\":\"aegxz9\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"f401e123-a474-4f6b-9a6c-fe838d061067\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList106\"}}},{\"text\":\"mr4i85gglte1u8roacg2egfhaim4x3m9ova4gky9n8k7y66sp7ou58ai\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"9567a34a-936f-4ba0-b500-b61487cd1309\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"o16g1wfqrzi5a53xiqyoaap4kqbj8slsuo3nseggk\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"0491bda5-6de8-4209-aaca-20a27bb9f520\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"ql2npidex7ws5284a0g4p9vxaaq4mjn62261k4xchzrq8e96m6j0gvrnysdwfwvvhhk\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e6af2fee-b300-413b-ad01-11b89ef90e64\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"1tmjrtnp8\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"cac4cc64-5b90-4fb3-b407-2103d34d938f\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"ovrxyhpcpzuagpxn2562dlzpfpxeaqngkyrb98t7jgmyq97z4aowkcdouw636fpmgm1vih9kuwqaeio0p928x86sdtefxolpwx722iqvob4qh5rqdqplg7gyfei9h2fc3t6ei0tpasx\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"368c0eac-18ec-4ce9-adb4-9f0955ac4e62\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"yv9h1omc4on4xb02geg9dn1hwngjn6v7t613cejwdr\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d64e1acd-cf43-400f-bd81-1b928807c1f7\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"0m\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d69dec2f-02a2-43f4-b211-f449d43cbb67\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"8g2n\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"177f9184-26d6-46c8-858e-0cee779f202e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"zq8hbw2hv6\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"3f6a3204-717c-46f2-8376-950b8509b189\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"v3rvsjijzra8obmwyc19sowe4ogtsdkwngp5va4j6v49w8wnoxs\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"addf64f0-e526-45bf-aa98-63962fd02fd0\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"yv2jbd8ubwiuvfzptz5b4e325isvb09w8\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"873a7f82-b60f-462e-a980-4377f219758d\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"ofv23r7'0vgymigu3fep1esdws01dygnbi15z9yy7zwnrszi6oc3fbbzmgim1koy6vauyh3dbx7eg9duoxrmpj089vld38j8mgmhd9cy8dnq46ecz0b3vfuf2rpa4rtomk8jypmg77rfs8lklpt4o19by8iv5ttcs99hjpe8mrkjh3hzw7rdgyq9t\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"4026e428-b292-4a38-9057-2ba87c2e30f1\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList60\"}}},{\"text\":\"twbpns6s08tf6kq8ttqvpxix1ki6sz8mpetsoqz4dd\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"8989c881-644b-487e-9aa4-c53d36fbbeb6\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList60\"}}},{\"text\":\"advrmsw0ikv7827m2vhujlf0ztp9lpst5p\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7e0d6d7-e54d-4d5a-8875-0608b326a2bc\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList60\"}}},{\"text\":\"kyl96azqskauunt0f3ujsih4jsqiqsylycdpau2cpn9ephh5qr\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"c8b74a5d-d039-4646-81cd-c5f21c19b2af\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList60\"}}},{\"text\":\"26gkvkvp4m4qhligk3qbai41hb5xlrtt8r9gzihgca6u8p4uiod5oqivxyzfy5o0f5kjn8vfloddz3aqfquk0csajlaeaa9togacc2xp3xzm2pyunt18p3so\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"f07eeee9-0ab3-4561-9207-4cfc7ef90f85\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList60\"}}},{\"text\":\"ndvzx5j5x5kaxm07xph24lxigkvx8rc3sn60ggykr4vb20x6butjdvpagt5gc5xjuwy0ng20pcz9b2fkl6j7mbjfk9e9j7ib99un1yyy5jbhls\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"10c43455-3ef8-49e1-bfbd-c718653afea4\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList60\"}}},{\"text\":\"wi3o9mb\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d82c6e58-6b71-4da9-afd7-c4fc94d87718\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList90\"}}},{\"text\":\"ucblr0ir7p614wtxfyblxv9vetwzd3dm7k3atqxq68cbarkz2\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"ceb9cb91-cde2-421b-87cb-10ff5659f535\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList90\"}}},{\"text\":\"5zog2rntx36gbj0sw6e55vfbq6ne6oc9ax1qhuscg8uabdl4o5f29lgeclqoal36m6lkva9i884ub0wuif1r\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"2f6a75eb-ad3a-4d25-8039-0d026600e686\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":1,\"listId\":\"listRegistryList90\"}}},{\"text\":\"467fz3x3fuqffwhb98hsvcjsoe8pup\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"2cb01b20-d7c7-4cc9-bed2-5eea33eb02ac\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList90\"}}},{\"text\":\"4vday8nz54jnfvb6hhkp7fod30firw65mkfewoam2wwg537n2wmz9zg2u6405rok2s80kinw79qjirur2qlxqiir4zbk6pa0akhcn3s\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"32cb3ca0-149e-47f5-a5e6-0bbb3b1618fb\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\",\"listItemFormatIndex\":0,\"listId\":\"listRegistryList90\"}}},{\"text\":\"phurqhp41v9aq6nqpjflcfunxjdnlylm472dtuml11ajqakmm8h4r5vdimig3gqr73xmcfbb9\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e343982c-bfc2-40a8-ab5c-b60183ea6301\",\"ItemType\":\"Paragraph\",\"Properties\":{\"listItemFormatIndex\":0,\"listId\":\"listRegistryList90\"}}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"ceabe9b6-7f3d-40c5-9607-ae54f37ccf9a\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"jauwlk834zrex0nw1nhv\",\"props\":{\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-2a48-0000-000000000000}\":0}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"e7fbb97b-721f-4d11-a828-adfc2fc589b3\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 1\"}}},{\"text\":\"uqzsi4densste3jwfede3qag8f7qbgul49syy79supxhrcub7upl2pg8p76ytvqqrjrma07hhkdrf4\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"a1ecd47a-5d44-4bba-8a99-7a16c78699de\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"9l9tha9f4mrapn4d9ipcim50vr85x0jng0qjlu5uc8bemhr8lc8f28klbs8p22qbklspbvgs72ngh1366\",\"props\":{}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"0745775f-5934-4efc-b7e3-c343009340ee\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"listItemFormatIndex\":1,\"listId\":\"listRegistryList15\"}}},{\"text\":\"77bs5e1bh6ovg5hbzue9u3z7yty48a4iiowld2mn5kzznilcvu5vtez78i7gxuotsnllmpxr0b6efmm1m4m\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"09bbc11a-1655-48dd-b015-619af231ae45\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"k9wwh6lqzoic5ehqunoxl8oq0t4z96smj5dro009g9agr12ei68wugck8nk44eh674qgp0umifbe2gcjxqc0a7yj6xba3nln1la34mnvlrksq87ux5qr\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"d548c722-5bda-46dc-a8d4-cfb92254a164\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"hpur1spi7udenvpknarklb009z9fsridmjly8ycu6rwbmnw20dbui25q01\",\"props\":{}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"64179c9f-9f3a-4c36-97dd-1cc075beca35\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"listItemFormatIndex\":1,\"listId\":\"listRegistryList1\"}}},{\"text\":\"41eluqpilvloij9ma1xhsbe1sc2pdmeo2ym2vlek5w1jeo9nr53eor9d9qim\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"1dfd31cc-6d9d-44f1-b6a2-1715912adb38\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"gg8gfh44m\",\"props\":{}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"42548f66-1189-44c5-9852-47e8b0c368f1\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"listItemFormatIndex\":1,\"listId\":\"listRegistryList-67\"}}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"8cc783df-ad2d-477a-b567-fb152583eb36\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"z81d\",\"props\":{\"{00000000-0000-2a3e-0000-000000000000}\":false,\"{00000000-0000-0837-0000-000000000000}\":false,\"{00000000-0000-2a48-0000-000000000000}\":0}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"600b7ea1-bf89-4bee-8d3f-9f86397108b5\",\"ItemType\":\"Paragraph\",\"Properties\":{\"styleName\":\"Heading 2\"}}},{\"text\":\"t0q5gm1tlyi3sq2m8yxkif4zr5bv92f84jk7qvh25rtca7qnyh8asoctlxo6bmu0kj01bipn9ujugvs6iumxr84bghr4\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"ab2526bc-4678-4dda-8841-d5219eee9130\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"krctwpwj9ej9yebrcjb1ad73p9v512aghd22r9a3wxcdbs3dq7p3at73w39uub0tsf5g\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"60ab638a-df01-4ca9-b5fa-7c05ed57f094\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"d1u08rq3s9gqy9loaz4qzfgsulb4y9erpn366bzdj4bkn6przu7zplt8lwriz9kgro2pq0532t76dlerxg2x68rk2iac7wj8b3k16s9ewati4t6pkg0m9cs52rjaiewusunwfhp0jsl5ty632rs73i0erdb4kc9pr0bsnjj9czonamnnrmf\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"022d9d9a-4111-4f55-8cbd-b233b22441e6\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}},{\"text\":\"56metjf3qj8fa7ic5gxxpw1ploqocqwq8qz09euulg4fh34zm1vwh5\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"text\":\"5bh8alyt\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"#ffffff\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"6730a331-bd4c-4159-8b22-8b018311d34d\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"#ffffff\"}}},{\"text\":\"nz12wguqlldjtruewq98mi2ae6z3i8pdg60vp7zmgljaaeaoc63u7g1v68jup6gbia3m7\",\"props\":{}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"813f299e-6edc-4237-8a3c-8679536a0ade\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"listItemFormatIndex\":0,\"listId\":\"listRegistryList-115\"}}},{\"text\":\"ljye5vvbkquzcq8r6j196x7qwbyeioa5qpo9nqkdupr\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"\"}},{\"text\":\"c6y7kstm\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"#ffffff\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"aba0b857-2744-4a0b-b670-f8228e256418\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"#ffffff\"}}},{\"text\":\"0o3g1wf0q1detuzcxvubig60rn97okge8jzadnrlvcbib31zxzupgedpu6le9hnookntmsmofoy\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"#ffffff\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"fbbcf004-ea50-48eb-bbc6-7d18f4edc98e\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"#ffffff\"}}},{\"text\":\"ad0fywdvpfd05bptk6st7557xuzy60r7q3qscniub0qu76juhqafffd2t7kgqnw87jtrtocymzj297knywsc3xad2fe5ckpdj63bsfp4m2fja739x8da5134tpkgymjvq\",\"props\":{\"{00000000-0000-0835-0000-000000000000}\":false,\"{00000000-0000-2a0c-0000-000000000000}\":\"#ffffff\"}},{\"marker\":{\"refType\":1},\"props\":{\"referenceTileLabels\":[\"Eop\"],\"markerId\":\"cfa97c2f-7766-4123-acbd-bbc68bf7fc31\",\"ItemType\":\"Paragraph\",\"Properties\":{\"isRtl\":false,\"bold\":false,\"highlight\":\"\"}}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":4068,\"totalLength\":4846,\"totalSegmentCount\":175}}",
+                            "encoding": "utf-8"
+                          }
+                        }
+                      ]
+                    },
+                    "mode": "040000",
+                    "type": "Tree"
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"intervalCollections\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\"}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            },
+            {
+              "path": "gc",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\",\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\",\"/defaultComponent\"],\"/2aaed5f1-497c-4041-925c-18504127df54\":[\"/defaultComponent\"],\"/d87479a6-14f5-4891-b493-4a8229c9c7ab\":[\"/defaultComponent\"],\"/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\":[\"/defaultComponent\"],\"/ecb7d730-cc68-4ab8-9bea-ad24324f9009\":[\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\",\"/defaultComponent\"],\"/0aadefc0-1c16-47e9-931c-61a73b5b1e79\":[\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\",\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\",\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\",\"/defaultComponent\"],\"/c5c35926-1ae1-4bd1-a386-048660e066a7\":[\"/defaultComponent\"],\"/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\":[\"/defaultComponent\"],\"/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\":[\"/defaultComponent\"],\"/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\":[\"/defaultComponent\"],\"/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\":[\"/defaultComponent\"],\"/8728822b-5a61-4837-b6e2-74288cc47c80\":[\"/defaultComponent\"],\"/85a5c79c-79d1-47b5-8998-5379b0e1aad7\":[\"/defaultComponent\"],\"/773470ad-42cf-4a7c-8c3e-485291c43de6\":[\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\",\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\",\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\",\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\",\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\",\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\",\"/defaultComponent/a8c66d5f-c0f6-44dc-a3af-a7a19c65dc41\",\"/defaultComponent/af74c154-8e24-4fc9-9ce9-2724c2bdeb26\",\"/defaultComponent/8f4ba7fc-1526-4700-bab9-09d25d9ae7dc\",\"/defaultComponent/46d5d03a-7b0c-44e9-8e78-e96a4204d42f\",\"/defaultComponent/0ad77daf-c3e8-4114-9152-375e1e520779\",\"/defaultComponent/661cc644-2445-498f-9ad6-496501ca8945\",\"/defaultComponent/2be13d6e-a695-4591-82d8-f92d34a88bdc\",\"/defaultComponent\"],\"/9ab56c68-a11e-4746-a080-f3d7b7955e2b\":[\"/defaultComponent\"],\"/21706f58-9558-4814-a2c8-776bf9f0fc6d\":[\"/defaultComponent\"],\"/c47d890b-d81a-4bf0-a002-9c12023a4d4f\":[\"/defaultComponent\"],\"/33632013-873c-42ee-900a-14589f988d07\":[\"/defaultComponent\"],\"/030a1b44-7d52-4806-8839-0711b4d13c76\":[\"/defaultComponent\"],\"/d46facec-1e69-4fe7-8f36-c78aedb277eb\":[\"/defaultComponent\"],\"/0057afd4-13a7-4307-b72f-b2ae569580f0\":[\"/defaultComponent\"],\"/1986cc6a-3ad7-4188-88cc-b9b10276fda8\":[\"/defaultComponent\"],\"/73121fb4-acb5-4896-a1f6-ce50fa3d991b\":[\"/defaultComponent\"],\"/ae92b7cd-2328-49b3-879b-06dbf761eb6b\":[\"/defaultComponent\"],\"/b514202e-232c-499d-9284-64ad9bf3c9c8\":[\"/defaultComponent\"],\"/48e838d8-68d4-4062-a2ef-62424910e440\":[\"/defaultComponent\"],\"/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\":[\"/defaultComponent\"],\"/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\":[\"/defaultComponent\"],\"/a8c66d5f-c0f6-44dc-a3af-a7a19c65dc41\":[\"/defaultComponent\"],\"/af74c154-8e24-4fc9-9ce9-2724c2bdeb26\":[\"/defaultComponent\"],\"/8f4ba7fc-1526-4700-bab9-09d25d9ae7dc\":[\"/defaultComponent\"],\"/46d5d03a-7b0c-44e9-8e78-e96a4204d42f\":[\"/defaultComponent\"],\"/0ad77daf-c3e8-4114-9152-375e1e520779\":[\"/defaultComponent\"],\"/661cc644-2445-498f-9ad6-496501ca8945\":[\"/defaultComponent\"],\"/2be13d6e-a695-4591-82d8-f92d34a88bdc\":[\"/defaultComponent\"],\"/\":[\"/defaultComponent/root\",\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\",\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\",\"/defaultComponent/199ded11-9f44-4cb6-94ca-fc70d8ef24f5\",\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\",\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\",\"/defaultComponent/c5c35926-1ae1-4bd1-a386-048660e066a7\",\"/defaultComponent/53d9cccf-d1ac-4aa0-bf28-c827fda78ef1\",\"/defaultComponent/4f8809c2-0a71-46b1-ace5-8e7f1a78ff0a\",\"/defaultComponent/3b03f95c-5b3e-4004-8dc6-826b3cf1ed44\",\"/defaultComponent/a70c0d5f-55c1-4d0d-b42a-b28b547187d2\",\"/defaultComponent/8728822b-5a61-4837-b6e2-74288cc47c80\",\"/defaultComponent/85a5c79c-79d1-47b5-8998-5379b0e1aad7\",\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\",\"/defaultComponent/9ab56c68-a11e-4746-a080-f3d7b7955e2b\",\"/defaultComponent/21706f58-9558-4814-a2c8-776bf9f0fc6d\",\"/defaultComponent/c47d890b-d81a-4bf0-a002-9c12023a4d4f\",\"/defaultComponent/33632013-873c-42ee-900a-14589f988d07\",\"/defaultComponent/030a1b44-7d52-4806-8839-0711b4d13c76\",\"/defaultComponent/d46facec-1e69-4fe7-8f36-c78aedb277eb\",\"/defaultComponent/0057afd4-13a7-4307-b72f-b2ae569580f0\",\"/defaultComponent/1986cc6a-3ad7-4188-88cc-b9b10276fda8\",\"/defaultComponent/73121fb4-acb5-4896-a1f6-ce50fa3d991b\",\"/defaultComponent/ae92b7cd-2328-49b3-879b-06dbf761eb6b\",\"/defaultComponent/b514202e-232c-499d-9284-64ad9bf3c9c8\",\"/defaultComponent/48e838d8-68d4-4062-a2ef-62424910e440\",\"/defaultComponent/ca23fb91-3ca3-4858-8fe9-b14fa4321d10\",\"/defaultComponent/a3ef7361-ef3f-418d-926d-f8fa3b8d3a4f\",\"/defaultComponent/a8c66d5f-c0f6-44dc-a3af-a7a19c65dc41\",\"/defaultComponent/af74c154-8e24-4fc9-9ce9-2724c2bdeb26\",\"/defaultComponent/8f4ba7fc-1526-4700-bab9-09d25d9ae7dc\",\"/defaultComponent/46d5d03a-7b0c-44e9-8e78-e96a4204d42f\",\"/defaultComponent/0ad77daf-c3e8-4114-9152-375e1e520779\",\"/defaultComponent/661cc644-2445-498f-9ad6-496501ca8945\",\"/defaultComponent/2be13d6e-a695-4591-82d8-f92d34a88bdc\"]}}}",
+                "encoding": "utf-8"
+              }
+            },
+            {
+              "path": "root",
+              "value": {
+                "entries": [
+                  {
+                    "path": ".attributes",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.36.0\"}",
+                      "encoding": "utf-8"
+                    }
+                  },
+                  {
+                    "path": "header",
+                    "mode": "100644",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"blobs\":[],\"content\":{\"presence\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/2aaed5f1-497c-4041-925c-18504127df54\"}},\"language\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/d87479a6-14f5-4891-b493-4a8229c9c7ab\"}},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/ecb7d730-cc68-4ab8-9bea-ad24324f9009\"}},\"text.ItemType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"endOfKeys\":{\"type\":\"Plain\",\"value\":true},\"text.documentStyleRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0aadefc0-1c16-47e9-931c-61a73b5b1e79\"}},\"text.documentListRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/773470ad-42cf-4a7c-8c3e-485291c43de6\"}}}}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              },
+              "mode": "040000",
+              "type": "Tree"
+            }
+          ]
+        },
+        "mode": "040000",
+        "type": "Tree"
+      },
+      {
+        "mode": "100644",
+        "path": "quorumMembers",
+        "type": "Blob",
+        "value": {
+          "contents": "[[\"06b48de8-ee84-4028-856a-ac6e860654ca\",{\"client\":{\"user\":{\"id\":\"7uynw9ggi@example.com}\",\"name\":\"3zfu8eca4pj4zhi\",\"email\":\"zac6kbd1i@example.com}\"}},\"sequenceNumber\":3553}],[\"4c467f5d-2e96-4961-896e-b90a67386c48\",{\"client\":{\"user\":{\"id\":\"rl6mk6lph@example.com}\",\"name\":\"j18jcxicufp56r2\",\"email\":\"64qao1gr1@example.com}\"}},\"sequenceNumber\":4039}],[\"55650c1d-99b3-4a73-9fcf-854770796c68\",{\"client\":{\"user\":{\"id\":\"aiyycx7fh@example.com}\",\"name\":\"lpkpg49jbxnao6g\",\"email\":\"snv0630zc@example.com}\"}},\"sequenceNumber\":4052}],[\"9b782ec3-cf63-49bd-a6de-896c121d6f69\",{\"client\":{\"user\":{\"id\":\"6ns6a2z0m@example.com}\",\"name\":\"j9p80mtaucpa9gq\",\"email\":\"xa72r4kao@example.com}\"}},\"sequenceNumber\":4069}],[\"e3b97299-ae83-4bda-bce2-e970e0c22d53\",{\"client\":{\"user\":{\"id\":\"lsynyqq5i@example.com}\",\"name\":\"vrz7t8o15as4sox\",\"email\":\"d2wpb1138@example.com}\"}},\"sequenceNumber\":4524}],[\"061c803f-727c-4b5b-b9b4-865892dd3d58\",{\"client\":{\"user\":{\"id\":\"zl8mdon5u@example.com}\",\"name\":\"7m73fy8fy1620s4\",\"email\":\"2e5ylmcv0@example.com}\"}},\"sequenceNumber\":4965}],[\"2e4209f5-3ff2-4b5d-9c25-c16322a1c49a\",{\"client\":{\"user\":{\"id\":\"mi05agm78@example.com}\",\"name\":\"2qigofx4wfbfzia\",\"email\":\"1n8npatpl@example.com}\"}},\"sequenceNumber\":4974}]]",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": "quorumProposals",
+        "type": "Blob",
+        "value": {
+          "contents": "[[4071,{\"sequenceNumber\":4071,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4074,{\"sequenceNumber\":4074,\"key\":\"leader\",\"value\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\"},[]],[4076,{\"sequenceNumber\":4076,\"key\":\"leader\",\"value\":\"ba25744a-c24b-451c-9ce0-6101d1afc67e\"},[]],[4078,{\"sequenceNumber\":4078,\"key\":\"leader\",\"value\":\"606172e5-4114-4fca-a014-44f6f72b41f6\"},[]],[4478,{\"sequenceNumber\":4478,\"key\":\"leader\",\"value\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\"},[]],[4479,{\"sequenceNumber\":4479,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4480,{\"sequenceNumber\":4480,\"key\":\"leader\",\"value\":\"ba25744a-c24b-451c-9ce0-6101d1afc67e\"},[]],[4482,{\"sequenceNumber\":4482,\"key\":\"leader\",\"value\":\"95ff6ab7-d4cd-4bf1-817b-b6d13ec5bc6a\"},[]],[4521,{\"sequenceNumber\":4521,\"key\":\"leader\",\"value\":\"ba25744a-c24b-451c-9ce0-6101d1afc67e\"},[]],[4522,{\"sequenceNumber\":4522,\"key\":\"leader\",\"value\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\"},[]],[4523,{\"sequenceNumber\":4523,\"key\":\"leader\",\"value\":\"95ff6ab7-d4cd-4bf1-817b-b6d13ec5bc6a\"},[]],[4529,{\"sequenceNumber\":4529,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4530,{\"sequenceNumber\":4530,\"key\":\"leader\",\"value\":\"95ff6ab7-d4cd-4bf1-817b-b6d13ec5bc6a\"},[]],[4531,{\"sequenceNumber\":4531,\"key\":\"leader\",\"value\":\"48ac56f1-1219-464e-9e24-eac7e2c8d898\"},[]],[4533,{\"sequenceNumber\":4533,\"key\":\"leader\",\"value\":\"c1cbd0ed-ba6d-4a4f-a09a-9476cc3c9bd1\"},[]],[4791,{\"sequenceNumber\":4791,\"key\":\"leader\",\"value\":\"95ff6ab7-d4cd-4bf1-817b-b6d13ec5bc6a\"},[]],[4792,{\"sequenceNumber\":4792,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4793,{\"sequenceNumber\":4793,\"key\":\"leader\",\"value\":\"c1cbd0ed-ba6d-4a4f-a09a-9476cc3c9bd1\"},[]],[4795,{\"sequenceNumber\":4795,\"key\":\"leader\",\"value\":\"f1bebf46-f4e2-4d3e-98eb-6d15afb759bc\"},[]],[4864,{\"sequenceNumber\":4864,\"key\":\"leader\",\"value\":\"f1bebf46-f4e2-4d3e-98eb-6d15afb759bc\"},[]],[4865,{\"sequenceNumber\":4865,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4866,{\"sequenceNumber\":4866,\"key\":\"leader\",\"value\":\"c1cbd0ed-ba6d-4a4f-a09a-9476cc3c9bd1\"},[]],[4868,{\"sequenceNumber\":4868,\"key\":\"leader\",\"value\":\"920ecacf-ac18-42a6-828b-436b73105599\"},[]],[4872,{\"sequenceNumber\":4872,\"key\":\"leader\",\"value\":\"c1cbd0ed-ba6d-4a4f-a09a-9476cc3c9bd1\"},[]],[4873,{\"sequenceNumber\":4873,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4874,{\"sequenceNumber\":4874,\"key\":\"leader\",\"value\":\"920ecacf-ac18-42a6-828b-436b73105599\"},[]],[4949,{\"sequenceNumber\":4949,\"key\":\"leader\",\"value\":\"920ecacf-ac18-42a6-828b-436b73105599\"},[]],[4950,{\"sequenceNumber\":4950,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4952,{\"sequenceNumber\":4952,\"key\":\"leader\",\"value\":\"8f8b80c7-a17e-4061-ab6f-74441a856cd7\"},[]],[4956,{\"sequenceNumber\":4956,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4957,{\"sequenceNumber\":4957,\"key\":\"leader\",\"value\":\"920ecacf-ac18-42a6-828b-436b73105599\"},[]],[4959,{\"sequenceNumber\":4959,\"key\":\"leader\",\"value\":\"07e7817c-eb6e-4265-bb41-ccb4d408be09\"},[]],[4963,{\"sequenceNumber\":4963,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4964,{\"sequenceNumber\":4964,\"key\":\"leader\",\"value\":\"920ecacf-ac18-42a6-828b-436b73105599\"},[]],[4967,{\"sequenceNumber\":4967,\"key\":\"leader\",\"value\":\"05a16c21-d6c1-4d5d-890d-cc547b4bd8e8\"},[]],[4971,{\"sequenceNumber\":4971,\"key\":\"leader\",\"value\":\"f1bebf46-f4e2-4d3e-98eb-6d15afb759bc\"},[]],[4972,{\"sequenceNumber\":4972,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4973,{\"sequenceNumber\":4973,\"key\":\"leader\",\"value\":\"920ecacf-ac18-42a6-828b-436b73105599\"},[]],[4975,{\"sequenceNumber\":4975,\"key\":\"leader\",\"value\":\"2e4209f5-3ff2-4b5d-9c25-c16322a1c49a\"},[]],[4991,{\"sequenceNumber\":4991,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[4992,{\"sequenceNumber\":4992,\"key\":\"leader\",\"value\":\"f1bebf46-f4e2-4d3e-98eb-6d15afb759bc\"},[]],[4993,{\"sequenceNumber\":4993,\"key\":\"leader\",\"value\":\"2e4209f5-3ff2-4b5d-9c25-c16322a1c49a\"},[]],[4995,{\"sequenceNumber\":4995,\"key\":\"leader\",\"value\":\"832e244d-8ddb-4b8a-bc05-b6553f2e299f\"},[]],[4999,{\"sequenceNumber\":4999,\"key\":\"leader\",\"value\":\"f4de0fce-ee06-42a8-af33-93b32b4239e4\"},[]],[5000,{\"sequenceNumber\":5000,\"key\":\"leader\",\"value\":\"f1bebf46-f4e2-4d3e-98eb-6d15afb759bc\"},[]]]",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": "quorumValues",
+        "type": "Blob",
+        "value": {
+          "contents": "[[\"code2\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code2\",\"sequenceNumber\":2,\"value\":\"@ms/office-prague-container\"}],[\"leader\",{\"approvalSequenceNumber\":4067,\"commitSequenceNumber\":4068,\"key\":\"leader\",\"sequenceNumber\":4066,\"value\":\"0cae86db-99e8-4229-88d3-b2f8d2ea1462\"}]]",
+          "encoding": "utf-8"
+        }
+      }
+    ]
+  },
+  "commits": {}
+}
