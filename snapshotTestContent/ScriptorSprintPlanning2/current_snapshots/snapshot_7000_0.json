@@ -41,7 +41,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -50,7 +50,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{}}",
+                      "contents": "{\"absolutePath\":\"/atMentions/instances\",\"blobs\":[],\"content\":{}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -113,7 +113,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -122,7 +122,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Heading 1\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Segoe UI SemiBold\"},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":24},\"propertiespaddingBottom\":{\"type\":\"Plain\",\"value\":15},\"propertiespaddingTop\":{\"type\":\"Plain\",\"value\":12},\"propertiesrole\":{\"type\":\"Plain\",\"value\":\"heading\"},\"propertiesariaLevel\":{\"type\":\"Plain\",\"value\":\"1\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/0651ef88-e35b-4d6c-9897-b78508e72e32\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Heading 1\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Segoe UI SemiBold\"},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":24},\"propertiespaddingBottom\":{\"type\":\"Plain\",\"value\":15},\"propertiespaddingTop\":{\"type\":\"Plain\",\"value\":12},\"propertiesrole\":{\"type\":\"Plain\",\"value\":\"heading\"},\"propertiesariaLevel\":{\"type\":\"Plain\",\"value\":\"1\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -140,7 +140,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -149,7 +149,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Title\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Calibri Light\"},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":28}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/0dc9d556-625f-471a-9ff9-3cb653f51994\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Title\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Calibri Light\"},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":28}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -167,7 +167,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -176,7 +176,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Body\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"defaultStyle\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/1726e8ac-a0fa-404a-8f90-355f03d06e51\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Body\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"defaultStyle\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -194,7 +194,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -203,7 +203,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-45\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/26e122fd-1da7-4d87-a76b-1b9e62ecb135\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-45\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -221,7 +221,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -230,7 +230,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-110\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/27ca1ad1-988c-4329-87db-4e9e63766937\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-110\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -248,7 +248,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -257,7 +257,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"e35ae945-9dce-4405-8bcb-f3b053e0827e\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":500,\"refSeqNumber\":213}},\"976fa0a2-a2a5-4db4-8725-6ad03c2e9b8c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":263}},\"982e744b-8a18-4c91-9502-36784797501f\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":273}},\"5991044c-134f-4419-b21d-663b022ee823\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":289}},\"5991e18a-fd0f-4acc-81a8-512c17c15d44\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":341}},\"caff9589-9475-42dc-98b0-d2ed3fef2a95\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":1292,\"refSeqNumber\":5394}},\"9ae8ce60-7cc4-4bf0-b444-50c460e4cb04\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5454}},\"f89c5fda-6918-4e68-856f-88968b4591ea\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":1292,\"refSeqNumber\":5497}},\"9d9a0e8d-ce0a-44be-a1b3-9bd935dcbe17\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5574}},\"63461457-31ec-4fb3-90b6-2136da1db4e1\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5585}},\"91d33a60-4934-422a-9d89-607f80433a0c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":206,\"refSeqNumber\":5754}},\"ec9a25c3-d7ad-4902-81d6-89e2e8f904c2\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5399}},\"a87adae8-3c20-45e7-bd5c-96a65787c2ff\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":402,\"refSeqNumber\":6631}},\"07721ac6-a004-4b41-b408-9076d07941c5\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6458}},\"cfaaed4f-c773-4c30-bffd-9399ca76777c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6652}},\"e825eb7d-00c4-4475-81d4-7c09476ba95a\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6815}},\"f1099007-8283-4cf0-8d58-2fd379f6482c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6918}}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/38d6f6f7-b638-45fe-857b-4a37a48d40f5\",\"blobs\":[],\"content\":{\"e35ae945-9dce-4405-8bcb-f3b053e0827e\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":500,\"refSeqNumber\":213}},\"976fa0a2-a2a5-4db4-8725-6ad03c2e9b8c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":263}},\"982e744b-8a18-4c91-9502-36784797501f\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":273}},\"5991044c-134f-4419-b21d-663b022ee823\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":289}},\"5991e18a-fd0f-4acc-81a8-512c17c15d44\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":341}},\"caff9589-9475-42dc-98b0-d2ed3fef2a95\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":1292,\"refSeqNumber\":5394}},\"9ae8ce60-7cc4-4bf0-b444-50c460e4cb04\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5454}},\"f89c5fda-6918-4e68-856f-88968b4591ea\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":1292,\"refSeqNumber\":5497}},\"9d9a0e8d-ce0a-44be-a1b3-9bd935dcbe17\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5574}},\"63461457-31ec-4fb3-90b6-2136da1db4e1\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5585}},\"91d33a60-4934-422a-9d89-607f80433a0c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":206,\"refSeqNumber\":5754}},\"ec9a25c3-d7ad-4902-81d6-89e2e8f904c2\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":5399}},\"a87adae8-3c20-45e7-bd5c-96a65787c2ff\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":402,\"refSeqNumber\":6631}},\"07721ac6-a004-4b41-b408-9076d07941c5\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6458}},\"cfaaed4f-c773-4c30-bffd-9399ca76777c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6652}},\"e825eb7d-00c4-4475-81d4-7c09476ba95a\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6815}},\"f1099007-8283-4cf0-8d58-2fd379f6482c\":{\"type\":\"Plain\",\"value\":{\"type\":\"selection\",\"origMark\":-1,\"pos\":0,\"refSeqNumber\":6918}}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -275,7 +275,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -320,7 +320,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -329,7 +329,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-97\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/64e54950-4954-484d-879e-506ffd2d369f\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-97\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -347,7 +347,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -356,7 +356,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Strong\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"character\"},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/6e7bc915-72a8-4ae3-a993-c7764b106601\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Strong\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"character\"},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -374,7 +374,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -383,7 +383,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-126\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/714e3953-2425-44b0-ac20-c47bcb0b1669\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-126\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -401,7 +401,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -410,7 +410,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Heading 2\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Segoe UI\"},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":18},\"propertiesfontColor\":{\"type\":\"Plain\",\"value\":\"#484644\"},\"propertiespaddingBottom\":{\"type\":\"Plain\",\"value\":15},\"propertiespaddingTop\":{\"type\":\"Plain\",\"value\":12},\"propertiesrole\":{\"type\":\"Plain\",\"value\":\"heading\"},\"propertiesariaLevel\":{\"type\":\"Plain\",\"value\":\"2\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/84dc0b8d-e03a-442e-8b8e-6851c341e669\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Heading 2\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"paragraph\"},\"propertiesfontName\":{\"type\":\"Plain\",\"value\":\"Segoe UI\"},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true},\"propertiesfontSize\":{\"type\":\"Plain\",\"value\":18},\"propertiesfontColor\":{\"type\":\"Plain\",\"value\":\"#484644\"},\"propertiespaddingBottom\":{\"type\":\"Plain\",\"value\":15},\"propertiespaddingTop\":{\"type\":\"Plain\",\"value\":12},\"propertiesrole\":{\"type\":\"Plain\",\"value\":\"heading\"},\"propertiesariaLevel\":{\"type\":\"Plain\",\"value\":\"2\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -428,7 +428,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -437,7 +437,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"},\"styleRegistryStyleHeading 1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0651ef88-e35b-4d6c-9897-b78508e72e32\"}},\"styleRegistryStyleHeading 2\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/84dc0b8d-e03a-442e-8b8e-6851c341e669\"}},\"styleRegistryStyleBody\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/1726e8ac-a0fa-404a-8f90-355f03d06e51\"}},\"styleRegistryStyleStrong\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/6e7bc915-72a8-4ae3-a993-c7764b106601\"}},\"styleRegistryStyleEmphasis\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/fb8817a0-c927-40f2-8169-9744d854c57f\"}},\"styleRegistryStyleTitle\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0dc9d556-625f-471a-9ff9-3cb653f51994\"}},\"styleRegistryStyleFixed Table\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/dd866d7f-b49d-441b-b53e-02bdca4add8e\"}}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/9f32d0fa-a487-4235-8e8f-dadcfdb00bc6\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"},\"styleRegistryStyleHeading 1\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0651ef88-e35b-4d6c-9897-b78508e72e32\"}},\"styleRegistryStyleHeading 2\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/84dc0b8d-e03a-442e-8b8e-6851c341e669\"}},\"styleRegistryStyleBody\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/1726e8ac-a0fa-404a-8f90-355f03d06e51\"}},\"styleRegistryStyleStrong\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/6e7bc915-72a8-4ae3-a993-c7764b106601\"}},\"styleRegistryStyleEmphasis\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/fb8817a0-c927-40f2-8169-9744d854c57f\"}},\"styleRegistryStyleTitle\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/0dc9d556-625f-471a-9ff9-3cb653f51994\"}},\"styleRegistryStyleFixed Table\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/dd866d7f-b49d-441b-b53e-02bdca4add8e\"}}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -455,7 +455,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -464,7 +464,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList33\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/aa7af431-0fe2-44a6-bc92-27039519650c\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList33\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -482,7 +482,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -491,7 +491,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-66\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/abf5a46b-e265-4cfb-ba07-eedb2256f13a\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-66\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -509,7 +509,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -518,7 +518,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-22\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/b3005bd3-6996-40a5-8e5c-339bc437f9ab\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList-22\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -536,7 +536,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -545,7 +545,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Fixed Table\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"table\"},\"propertiestableColumnWidth\":{\"type\":\"Plain\",\"value\":100},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/dd866d7f-b49d-441b-b53e-02bdca4add8e\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Fixed Table\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"table\"},\"propertiestableColumnWidth\":{\"type\":\"Plain\",\"value\":100},\"propertiesbold\":{\"type\":\"Plain\",\"value\":true}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -563,7 +563,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -572,7 +572,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/df5eb3d6-885a-4049-93aa-40557d8a9412\",\"blobs\":[],\"content\":{}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -590,7 +590,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -599,7 +599,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"listRegistryList33\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/aa7af431-0fe2-44a6-bc92-27039519650c\"}},\"listRegistryList61\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/e9fd108c-6d06-43b7-ad60-8d5751784227\"}},\"listRegistryList-66\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/abf5a46b-e265-4cfb-ba07-eedb2256f13a\"}},\"listRegistryList-126\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/714e3953-2425-44b0-ac20-c47bcb0b1669\"}},\"listRegistryList-97\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/64e54950-4954-484d-879e-506ffd2d369f\"}},\"listRegistryList-45\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/26e122fd-1da7-4d87-a76b-1b9e62ecb135\"}},\"listRegistryList-22\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/b3005bd3-6996-40a5-8e5c-339bc437f9ab\"}},\"listRegistryList-110\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/27ca1ad1-988c-4329-87db-4e9e63766937\"}}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/e656101e-230f-4d46-85b5-ac529a07d7ce\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"listRegistryList33\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/aa7af431-0fe2-44a6-bc92-27039519650c\"}},\"listRegistryList61\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/e9fd108c-6d06-43b7-ad60-8d5751784227\"}},\"listRegistryList-66\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/abf5a46b-e265-4cfb-ba07-eedb2256f13a\"}},\"listRegistryList-126\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/714e3953-2425-44b0-ac20-c47bcb0b1669\"}},\"listRegistryList-97\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/64e54950-4954-484d-879e-506ffd2d369f\"}},\"listRegistryList-45\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/26e122fd-1da7-4d87-a76b-1b9e62ecb135\"}},\"listRegistryList-22\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/b3005bd3-6996-40a5-8e5c-339bc437f9ab\"}},\"listRegistryList-110\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/27ca1ad1-988c-4329-87db-4e9e63766937\"}}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -617,7 +617,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -626,7 +626,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList61\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/e9fd108c-6d06-43b7-ad60-8d5751784227\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"List\"},\"listId\":{\"type\":\"Plain\",\"value\":\"listRegistryList61\"},\"listItemFormat0\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat1\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat2\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat3\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat4\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat5\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"},\"listItemFormat6\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc8226\"},\"listItemFormat7\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc111\"},\"listItemFormat8\":{\"type\":\"Plain\",\"value\":\"%cssClass-scriptor-listItem-marker-bullet;%cc168\"}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -644,7 +644,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -653,7 +653,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/f94f4423-5464-403d-9197-35838845afd7\",\"blobs\":[],\"content\":{}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -671,7 +671,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -680,7 +680,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Emphasis\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"character\"},\"propertiesitalic\":{\"type\":\"Plain\",\"value\":true}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/fb8817a0-c927-40f2-8169-9744d854c57f\",\"blobs\":[],\"content\":{\"ItemType\":{\"type\":\"Plain\",\"value\":\"Style\"},\"name\":{\"type\":\"Plain\",\"value\":\"Emphasis\"},\"styleTarget\":{\"type\":\"Plain\",\"value\":\"character\"},\"propertiesitalic\":{\"type\":\"Plain\",\"value\":true}}}",
                       "encoding": "utf-8"
                     }
                   }
@@ -707,7 +707,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.0\"}",
+                      "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.35.2\"}",
                       "encoding": "utf-8"
                     }
                   },
@@ -716,7 +716,7 @@
                     "mode": "100644",
                     "type": "Blob",
                     "value": {
-                      "contents": "{\"blobs\":[],\"content\":{\"presence\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/38d6f6f7-b638-45fe-857b-4a37a48d40f5\"}},\"language\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/df5eb3d6-885a-4049-93aa-40557d8a9412\"}},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/5d1d6074-0270-498d-8886-d4a7d169bde6\"}},\"text.ItemType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"endOfKeys\":{\"type\":\"Plain\",\"value\":true},\"text.documentStyleRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/9f32d0fa-a487-4235-8e8f-dadcfdb00bc6\"}},\"text.documentListRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/e656101e-230f-4d46-85b5-ac529a07d7ce\"}}}}",
+                      "contents": "{\"absolutePath\":\"/defaultComponent/root\",\"blobs\":[],\"content\":{\"presence\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/38d6f6f7-b638-45fe-857b-4a37a48d40f5\"}},\"language\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/df5eb3d6-885a-4049-93aa-40557d8a9412\"}},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/5d1d6074-0270-498d-8886-d4a7d169bde6\"}},\"text.ItemType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"endOfKeys\":{\"type\":\"Plain\",\"value\":true},\"text.documentStyleRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/9f32d0fa-a487-4235-8e8f-dadcfdb00bc6\"}},\"text.documentListRegistry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/e656101e-230f-4d46-85b5-ac529a07d7ce\"}}}}",
                       "encoding": "utf-8"
                     }
                   }
