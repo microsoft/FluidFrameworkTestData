@@ -28,7 +28,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"pkg\":\"[\\\"@ms/atmentions\\\"]\",\"snapshotFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
+                "contents": "{\"pkg\":\"[\\\"@ms/atmentions\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
                 "encoding": "utf-8"
               }
             },
@@ -82,7 +82,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"pkg\":\"[\\\"@ms/catalog\\\"]\",\"snapshotFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
+                "contents": "{\"pkg\":\"[\\\"@ms/catalog\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
                 "encoding": "utf-8"
               }
             },
@@ -109,7 +109,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"pkg\":\"[\\\"@ms/scriptor\\\"]\",\"snapshotFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
+                "contents": "{\"pkg\":\"[\\\"@ms/scriptor\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
                 "encoding": "utf-8"
               }
             },
@@ -748,7 +748,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"pkg\":\"[\\\"@ms/discover\\\"]\",\"snapshotFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
+                "contents": "{\"pkg\":\"[\\\"@ms/discover\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
                 "encoding": "utf-8"
               }
             },
@@ -802,7 +802,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"pkg\":\"[\\\"@ms/registro\\\"]\",\"snapshotFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
+                "contents": "{\"pkg\":\"[\\\"@ms/registro\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true,\"disableIsolatedChannels\":true}",
                 "encoding": "utf-8"
               }
             },
