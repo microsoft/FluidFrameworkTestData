@@ -1140,7 +1140,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code2\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code2\",\"sequenceNumber\":2,\"value\":\"@ms/office-prague-container\"}],[\"leader\",{\"approvalSequenceNumber\":4067,\"commitSequenceNumber\":4068,\"key\":\"leader\",\"sequenceNumber\":4066,\"value\":\"0cae86db-99e8-4229-88d3-b2f8d2ea1462\"}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-prague-container\"}}],[\"leader\",{\"approvalSequenceNumber\":4067,\"commitSequenceNumber\":4068,\"key\":\"leader\",\"sequenceNumber\":4066,\"value\":\"0cae86db-99e8-4229-88d3-b2f8d2ea1462\"}]]",
           "encoding": "utf-8"
         }
       }
