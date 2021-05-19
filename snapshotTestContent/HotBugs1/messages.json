@@ -15,7 +15,7 @@
     "clientId": "1e1fa249-ec03-4f40-8d31-eefacfbaecf5",
     "clientSequenceNumber": 1,
     "contents": {
-      "key": "code2",
+      "key": "code",
       "value": { "package": "@ms/office-fluid-container" }
     },
     "minimumSequenceNumber": 1,

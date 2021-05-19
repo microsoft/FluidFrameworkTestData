@@ -906,7 +906,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code2\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code2\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}],[\"leader\",{\"approvalSequenceNumber\":6982,\"commitSequenceNumber\":6983,\"key\":\"leader\",\"sequenceNumber\":6979}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}],[\"leader\",{\"approvalSequenceNumber\":6982,\"commitSequenceNumber\":6983,\"key\":\"leader\",\"sequenceNumber\":6979}]]",
           "encoding": "utf-8"
         }
       },

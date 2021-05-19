@@ -798,7 +798,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code2\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code2\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}],[\"leader\",{\"approvalSequenceNumber\":9996,\"commitSequenceNumber\":-1,\"key\":\"leader\",\"sequenceNumber\":9987}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}],[\"leader\",{\"approvalSequenceNumber\":9996,\"commitSequenceNumber\":-1,\"key\":\"leader\",\"sequenceNumber\":9987}]]",
           "encoding": "utf-8"
         }
       },
