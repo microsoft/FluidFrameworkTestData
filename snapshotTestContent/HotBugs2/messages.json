@@ -16,7 +16,7 @@
     "clientSequenceNumber": 1,
     "contents": {
       "key": "code2",
-      "value": "@ms/office-fluid-container"
+      "value": { "package": "@ms/office-fluid-container" }
     },
     "minimumSequenceNumber": 1,
     "referenceSequenceNumber": 1,
