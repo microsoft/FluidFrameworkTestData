@@ -28,7 +28,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/instances\":[\"/atMentions\"],\"/\":[\"/atMentions/instances\"]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             },
@@ -82,7 +82,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             }
@@ -694,7 +694,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"/defaultComponent/38d6f6f7-b638-45fe-857b-4a37a48d40f5\",\"/defaultComponent/df5eb3d6-885a-4049-93aa-40557d8a9412\",\"/defaultComponent/5d1d6074-0270-498d-8886-d4a7d169bde6\",\"/defaultComponent/9f32d0fa-a487-4235-8e8f-dadcfdb00bc6\",\"/defaultComponent/e656101e-230f-4d46-85b5-ac529a07d7ce\",\"/defaultComponent\"],\"/38d6f6f7-b638-45fe-857b-4a37a48d40f5\":[\"/defaultComponent\"],\"/df5eb3d6-885a-4049-93aa-40557d8a9412\":[\"/defaultComponent\"],\"/f94f4423-5464-403d-9197-35838845afd7\":[\"/defaultComponent\"],\"/5d1d6074-0270-498d-8886-d4a7d169bde6\":[\"/defaultComponent/f94f4423-5464-403d-9197-35838845afd7\",\"/defaultComponent\"],\"/9f32d0fa-a487-4235-8e8f-dadcfdb00bc6\":[\"/defaultComponent/0651ef88-e35b-4d6c-9897-b78508e72e32\",\"/defaultComponent/84dc0b8d-e03a-442e-8b8e-6851c341e669\",\"/defaultComponent/1726e8ac-a0fa-404a-8f90-355f03d06e51\",\"/defaultComponent/6e7bc915-72a8-4ae3-a993-c7764b106601\",\"/defaultComponent/fb8817a0-c927-40f2-8169-9744d854c57f\",\"/defaultComponent/0dc9d556-625f-471a-9ff9-3cb653f51994\",\"/defaultComponent/dd866d7f-b49d-441b-b53e-02bdca4add8e\",\"/defaultComponent\"],\"/0651ef88-e35b-4d6c-9897-b78508e72e32\":[\"/defaultComponent\"],\"/84dc0b8d-e03a-442e-8b8e-6851c341e669\":[\"/defaultComponent\"],\"/1726e8ac-a0fa-404a-8f90-355f03d06e51\":[\"/defaultComponent\"],\"/6e7bc915-72a8-4ae3-a993-c7764b106601\":[\"/defaultComponent\"],\"/fb8817a0-c927-40f2-8169-9744d854c57f\":[\"/defaultComponent\"],\"/0dc9d556-625f-471a-9ff9-3cb653f51994\":[\"/defaultComponent\"],\"/dd866d7f-b49d-441b-b53e-02bdca4add8e\":[\"/defaultComponent\"],\"/e656101e-230f-4d46-85b5-ac529a07d7ce\":[\"/defaultComponent/aa7af431-0fe2-44a6-bc92-27039519650c\",\"/defaultComponent/e9fd108c-6d06-43b7-ad60-8d5751784227\",\"/defaultComponent/abf5a46b-e265-4cfb-ba07-eedb2256f13a\",\"/defaultComponent/714e3953-2425-44b0-ac20-c47bcb0b1669\",\"/defaultComponent/64e54950-4954-484d-879e-506ffd2d369f\",\"/defaultComponent/26e122fd-1da7-4d87-a76b-1b9e62ecb135\",\"/defaultComponent/b3005bd3-6996-40a5-8e5c-339bc437f9ab\",\"/defaultComponent/27ca1ad1-988c-4329-87db-4e9e63766937\",\"/defaultComponent\"],\"/aa7af431-0fe2-44a6-bc92-27039519650c\":[\"/defaultComponent\"],\"/e9fd108c-6d06-43b7-ad60-8d5751784227\":[\"/defaultComponent\"],\"/abf5a46b-e265-4cfb-ba07-eedb2256f13a\":[\"/defaultComponent\"],\"/714e3953-2425-44b0-ac20-c47bcb0b1669\":[\"/defaultComponent\"],\"/64e54950-4954-484d-879e-506ffd2d369f\":[\"/defaultComponent\"],\"/26e122fd-1da7-4d87-a76b-1b9e62ecb135\":[\"/defaultComponent\"],\"/b3005bd3-6996-40a5-8e5c-339bc437f9ab\":[\"/defaultComponent\"],\"/27ca1ad1-988c-4329-87db-4e9e63766937\":[\"/defaultComponent\"],\"/\":[\"/defaultComponent/root\",\"/defaultComponent/38d6f6f7-b638-45fe-857b-4a37a48d40f5\",\"/defaultComponent/df5eb3d6-885a-4049-93aa-40557d8a9412\",\"/defaultComponent/f94f4423-5464-403d-9197-35838845afd7\",\"/defaultComponent/5d1d6074-0270-498d-8886-d4a7d169bde6\",\"/defaultComponent/9f32d0fa-a487-4235-8e8f-dadcfdb00bc6\",\"/defaultComponent/0651ef88-e35b-4d6c-9897-b78508e72e32\",\"/defaultComponent/84dc0b8d-e03a-442e-8b8e-6851c341e669\",\"/defaultComponent/1726e8ac-a0fa-404a-8f90-355f03d06e51\",\"/defaultComponent/6e7bc915-72a8-4ae3-a993-c7764b106601\",\"/defaultComponent/fb8817a0-c927-40f2-8169-9744d854c57f\",\"/defaultComponent/0dc9d556-625f-471a-9ff9-3cb653f51994\",\"/defaultComponent/dd866d7f-b49d-441b-b53e-02bdca4add8e\",\"/defaultComponent/e656101e-230f-4d46-85b5-ac529a07d7ce\",\"/defaultComponent/aa7af431-0fe2-44a6-bc92-27039519650c\",\"/defaultComponent/e9fd108c-6d06-43b7-ad60-8d5751784227\",\"/defaultComponent/abf5a46b-e265-4cfb-ba07-eedb2256f13a\",\"/defaultComponent/714e3953-2425-44b0-ac20-c47bcb0b1669\",\"/defaultComponent/64e54950-4954-484d-879e-506ffd2d369f\",\"/defaultComponent/26e122fd-1da7-4d87-a76b-1b9e62ecb135\",\"/defaultComponent/b3005bd3-6996-40a5-8e5c-339bc437f9ab\",\"/defaultComponent/27ca1ad1-988c-4329-87db-4e9e63766937\"]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             },
@@ -748,7 +748,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             }
@@ -802,7 +802,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             }

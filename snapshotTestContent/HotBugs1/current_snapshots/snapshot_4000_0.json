@@ -46,7 +46,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"/_scheduler/663b111f-01a9-4a53-b557-a2ef7502ecc0\",\"/_scheduler\"],\"/663b111f-01a9-4a53-b557-a2ef7502ecc0\":[\"/_scheduler\"],\"/\":[\"/_scheduler/root\",\"/_scheduler/663b111f-01a9-4a53-b557-a2ef7502ecc0\"]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             },
@@ -109,7 +109,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/instances\":[\"/atMentions\"],\"/\":[\"/atMentions/instances\"]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             },
@@ -163,7 +163,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             }
@@ -856,7 +856,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/root\":[\"/defaultComponent/3628d460-1875-4be9-a2be-a64320d66221\",\"/defaultComponent/fd7a8855-78e2-49bb-9a00-f13f60687268\",\"/defaultComponent/1c868c2e-38a9-4c69-bd74-a461e644ecb6\",\"/defaultComponent/e9530f65-4ea9-4c74-8724-b888bd929c65\",\"/defaultComponent/179fb24a-1187-45eb-8330-5c3e3b6b2598\",\"/defaultComponent\"],\"/3628d460-1875-4be9-a2be-a64320d66221\":[\"/defaultComponent\"],\"/fd7a8855-78e2-49bb-9a00-f13f60687268\":[\"/defaultComponent\"],\"/219bc753-71a8-43ee-aed4-8a71ae7eee46\":[\"/defaultComponent\"],\"/1c868c2e-38a9-4c69-bd74-a461e644ecb6\":[\"/defaultComponent/219bc753-71a8-43ee-aed4-8a71ae7eee46\",\"/defaultComponent\"],\"/87d1481d-e476-43ec-8639-a271dafcf616\":[\"/defaultComponent/b17a1b79-4a9c-4711-a91a-e9b738967d41\",\"/defaultComponent/f4c3d94a-653d-4bb3-86cf-a0e9db67ab17\",\"/defaultComponent/c896c5c1-e463-44ac-ac8f-f8ad8ac218c4\",\"/defaultComponent/4acc1217-7bad-472d-892c-f691e5e38795\",\"/defaultComponent/031285c0-a9f4-4f3c-b78f-cf6d90cc374c\",\"/defaultComponent/8204010d-bf9c-4bf6-a9bd-eccdda2d5501\",\"/defaultComponent/c9bcf798-0f35-4a67-87be-6dd269749857\",\"/defaultComponent\"],\"/b17a1b79-4a9c-4711-a91a-e9b738967d41\":[\"/defaultComponent\"],\"/f4c3d94a-653d-4bb3-86cf-a0e9db67ab17\":[\"/defaultComponent\"],\"/c896c5c1-e463-44ac-ac8f-f8ad8ac218c4\":[\"/defaultComponent\"],\"/4acc1217-7bad-472d-892c-f691e5e38795\":[\"/defaultComponent\"],\"/031285c0-a9f4-4f3c-b78f-cf6d90cc374c\":[\"/defaultComponent\"],\"/8204010d-bf9c-4bf6-a9bd-eccdda2d5501\":[\"/defaultComponent\"],\"/c9bcf798-0f35-4a67-87be-6dd269749857\":[\"/defaultComponent\"],\"/e9530f65-4ea9-4c74-8724-b888bd929c65\":[\"/defaultComponent/c6863402-5e81-45ac-83f3-03410e959604\",\"/defaultComponent/115d8655-0c3c-43d2-a15f-52d77fd3c918\",\"/defaultComponent/a9534c76-92ce-41d2-8682-586a4c1122ba\",\"/defaultComponent/ccb9d801-45c5-4f53-8a55-841ae9ffc63f\",\"/defaultComponent/a0284d80-3d0b-4f31-8e8b-1714c0aa1076\",\"/defaultComponent/e3aaafa2-00ea-4b63-a6c8-79605b625b08\",\"/defaultComponent/0e81569f-f59f-4102-b69e-8bfcf5e2301e\",\"/defaultComponent\"],\"/c6863402-5e81-45ac-83f3-03410e959604\":[\"/defaultComponent\"],\"/115d8655-0c3c-43d2-a15f-52d77fd3c918\":[\"/defaultComponent\"],\"/a9534c76-92ce-41d2-8682-586a4c1122ba\":[\"/defaultComponent\"],\"/ccb9d801-45c5-4f53-8a55-841ae9ffc63f\":[\"/defaultComponent\"],\"/a0284d80-3d0b-4f31-8e8b-1714c0aa1076\":[\"/defaultComponent\"],\"/e3aaafa2-00ea-4b63-a6c8-79605b625b08\":[\"/defaultComponent\"],\"/0e81569f-f59f-4102-b69e-8bfcf5e2301e\":[\"/defaultComponent\"],\"/179fb24a-1187-45eb-8330-5c3e3b6b2598\":[\"/defaultComponent/90e448c6-8d29-4e56-bf6d-126423b700a5\",\"/defaultComponent/23785c73-3f07-4064-8505-5f3ea078a3f3\",\"/defaultComponent/7af81df4-4161-4438-ab89-a68863b3cd1d\",\"/defaultComponent\"],\"/90e448c6-8d29-4e56-bf6d-126423b700a5\":[\"/defaultComponent\"],\"/23785c73-3f07-4064-8505-5f3ea078a3f3\":[\"/defaultComponent\"],\"/7af81df4-4161-4438-ab89-a68863b3cd1d\":[\"/defaultComponent\"],\"/\":[\"/defaultComponent/root\",\"/defaultComponent/3628d460-1875-4be9-a2be-a64320d66221\",\"/defaultComponent/fd7a8855-78e2-49bb-9a00-f13f60687268\",\"/defaultComponent/219bc753-71a8-43ee-aed4-8a71ae7eee46\",\"/defaultComponent/1c868c2e-38a9-4c69-bd74-a461e644ecb6\",\"/defaultComponent/87d1481d-e476-43ec-8639-a271dafcf616\",\"/defaultComponent/b17a1b79-4a9c-4711-a91a-e9b738967d41\",\"/defaultComponent/f4c3d94a-653d-4bb3-86cf-a0e9db67ab17\",\"/defaultComponent/c896c5c1-e463-44ac-ac8f-f8ad8ac218c4\",\"/defaultComponent/4acc1217-7bad-472d-892c-f691e5e38795\",\"/defaultComponent/031285c0-a9f4-4f3c-b78f-cf6d90cc374c\",\"/defaultComponent/8204010d-bf9c-4bf6-a9bd-eccdda2d5501\",\"/defaultComponent/c9bcf798-0f35-4a67-87be-6dd269749857\",\"/defaultComponent/e9530f65-4ea9-4c74-8724-b888bd929c65\",\"/defaultComponent/c6863402-5e81-45ac-83f3-03410e959604\",\"/defaultComponent/115d8655-0c3c-43d2-a15f-52d77fd3c918\",\"/defaultComponent/a9534c76-92ce-41d2-8682-586a4c1122ba\",\"/defaultComponent/ccb9d801-45c5-4f53-8a55-841ae9ffc63f\",\"/defaultComponent/a0284d80-3d0b-4f31-8e8b-1714c0aa1076\",\"/defaultComponent/e3aaafa2-00ea-4b63-a6c8-79605b625b08\",\"/defaultComponent/0e81569f-f59f-4102-b69e-8bfcf5e2301e\",\"/defaultComponent/179fb24a-1187-45eb-8330-5c3e3b6b2598\",\"/defaultComponent/90e448c6-8d29-4e56-bf6d-126423b700a5\",\"/defaultComponent/23785c73-3f07-4064-8505-5f3ea078a3f3\",\"/defaultComponent/7af81df4-4161-4438-ab89-a68863b3cd1d\"]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             },
@@ -910,7 +910,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             }
@@ -964,7 +964,7 @@
               "mode": "100644",
               "type": "Blob",
               "value": {
-                "contents": "{\"usedRoutes\":[\"\"],\"gcData\":{\"gcNodes\":{\"/\":[]}}}",
+                "contents": "{\"usedRoutes\":[\"\"]}",
                 "encoding": "utf-8"
               }
             }
