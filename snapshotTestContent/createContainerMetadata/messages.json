@@ -1,0 +1,1854 @@
+[
+  {
+    "clientId": null,
+    "clientSequenceNumber": -1,
+    "contents": null,
+    "minimumSequenceNumber": 0,
+    "referenceSequenceNumber": -1,
+    "sequenceNumber": 1,
+    "term": 1,
+    "timestamp": 1641336101954,
+    "type": "join",
+    "data": "{\"clientId\":\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\",\"detail\":{\"user\":{\"id\":\"chensi@microsoft.com\",\"name\":\"Si Chen\",\"email\":\"chensi@microsoft.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"scopes\":[\"doc:read\",\"doc:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":true}},\"timestamp\":1641336101952,\"mode\":\"write\"}}"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 1,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "id": "03d14e28-6fef-4bf7-a61b-c2407d01f080",
+            "snapshot": {
+              "entries": [
+                {
+                  "path": "header",
+                  "mode": "100644",
+                  "type": "Blob",
+                  "value": {
+                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"}}}}",
+                    "encoding": "utf-8"
+                  }
+                },
+                {
+                  "path": ".attributes",
+                  "mode": "100644",
+                  "type": "Blob",
+                  "value": {
+                    "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.53.0\"}",
+                    "encoding": "utf-8"
+                  }
+                }
+              ]
+            },
+            "type": "https://graph.microsoft.com/types/directory"
+          },
+          "type": "attach"
+        }
+      }
+    },
+    "minimumSequenceNumber": 1,
+    "referenceSequenceNumber": 1,
+    "sequenceNumber": 2,
+    "term": 1,
+    "timestamp": 1641336102074,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 2,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "root",
+            "contents": {
+              "key": "text:style!registry",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": {
+                  "type": "__fluid_handle__",
+                  "url": "/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080"
+                }
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 1,
+    "referenceSequenceNumber": 1,
+    "sequenceNumber": 3,
+    "term": 1,
+    "timestamp": 1641336102074,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 3,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "c8333ec1-92e3-4451-9873-c53d48282cbc",
+        "contents": {
+          "content": {
+            "address": "root",
+            "contents": {
+              "key": "lastEditCreatorKey",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": {
+                  "user": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "oid": "a0d1c626-5205-44c7-8b91-301299ac86a9"
+                  },
+                  "timestamp": 1641336102541
+                }
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 1,
+    "referenceSequenceNumber": 1,
+    "sequenceNumber": 4,
+    "term": 1,
+    "timestamp": 1641336102074,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 4,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "_scheduler",
+        "contents": {
+          "content": {
+            "address": "8047978b-16bc-4de9-9ae2-9f1861216504",
+            "contents": {
+              "key": "leader",
+              "type": "write",
+              "serializedValue": "\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\"",
+              "refSeq": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 1,
+    "referenceSequenceNumber": 1,
+    "sequenceNumber": 5,
+    "term": 1,
+    "timestamp": 1641336102074,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 5,
+    "contents": {
+      "key": "code",
+      "value": {
+        "package": {
+          "name": "@ms/office-fluid-container",
+          "version": "20211216011",
+          "fluid": {
+            "browser": {
+              "umd": {
+                "files": [
+                  "https://cdn.fluidpreview.office.net/fluid/df/container/hashed/runtime.c5696f50bde6a5bb3992.js",
+                  "https://cdn.fluidpreview.office.net/fluid/df/container/hashed/officeContainer.a57f129c375fd1747945.js"
+                ],
+                "library": "officeContainer"
+              }
+            }
+          }
+        },
+        "config": {}
+      }
+    },
+    "minimumSequenceNumber": 1,
+    "referenceSequenceNumber": 1,
+    "sequenceNumber": 6,
+    "term": 1,
+    "timestamp": 1641336102074,
+    "type": "propose"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 6,
+    "contents": "",
+    "minimumSequenceNumber": 6,
+    "referenceSequenceNumber": 6,
+    "sequenceNumber": 7,
+    "term": 1,
+    "timestamp": 1641336102157,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 7,
+    "contents": "",
+    "minimumSequenceNumber": 7,
+    "referenceSequenceNumber": 7,
+    "sequenceNumber": 8,
+    "term": 1,
+    "timestamp": 1641336102243,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 8,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "seg": {
+                "text": "/",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 8,
+    "referenceSequenceNumber": 8,
+    "sequenceNumber": 9,
+    "term": 1,
+    "timestamp": 1641336103284,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 9,
+    "contents": null,
+    "minimumSequenceNumber": 9,
+    "referenceSequenceNumber": 9,
+    "sequenceNumber": 10,
+    "term": 1,
+    "timestamp": 1641336105374,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 10,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "pos2": 1,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 10,
+    "sequenceNumber": 11,
+    "term": 1,
+    "timestamp": 1641336106002,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 11,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "seg": {
+                "text": "💬 [Si Chen]: ",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 10,
+    "sequenceNumber": 12,
+    "term": 1,
+    "timestamp": 1641336106002,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 12,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 2,
+              "pos2": 12,
+              "props": {
+                "format!italic": true
+              },
+              "type": 2
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 10,
+    "sequenceNumber": 13,
+    "term": 1,
+    "timestamp": 1641336106002,
+    "type": "op"
+  },
+  {
+    "clientId": null,
+    "clientSequenceNumber": -1,
+    "contents": null,
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": -1,
+    "sequenceNumber": 14,
+    "term": 1,
+    "timestamp": 1641336107086,
+    "type": "join",
+    "data": "{\"clientId\":\"d3bd935c-94c9-4de1-b992-08d6554b3465\",\"detail\":{\"user\":{\"id\":\"chensi@microsoft.com\",\"name\":\"Si Chen\",\"email\":\"chensi@microsoft.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"scopes\":[\"doc:read\",\"doc:write\",\"summary:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":false},\"type\":\"summarizer\"},\"timestamp\":1641336107084,\"mode\":\"write\"}}"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 13,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 4,
+              "pos2": 11,
+              "props": {
+                "entity!Recognized": "Person",
+                "entity!PreviousText": "Si Chen",
+                "entity!Version": 1,
+                "entity!InitialConfigurationHint": "Si Chen"
+              },
+              "type": 2
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 13,
+    "sequenceNumber": 15,
+    "term": 1,
+    "timestamp": 1641336107138,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 14,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 13,
+              "pos2": 14,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 15,
+    "sequenceNumber": 16,
+    "term": 1,
+    "timestamp": 1641336108118,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 15,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 12,
+              "pos2": 13,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 16,
+    "sequenceNumber": 17,
+    "term": 1,
+    "timestamp": 1641336108545,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 16,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 11,
+              "pos2": 12,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 17,
+    "sequenceNumber": 18,
+    "term": 1,
+    "timestamp": 1641336108863,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 17,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 10,
+              "pos2": 11,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 10,
+    "referenceSequenceNumber": 18,
+    "sequenceNumber": 19,
+    "term": 1,
+    "timestamp": 1641336109374,
+    "type": "op"
+  },
+  {
+    "clientId": "d3bd935c-94c9-4de1-b992-08d6554b3465",
+    "clientSequenceNumber": 1,
+    "contents": null,
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 18,
+    "sequenceNumber": 20,
+    "term": 1,
+    "timestamp": 1641336109376,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 18,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 9,
+              "pos2": 10,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 18,
+    "sequenceNumber": 21,
+    "term": 1,
+    "timestamp": 1641336109387,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 19,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 8,
+              "pos2": 9,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 18,
+    "sequenceNumber": 22,
+    "term": 1,
+    "timestamp": 1641336109422,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 20,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 7,
+              "pos2": 8,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 18,
+    "sequenceNumber": 23,
+    "term": 1,
+    "timestamp": 1641336109452,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 21,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 6,
+              "pos2": 7,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 21,
+    "sequenceNumber": 24,
+    "term": 1,
+    "timestamp": 1641336109483,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 22,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 5,
+              "pos2": 6,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 22,
+    "sequenceNumber": 25,
+    "term": 1,
+    "timestamp": 1641336109513,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 23,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 4,
+              "pos2": 5,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 23,
+    "sequenceNumber": 26,
+    "term": 1,
+    "timestamp": 1641336109562,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 24,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 3,
+              "pos2": 4,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 24,
+    "sequenceNumber": 27,
+    "term": 1,
+    "timestamp": 1641336109592,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 25,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 2,
+              "pos2": 3,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 25,
+    "sequenceNumber": 28,
+    "term": 1,
+    "timestamp": 1641336109622,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 26,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "pos2": 2,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 18,
+    "referenceSequenceNumber": 25,
+    "sequenceNumber": 29,
+    "term": 1,
+    "timestamp": 1641336109658,
+    "type": "op"
+  },
+  {
+    "clientId": "d3bd935c-94c9-4de1-b992-08d6554b3465",
+    "clientSequenceNumber": 2,
+    "contents": null,
+    "minimumSequenceNumber": 25,
+    "referenceSequenceNumber": 29,
+    "sequenceNumber": 30,
+    "term": 1,
+    "timestamp": 1641336111476,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 27,
+    "contents": null,
+    "minimumSequenceNumber": 29,
+    "referenceSequenceNumber": 30,
+    "sequenceNumber": 31,
+    "term": 1,
+    "timestamp": 1641336111673,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 28,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "seg": {
+                "text": "/",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 29,
+    "referenceSequenceNumber": 30,
+    "sequenceNumber": 32,
+    "term": 1,
+    "timestamp": 1641336111806,
+    "type": "op"
+  },
+  {
+    "clientId": "d3bd935c-94c9-4de1-b992-08d6554b3465",
+    "clientSequenceNumber": 3,
+    "contents": null,
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 32,
+    "sequenceNumber": 33,
+    "term": 1,
+    "timestamp": 1641336113915,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 30,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "pos2": 1,
+              "type": 1
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 34,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 31,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "id": "faf33ea9-7629-46b6-9c47-15897d998dd8",
+            "snapshot": {
+              "entries": [
+                {
+                  "path": "header",
+                  "mode": "100644",
+                  "type": "Blob",
+                  "value": {
+                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"}}}}",
+                    "encoding": "utf-8"
+                  }
+                },
+                {
+                  "path": ".attributes",
+                  "mode": "100644",
+                  "type": "Blob",
+                  "value": {
+                    "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.53.0\"}",
+                    "encoding": "utf-8"
+                  }
+                }
+              ]
+            },
+            "type": "https://graph.microsoft.com/types/directory"
+          },
+          "type": "attach"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 35,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 32,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "root",
+            "contents": {
+              "key": "text:list!registry",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": {
+                  "type": "__fluid_handle__",
+                  "url": "/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8"
+                }
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 36,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 33,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "id": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "snapshot": {
+              "entries": [
+                {
+                  "path": "header",
+                  "mode": "100644",
+                  "type": "Blob",
+                  "value": {
+                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"List\"},\"list!id\":{\"type\":\"Plain\",\"value\":\"list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060\"}}}}",
+                    "encoding": "utf-8"
+                  }
+                },
+                {
+                  "path": ".attributes",
+                  "mode": "100644",
+                  "type": "Blob",
+                  "value": {
+                    "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.53.0\"}",
+                    "encoding": "utf-8"
+                  }
+                }
+              ]
+            },
+            "type": "https://graph.microsoft.com/types/directory"
+          },
+          "type": "attach"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 37,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 34,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "faf33ea9-7629-46b6-9c47-15897d998dd8",
+            "contents": {
+              "key": "list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": {
+                  "type": "__fluid_handle__",
+                  "url": "/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc"
+                }
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 38,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 35,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-0",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 39,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 36,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-1",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 40,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 37,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-2",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 41,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 38,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-3",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 42,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 39,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-4",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 43,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 40,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-5",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 44,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 41,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-6",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 45,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 42,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-7",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 46,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 43,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "contents": {
+              "key": "list!itemFormat-8",
+              "path": "/",
+              "type": "set",
+              "value": {
+                "type": "Plain",
+                "value": "%cb"
+              }
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 47,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 44,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "pos2": 1,
+              "props": {
+                "list!reference": "0;list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060;0"
+              },
+              "type": 2
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 48,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 45,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "pos2": 1,
+              "props": {
+                "placeholder!attributeText": "Add item"
+              },
+              "type": 2
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 32,
+    "referenceSequenceNumber": 33,
+    "sequenceNumber": 49,
+    "term": 1,
+    "timestamp": 1641336115844,
+    "type": "op"
+  },
+  {
+    "clientId": "d3bd935c-94c9-4de1-b992-08d6554b3465",
+    "clientSequenceNumber": 4,
+    "contents": null,
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 49,
+    "sequenceNumber": 50,
+    "term": 1,
+    "timestamp": 1641336117920,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 47,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 0,
+              "seg": {
+                "text": "n",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 50,
+    "sequenceNumber": 51,
+    "term": 1,
+    "timestamp": 1641336118469,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 48,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 1,
+              "seg": {
+                "text": "e",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 51,
+    "sequenceNumber": 52,
+    "term": 1,
+    "timestamp": 1641336118602,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 49,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 2,
+              "seg": {
+                "text": "w",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 52,
+    "sequenceNumber": 53,
+    "term": 1,
+    "timestamp": 1641336118757,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 50,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 3,
+              "seg": {
+                "text": " ",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 53,
+    "sequenceNumber": 54,
+    "term": 1,
+    "timestamp": 1641336118885,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 51,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 4,
+              "seg": {
+                "text": "d",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 54,
+    "sequenceNumber": 55,
+    "term": 1,
+    "timestamp": 1641336119051,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 52,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 5,
+              "seg": {
+                "text": "o",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 55,
+    "sequenceNumber": 56,
+    "term": 1,
+    "timestamp": 1641336119170,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 53,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 6,
+              "seg": {
+                "text": "c",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 56,
+    "sequenceNumber": 57,
+    "term": 1,
+    "timestamp": 1641336119314,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 54,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 7,
+              "seg": {
+                "text": "u",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 57,
+    "sequenceNumber": 58,
+    "term": 1,
+    "timestamp": 1641336119446,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 55,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 8,
+              "seg": {
+                "text": "m",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 58,
+    "sequenceNumber": 59,
+    "term": 1,
+    "timestamp": 1641336119631,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 56,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 9,
+              "seg": {
+                "text": "e",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 59,
+    "sequenceNumber": 60,
+    "term": 1,
+    "timestamp": 1641336119757,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 57,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 10,
+              "seg": {
+                "text": "n",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 59,
+    "sequenceNumber": 61,
+    "term": 1,
+    "timestamp": 1641336119838,
+    "type": "op"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 58,
+    "contents": {
+      "type": "component",
+      "contents": {
+        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "contents": {
+          "content": {
+            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "contents": {
+              "pos1": 11,
+              "seg": {
+                "text": "t",
+                "props": {
+                  "attribution": {
+                    "id": "chensi@microsoft.com",
+                    "name": "Si Chen",
+                    "email": "chensi@microsoft.com",
+                    "timestamp": 1641336000000
+                  }
+                }
+              },
+              "type": 0
+            }
+          },
+          "type": "op"
+        }
+      }
+    },
+    "minimumSequenceNumber": 49,
+    "referenceSequenceNumber": 61,
+    "sequenceNumber": 62,
+    "term": 1,
+    "timestamp": 1641336119975,
+    "type": "op"
+  },
+  {
+    "clientId": "d3bd935c-94c9-4de1-b992-08d6554b3465",
+    "clientSequenceNumber": 5,
+    "contents": null,
+    "minimumSequenceNumber": 61,
+    "referenceSequenceNumber": 62,
+    "sequenceNumber": 63,
+    "term": 1,
+    "timestamp": 1641336120587,
+    "type": "noop"
+  },
+  {
+    "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
+    "clientSequenceNumber": 59,
+    "contents": null,
+    "minimumSequenceNumber": 62,
+    "referenceSequenceNumber": 63,
+    "sequenceNumber": 64,
+    "term": 1,
+    "timestamp": 1641336122086,
+    "type": "noop"
+  },
+  {
+    "clientId": "d3bd935c-94c9-4de1-b992-08d6554b3465",
+    "clientSequenceNumber": 6,
+    "contents": {
+      "handle": "bOwAAAABAAAAABgAAAA==",
+      "head": "bBwAAAAAHAAAA",
+      "message": "Summary @64:62",
+      "parents": [
+        "bBwAAAAAHAAAA"
+      ],
+      "details": {
+        "includesProtocolTree": false
+      }
+    },
+    "minimumSequenceNumber": 63,
+    "referenceSequenceNumber": 64,
+    "sequenceNumber": 65,
+    "term": 1,
+    "timestamp": 1641336135575,
+    "type": "summarize"
+  }
+]
