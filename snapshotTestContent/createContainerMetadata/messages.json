@@ -9,7 +9,7 @@
     "term": 1,
     "timestamp": 1641336101954,
     "type": "join",
-    "data": "{\"clientId\":\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\",\"detail\":{\"user\":{\"id\":\"chensi@microsoft.com\",\"name\":\"Si Chen\",\"email\":\"chensi@microsoft.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"scopes\":[\"doc:read\",\"doc:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":true}},\"timestamp\":1641336101952,\"mode\":\"write\"}}"
+    "data": "{\"clientId\":\"hmjh09l8804h9f73mt12is6rz5gy49uhh9dn\",\"detail\":{\"user\":{\"id\":\"ix04lnpjwpd1pz5zb5cx\",\"name\":\"88 h6ok\",\"email\":\"ix04lnpjwpd1pz5zb5cx\",\"oid\":\"mq8070gb4l9z33eq31wrw3jpcgtn1ifiqlnv\"},\"scopes\":[\"d1fudz4a\",\"w8w3wuk4d\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":true}},\"timestamp\":1641336101952,\"mode\":\"56chi\"}}"
   },
   {
     "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
@@ -17,10 +17,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "id": "03d14e28-6fef-4bf7-a61b-c2407d01f080",
+            "id": "q55vgzvpq2bspyfxnq44f8in0cf7cc1rib19",
             "snapshot": {
               "entries": [
                 {
@@ -28,7 +28,7 @@
                   "mode": "100644",
                   "type": "Blob",
                   "value": {
-                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"}}}}",
+                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"muza6\",\"value\":\"6fkz3u055fore\"}}}}",
                     "encoding": "utf-8"
                   }
                 },
@@ -37,13 +37,13 @@
                   "mode": "100644",
                   "type": "Blob",
                   "value": {
-                    "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.53.0\"}",
+                    "contents": "{\"type\":\"vw9khfdkb2bql11bvmh97ctzlckvsmo6qgit2vbt45j\",\"snapshotFormatVersion\":\"9ee\",\"packageVersion\":\"910sn6\"}",
                     "encoding": "utf-8"
                   }
                 }
               ]
             },
-            "type": "https://graph.microsoft.com/types/directory"
+            "type": "vw9khfdkb2bql11bvmh97ctzlckvsmo6qgit2vbt45j"
           },
           "type": "attach"
         }
@@ -62,19 +62,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "root",
+            "address": "0ele",
             "contents": {
-              "key": "text:style!registry",
+              "key": "r4hj9drcujq04bsvmcf",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
                 "value": {
-                  "type": "__fluid_handle__",
-                  "url": "/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080"
+                  "type": "i5nnx4u8vdo9g1nt",
+                  "url": "wu64g1ox0gnq8lo0czisfml6a7spfamgg8ullqwqmahmmks8t98gsonf7fqfmt7ux6nlxx9pfc"
                 }
               }
             }
@@ -96,22 +96,22 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "c8333ec1-92e3-4451-9873-c53d48282cbc",
+        "address": "ymeg0omrobbn1rxmhdwfguj9crd72iqgoc2e",
         "contents": {
           "content": {
-            "address": "root",
+            "address": "0ele",
             "contents": {
-              "key": "lastEditCreatorKey",
+              "key": "c786hz61opfjz2v19j",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
                 "value": {
                   "user": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
-                    "oid": "a0d1c626-5205-44c7-8b91-301299ac86a9"
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
+                    "oid": "mq8070gb4l9z33eq31wrw3jpcgtn1ifiqlnv"
                   },
                   "timestamp": 1641336102541
                 }
@@ -135,12 +135,12 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "_scheduler",
+        "address": "rgxus7u7ny",
         "contents": {
           "content": {
-            "address": "8047978b-16bc-4de9-9ae2-9f1861216504",
+            "address": "rzg5xanzqk8p88s5d9i5khse2ooghslqpwyk",
             "contents": {
-              "key": "leader",
+              "key": "ap6qch",
               "type": "write",
               "serializedValue": "\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\"",
               "refSeq": 1
@@ -161,19 +161,19 @@
     "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
     "clientSequenceNumber": 5,
     "contents": {
-      "key": "code",
+      "key": "6bvo",
       "value": {
         "package": {
-          "name": "@ms/office-fluid-container",
-          "version": "20211216011",
+          "name": "hlatj9sspjiaemy1dvkggrft7e",
+          "version": "sdkq98pub6b",
           "fluid": {
             "browser": {
               "umd": {
                 "files": [
-                  "https://cdn.fluidpreview.office.net/fluid/df/container/hashed/runtime.c5696f50bde6a5bb3992.js",
-                  "https://cdn.fluidpreview.office.net/fluid/df/container/hashed/officeContainer.a57f129c375fd1747945.js"
+                  "zq0p2err18f7bz0uy6zkjvnm882g4ib665i7vlmxsxky6ftnyoers9y3us1ad8lhjign7zr15quhnclgjdwc2u6zuil7b",
+                  "6fobicyes0bt2d38ppc2in1k0lv2gayobn5eb2rd6858b15gpd53nh5j9oouwflsw2ewm77tdvmsqtu90yft31j1b7lxusv8zt0k0"
                 ],
-                "library": "officeContainer"
+                "library": "h4vgsj64bloph3j"
               }
             }
           }
@@ -216,19 +216,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "seg": {
-                "text": "/",
+                "text": "9",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -264,10 +264,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "pos2": 1,
@@ -291,19 +291,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "seg": {
-                "text": "💬 [Si Chen]: ",
+                "text": "tt a8b zcdljv ",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -328,10 +328,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 2,
               "pos2": 12,
@@ -362,7 +362,7 @@
     "term": 1,
     "timestamp": 1641336107086,
     "type": "join",
-    "data": "{\"clientId\":\"d3bd935c-94c9-4de1-b992-08d6554b3465\",\"detail\":{\"user\":{\"id\":\"chensi@microsoft.com\",\"name\":\"Si Chen\",\"email\":\"chensi@microsoft.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"scopes\":[\"doc:read\",\"doc:write\",\"summary:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":false},\"type\":\"summarizer\"},\"timestamp\":1641336107084,\"mode\":\"write\"}}"
+    "data": "{\"clientId\":\"c8pm6g8ff286p63ml2gcdj7nawa2048ebt49\",\"detail\":{\"user\":{\"id\":\"ix04lnpjwpd1pz5zb5cx\",\"name\":\"88 h6ok\",\"email\":\"ix04lnpjwpd1pz5zb5cx\",\"oid\":\"mq8070gb4l9z33eq31wrw3jpcgtn1ifiqlnv\"},\"scopes\":[\"d1fudz4a\",\"w8w3wuk4d\",\"3cz17sbgqi3sx\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":false},\"type\":\"45jqjzap0f\"},\"timestamp\":1641336107084,\"mode\":\"56chi\"}}"
   },
   {
     "clientId": "dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406",
@@ -370,18 +370,18 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 4,
               "pos2": 11,
               "props": {
                 "entity!Recognized": "Person",
-                "entity!PreviousText": "Si Chen",
+                "entity!PreviousText": "88 h6ok",
                 "entity!Version": 1,
-                "entity!InitialConfigurationHint": "Si Chen"
+                "entity!InitialConfigurationHint": "88 h6ok"
               },
               "type": 2
             }
@@ -403,10 +403,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 13,
               "pos2": 14,
@@ -430,10 +430,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 12,
               "pos2": 13,
@@ -457,10 +457,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 11,
               "pos2": 12,
@@ -484,10 +484,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 10,
               "pos2": 11,
@@ -522,10 +522,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 9,
               "pos2": 10,
@@ -549,10 +549,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 8,
               "pos2": 9,
@@ -576,10 +576,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 7,
               "pos2": 8,
@@ -603,10 +603,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 6,
               "pos2": 7,
@@ -630,10 +630,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 5,
               "pos2": 6,
@@ -657,10 +657,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 4,
               "pos2": 5,
@@ -684,10 +684,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 3,
               "pos2": 4,
@@ -711,10 +711,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 2,
               "pos2": 3,
@@ -738,10 +738,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "pos2": 2,
@@ -787,19 +787,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "seg": {
-                "text": "/",
+                "text": "9",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -835,10 +835,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "pos2": 1,
@@ -862,10 +862,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "id": "faf33ea9-7629-46b6-9c47-15897d998dd8",
+            "id": "wag584sf33fyn1cn34q0mq1but68d9fgyimq",
             "snapshot": {
               "entries": [
                 {
@@ -873,7 +873,7 @@
                   "mode": "100644",
                   "type": "Blob",
                   "value": {
-                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"}}}}",
+                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"muza6\",\"value\":\"qzjb5u2jh0e8\"}}}}",
                     "encoding": "utf-8"
                   }
                 },
@@ -882,13 +882,13 @@
                   "mode": "100644",
                   "type": "Blob",
                   "value": {
-                    "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.53.0\"}",
+                    "contents": "{\"type\":\"vw9khfdkb2bql11bvmh97ctzlckvsmo6qgit2vbt45j\",\"snapshotFormatVersion\":\"9ee\",\"packageVersion\":\"910sn6\"}",
                     "encoding": "utf-8"
                   }
                 }
               ]
             },
-            "type": "https://graph.microsoft.com/types/directory"
+            "type": "vw9khfdkb2bql11bvmh97ctzlckvsmo6qgit2vbt45j"
           },
           "type": "attach"
         }
@@ -907,19 +907,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "root",
+            "address": "0ele",
             "contents": {
-              "key": "text:list!registry",
+              "key": "6v57likuoac7039j9d",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
                 "value": {
-                  "type": "__fluid_handle__",
-                  "url": "/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8"
+                  "type": "i5nnx4u8vdo9g1nt",
+                  "url": "jy44sr86k8r6j4lt2l1bq6oghb8gn7qpq2ini63bsmy5hqd3wxpzn7dboxkq5yr8equ9oj19y5"
                 }
               }
             }
@@ -941,10 +941,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "id": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "id": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "snapshot": {
               "entries": [
                 {
@@ -952,7 +952,7 @@
                   "mode": "100644",
                   "type": "Blob",
                   "value": {
-                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"List\"},\"list!id\":{\"type\":\"Plain\",\"value\":\"list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060\"}}}}",
+                    "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"muza6\",\"value\":\"ikk2\"},\"list!id\":{\"type\":\"muza6\",\"value\":\"t3651qdc7kj7g7mjuo4pvkyz34n82su4lafizhe69be7ocz\"}}}}",
                     "encoding": "utf-8"
                   }
                 },
@@ -961,13 +961,13 @@
                   "mode": "100644",
                   "type": "Blob",
                   "value": {
-                    "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.53.0\"}",
+                    "contents": "{\"type\":\"vw9khfdkb2bql11bvmh97ctzlckvsmo6qgit2vbt45j\",\"snapshotFormatVersion\":\"9ee\",\"packageVersion\":\"910sn6\"}",
                     "encoding": "utf-8"
                   }
                 }
               ]
             },
-            "type": "https://graph.microsoft.com/types/directory"
+            "type": "vw9khfdkb2bql11bvmh97ctzlckvsmo6qgit2vbt45j"
           },
           "type": "attach"
         }
@@ -986,19 +986,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "faf33ea9-7629-46b6-9c47-15897d998dd8",
+            "address": "wag584sf33fyn1cn34q0mq1but68d9fgyimq",
             "contents": {
-              "key": "list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060",
+              "key": "t3651qdc7kj7g7mjuo4pvkyz34n82su4lafizhe69be7ocz",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
                 "value": {
-                  "type": "__fluid_handle__",
-                  "url": "/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc"
+                  "type": "i5nnx4u8vdo9g1nt",
+                  "url": "uc422boih7lg33jssqz33hysz0u8ryucv7mqt27evggs0jwwr0rz3qrv57apaa4pgxif0va34c"
                 }
               }
             }
@@ -1020,17 +1020,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-0",
+              "key": "1cbedyt5qtsg5c1cs",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1051,17 +1051,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-1",
+              "key": "500ks7bbmlwm1skvg",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1082,17 +1082,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-2",
+              "key": "l4403wkaezoaokoe6",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1113,17 +1113,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-3",
+              "key": "bf68xmo3xg52fi7bg",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1144,17 +1144,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-4",
+              "key": "r4fns72izwjbfrplg",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1175,17 +1175,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-5",
+              "key": "75kk0yapjls7eyuav",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1206,17 +1206,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-6",
+              "key": "aw5p35hjc78k7al3k",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1237,17 +1237,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-7",
+              "key": "0irwe7zgtwvh3adkq",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1268,17 +1268,17 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "153fb535-437e-443f-b2cf-f8b1456215cc",
+            "address": "f22l06o3cfchnecvnel695nfu811djrlkkxo",
             "contents": {
-              "key": "list!itemFormat-8",
+              "key": "pc407x2r98ojtocuo",
               "path": "/",
               "type": "set",
               "value": {
                 "type": "Plain",
-                "value": "%cb"
+                "value": "fq6"
               }
             }
           },
@@ -1299,10 +1299,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "pos2": 1,
@@ -1329,10 +1329,10 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "pos2": 1,
@@ -1370,19 +1370,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 0,
               "seg": {
-                "text": "n",
+                "text": "h",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1407,19 +1407,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 1,
               "seg": {
-                "text": "e",
+                "text": "d",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1444,19 +1444,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 2,
               "seg": {
-                "text": "w",
+                "text": "8",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1481,19 +1481,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 3,
               "seg": {
                 "text": " ",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1518,19 +1518,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 4,
               "seg": {
-                "text": "d",
+                "text": "4",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1555,19 +1555,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 5,
               "seg": {
-                "text": "o",
+                "text": "b",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1592,19 +1592,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 6,
               "seg": {
-                "text": "c",
+                "text": "6",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1629,19 +1629,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 7,
               "seg": {
-                "text": "u",
+                "text": "0",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1666,19 +1666,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 8,
               "seg": {
-                "text": "m",
+                "text": "z",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1703,19 +1703,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 9,
               "seg": {
-                "text": "e",
+                "text": "d",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1740,19 +1740,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 10,
               "seg": {
-                "text": "n",
+                "text": "h",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1777,19 +1777,19 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "9552e6f6-028f-46f5-8f7c-f6e4d15c953f",
+        "address": "nplmex1zger7rvhg31afwnzvy0dif4jomodp",
         "contents": {
           "content": {
-            "address": "50b4442b-cea2-458a-9218-7e79974509b1",
+            "address": "yq219o0rvm7nqp94onqzgipbes00acfdw4gg",
             "contents": {
               "pos1": 11,
               "seg": {
-                "text": "t",
+                "text": "6",
                 "props": {
                   "attribution": {
-                    "id": "chensi@microsoft.com",
-                    "name": "Si Chen",
-                    "email": "chensi@microsoft.com",
+                    "id": "ix04lnpjwpd1pz5zb5cx",
+                    "name": "88 h6ok",
+                    "email": "ix04lnpjwpd1pz5zb5cx",
                     "timestamp": 1641336000000
                   }
                 }
@@ -1885,12 +1885,12 @@
     "contents": {
       "type": "component",
       "contents": {
-        "address": "_scheduler",
+        "address": "rgxus7u7ny",
         "contents": {
           "content": {
-            "address": "8047978b-16bc-4de9-9ae2-9f1861216504",
+            "address": "rzg5xanzqk8p88s5d9i5khse2ooghslqpwyk",
             "contents": {
-              "key": "leader",
+              "key": "ap6qch",
               "type": "write",
               "serializedValue": "null",
               "refSeq": 67
