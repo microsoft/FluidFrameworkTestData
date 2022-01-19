@@ -89,15 +89,6 @@
                       "contents": "{\"pkg\":\"[\\\"_scheduler\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"gcData\":{\"gcNodes\":{\"/8047978b-16bc-4de9-9ae2-9f1861216504\":[\"/_scheduler\"],\"/root\":[\"/_scheduler/8047978b-16bc-4de9-9ae2-9f1861216504\",\"/_scheduler\"],\"/\":[\"/_scheduler/root\",\"/_scheduler/8047978b-16bc-4de9-9ae2-9f1861216504\"]}},\"usedRoutes\":[\"\",\"/8047978b-16bc-4de9-9ae2-9f1861216504\",\"/root\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -269,15 +260,6 @@
                       "contents": "{\"pkg\":\"[\\\"@ms/scriptor\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"gcData\":{\"gcNodes\":{\"/03d14e28-6fef-4bf7-a61b-c2407d01f080\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"],\"/faf33ea9-7629-46b6-9c47-15897d998dd8\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"],\"/153fb535-437e-443f-b2cf-f8b1456215cc\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"],\"/root\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"],\"/50b4442b-cea2-458a-9218-7e79974509b1\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"],\"/\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/root\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\"]}},\"usedRoutes\":[\"\",\"/03d14e28-6fef-4bf7-a61b-c2407d01f080\",\"/153fb535-437e-443f-b2cf-f8b1456215cc\",\"/50b4442b-cea2-458a-9218-7e79974509b1\",\"/faf33ea9-7629-46b6-9c47-15897d998dd8\",\"/root\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -350,15 +332,6 @@
                       "contents": "{\"pkg\":\"[\\\"OfficeRootComponent\\\",\\\"LastEditedComponent\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"gcData\":{\"gcNodes\":{\"/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc\"],\"/root\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\",\"/c8333ec1-92e3-4451-9873-c53d48282cbc\"],\"/\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc/root\",\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\"]}},\"usedRoutes\":[\"\",\"/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\",\"/root\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -413,15 +386,6 @@
                       "contents": "{\"pkg\":\"[\\\"OfficeRootComponent\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"gcData\":{\"gcNodes\":{\"/root\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\",\"/defaultComponent\"],\"/\":[\"/defaultComponent/root\"]}},\"usedRoutes\":[\"\",\"/root\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -441,6 +405,24 @@
           "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryFormatVersion\":1,\"gcFeature\":1,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"}}",
           "encoding": "utf-8"
         }
+      },
+      {
+        "path": "gc",
+        "value": {
+          "entries": [
+            {
+              "path": "__gc_root",
+              "mode": "100644",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"gcNodes\":{\"/_scheduler/8047978b-16bc-4de9-9ae2-9f1861216504\":{\"outboundRoutes\":[\"/_scheduler\"]},\"/_scheduler/root\":{\"outboundRoutes\":[\"/_scheduler/8047978b-16bc-4de9-9ae2-9f1861216504\",\"/_scheduler\"]},\"/_scheduler\":{\"outboundRoutes\":[\"/_scheduler/root\",\"/_scheduler/8047978b-16bc-4de9-9ae2-9f1861216504\"]},\"/defaultComponent/root\":{\"outboundRoutes\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\",\"/defaultComponent\"]},\"/defaultComponent\":{\"outboundRoutes\":[\"/defaultComponent/root\"]},\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\":{\"outboundRoutes\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc\"]},\"/c8333ec1-92e3-4451-9873-c53d48282cbc/root\":{\"outboundRoutes\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\",\"/c8333ec1-92e3-4451-9873-c53d48282cbc\"]},\"/c8333ec1-92e3-4451-9873-c53d48282cbc\":{\"outboundRoutes\":[\"/c8333ec1-92e3-4451-9873-c53d48282cbc/root\",\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\"]},\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\":{\"outboundRoutes\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"]},\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\":{\"outboundRoutes\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"]},\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\":{\"outboundRoutes\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"]},\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/root\":{\"outboundRoutes\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"]},\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\":{\"outboundRoutes\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"]},\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\":{\"outboundRoutes\":[\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/root\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\",\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\"]},\"/\":{\"outboundRoutes\":[\"/_scheduler\",\"/defaultComponent\"]}}}",
+                "encoding": "utf-8"
+              }
+            }
+          ]
+        },
+        "mode": "040000",
+        "type": "Tree"
       },
       {
         "mode": "100644",
