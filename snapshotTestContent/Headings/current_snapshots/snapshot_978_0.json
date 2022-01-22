@@ -89,15 +89,6 @@
                       "contents": "{\"pkg\":\"[\\\"_scheduler\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -122,15 +113,6 @@
                     "type": "Blob",
                     "value": {
                       "contents": "{\"pkg\":\"[\\\"@ms/application-services\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
-                      "encoding": "utf-8"
-                    }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
                       "encoding": "utf-8"
                     }
                   }
@@ -187,15 +169,6 @@
                       "contents": "{\"pkg\":\"[\\\"@ms/atmentions\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -222,15 +195,6 @@
                       "contents": "{\"pkg\":\"[\\\"@ms/augloop\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -255,15 +219,6 @@
                     "type": "Blob",
                     "value": {
                       "contents": "{\"pkg\":\"[\\\"@ms/catalog\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
-                      "encoding": "utf-8"
-                    }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
                       "encoding": "utf-8"
                     }
                   }
@@ -734,15 +689,6 @@
                       "contents": "{\"pkg\":\"[\\\"@ms/scriptor\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -769,15 +715,6 @@
                       "contents": "{\"pkg\":\"[\\\"@ms/discover\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
                       "encoding": "utf-8"
                     }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
-                      "encoding": "utf-8"
-                    }
                   }
                 ]
               },
@@ -802,15 +739,6 @@
                     "type": "Blob",
                     "value": {
                       "contents": "{\"pkg\":\"[\\\"@ms/registro\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
-                      "encoding": "utf-8"
-                    }
-                  },
-                  {
-                    "path": "gc",
-                    "mode": "100644",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"usedRoutes\":[\"\"]}",
                       "encoding": "utf-8"
                     }
                   }
