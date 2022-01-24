@@ -6,7 +6,7 @@
         "path": ".attributes",
         "type": "Blob",
         "value": {
-          "contents": "{\"branch\":\"FileStorageDocId\",\"minimumSequenceNumber\":7998,\"sequenceNumber\":8000,\"term\":1}",
+          "contents": "{\"minimumSequenceNumber\":7998,\"sequenceNumber\":8000,\"term\":1}",
           "encoding": "utf-8"
         }
       },
