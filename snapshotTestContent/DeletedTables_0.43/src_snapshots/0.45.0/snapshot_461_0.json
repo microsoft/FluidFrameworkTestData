@@ -5406,7 +5406,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code\",{\"approvalSequenceNumber\":10,\"commitSequenceNumber\":12,\"key\":\"code\",\"sequenceNumber\":8,\"value\":{\"package\":{\"name\":\"@ms/office-fluid-container\",\"version\":\"9365482\",\"fluid\":{\"browser\":{\"umd\":{\"files\":[\"https://cdn.fluidpreview.office.net/fluid/prod/container/hashed/runtime.77686c2e4d3a06d29c29.js\",\"https://cdn.fluidpreview.office.net/fluid/prod/container/hashed/officeContainer.0f2d39638604fd2e76d9.js\"],\"library\":\"officeContainer\"}}}},\"config\":{}}}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":10,\"commitSequenceNumber\":-1,\"key\":\"code\",\"sequenceNumber\":8,\"value\":{\"package\":{\"name\":\"@ms/office-fluid-container\",\"version\":\"9365482\",\"fluid\":{\"browser\":{\"umd\":{\"files\":[\"https://cdn.fluidpreview.office.net/fluid/prod/container/hashed/runtime.77686c2e4d3a06d29c29.js\",\"https://cdn.fluidpreview.office.net/fluid/prod/container/hashed/officeContainer.0f2d39638604fd2e76d9.js\"],\"library\":\"officeContainer\"}}}},\"config\":{}}}]]",
           "encoding": "utf-8"
         }
       }

@@ -1149,7 +1149,7 @@
         "path": "quorumProposals",
         "type": "Blob",
         "value": {
-          "contents": "[[5994,{\"sequenceNumber\":5994,\"key\":\"leader\",\"value\":\"03b03603-1a25-4e90-8493-90eeb7ed68c9\"},[\"44e8cea9-1653-428b-a103-f42d7191b6b4\"]],[5995,{\"sequenceNumber\":5995,\"key\":\"leader\",\"value\":\"03b03603-1a25-4e90-8493-90eeb7ed68c9\"},[\"44e8cea9-1653-428b-a103-f42d7191b6b4\"]],[5996,{\"sequenceNumber\":5996,\"key\":\"leader\",\"value\":\"6c9b15af-d42c-4f0f-8271-6940cf3316dc\"},[]],[5997,{\"sequenceNumber\":5997,\"key\":\"leader\",\"value\":\"6c9b15af-d42c-4f0f-8271-6940cf3316dc\"},[]],[6000,{\"sequenceNumber\":6000,\"key\":\"leader\",\"value\":\"07c5a642-9050-4792-8a83-f54a8366c127\"},[]]]",
+          "contents": "[]",
           "encoding": "utf-8"
         }
       },
@@ -1158,7 +1158,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-prague-container\"}}],[\"leader\",{\"approvalSequenceNumber\":5992,\"commitSequenceNumber\":-1,\"key\":\"leader\",\"sequenceNumber\":5990,\"value\":\"07c5a642-9050-4792-8a83-f54a8366c127\"}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":-1,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-prague-container\"}}]]",
           "encoding": "utf-8"
         }
       }
