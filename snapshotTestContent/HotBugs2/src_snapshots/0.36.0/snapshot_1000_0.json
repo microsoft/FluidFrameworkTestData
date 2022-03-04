@@ -771,7 +771,7 @@
         "path": "quorumProposals",
         "type": "Blob",
         "value": {
-          "contents": "[[988,{\"sequenceNumber\":988,\"key\":\"leader\"},[]],[989,{\"sequenceNumber\":989,\"key\":\"leader\"},[]],[990,{\"sequenceNumber\":990,\"key\":\"leader\"},[]],[991,{\"sequenceNumber\":991,\"key\":\"leader\"},[]],[992,{\"sequenceNumber\":992,\"key\":\"leader\"},[]],[993,{\"sequenceNumber\":993,\"key\":\"leader\"},[]],[994,{\"sequenceNumber\":994,\"key\":\"leader\"},[]]]",
+          "contents": "[]",
           "encoding": "utf-8"
         }
       },
@@ -780,7 +780,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}],[\"leader\",{\"approvalSequenceNumber\":1000,\"commitSequenceNumber\":-1,\"key\":\"leader\",\"sequenceNumber\":987}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":-1,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}]]",
           "encoding": "utf-8"
         }
       },

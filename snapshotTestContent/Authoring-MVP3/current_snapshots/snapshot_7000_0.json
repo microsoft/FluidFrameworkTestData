@@ -1038,7 +1038,7 @@
         "mode": "100644",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"be3004e4-4638-4c72-9d26-c68f269c846b\",\"clientSequenceNumber\":1,\"minimumSequenceNumber\":6997,\"referenceSequenceNumber\":6999,\"sequenceNumber\":7000,\"timestamp\":1564505814281,\"type\":\"propose\"}}",
+          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"be3004e4-4638-4c72-9d26-c68f269c846b\",\"clientSequenceNumber\":1,\"minimumSequenceNumber\":6997,\"referenceSequenceNumber\":6999,\"sequenceNumber\":7000,\"timestamp\":1564505814281,\"type\":\"noop\"}}",
           "encoding": "utf-8"
         }
       },
@@ -1056,7 +1056,7 @@
         "path": "quorumProposals",
         "type": "Blob",
         "value": {
-          "contents": "[[7000,{\"sequenceNumber\":7000,\"key\":\"leader\"},[]]]",
+          "contents": "[]",
           "encoding": "utf-8"
         }
       },
@@ -1065,7 +1065,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}],[\"leader\",{\"approvalSequenceNumber\":3837,\"commitSequenceNumber\":3838,\"key\":\"leader\",\"sequenceNumber\":3835,\"value\":\"c3931334-2f54-414d-932d-002cee6f4280\"}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":-1,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-fluid-container\"}}]]",
           "encoding": "utf-8"
         }
       }

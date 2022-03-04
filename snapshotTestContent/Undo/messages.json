@@ -48,7 +48,7 @@
     "sequenceNumber": 4,
     "timestamp": 1564522670107,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -37382,7 +37382,7 @@
     "sequenceNumber": 1410,
     "timestamp": 1564523772026,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "9708c2fb-40fd-44d1-aed1-f237c99bcdcb",
@@ -40516,7 +40516,7 @@
     "sequenceNumber": 1528,
     "timestamp": 1564524167572,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -40552,7 +40552,7 @@
     "sequenceNumber": 1531,
     "timestamp": 1564524173447,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -40574,7 +40574,7 @@
     "sequenceNumber": 1533,
     "timestamp": 1564524174447,
     "traces": [],
-    "type": "reject"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -44808,7 +44808,7 @@
     "sequenceNumber": 1686,
     "timestamp": 1564524459624,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "8d0286e5-3783-4637-ac92-df2980eb7fd2",
@@ -55429,7 +55429,7 @@
     "sequenceNumber": 2072,
     "timestamp": 1564524578152,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -69649,7 +69649,7 @@
     "sequenceNumber": 2601,
     "timestamp": 1564524948333,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "5822164b-d8ae-43da-bdd6-b19a3e60b942",
@@ -69761,7 +69761,7 @@
     "sequenceNumber": 2607,
     "timestamp": 1564524952574,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -69797,7 +69797,7 @@
     "sequenceNumber": 2610,
     "timestamp": 1564524959378,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "6ea8df9f-5b14-48a1-a8c0-6d2eaad3d0a1",
@@ -69840,7 +69840,7 @@
     "sequenceNumber": 2612,
     "timestamp": 1564524959425,
     "traces": [],
-    "type": "reject"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -69956,7 +69956,7 @@
     "sequenceNumber": 2620,
     "timestamp": 1564525078151,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "4f08983f-c1fe-4d48-b9b1-6c54fc4e812f",
@@ -70068,7 +70068,7 @@
     "sequenceNumber": 2626,
     "timestamp": 1564525083527,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -70104,7 +70104,7 @@
     "sequenceNumber": 2629,
     "timestamp": 1564525088356,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "0027343d-f535-43b0-8508-1d75722ef457",
@@ -70179,7 +70179,7 @@
     "sequenceNumber": 2632,
     "timestamp": 1564525088403,
     "traces": [],
-    "type": "reject"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -77334,7 +77334,7 @@
     "sequenceNumber": 2898,
     "timestamp": 1564525251509,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "24dcef44-39cd-479f-a268-8758eb5b2c7d",
@@ -77414,7 +77414,7 @@
     "sequenceNumber": 2903,
     "timestamp": 1564525264381,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -77450,7 +77450,7 @@
     "sequenceNumber": 2906,
     "timestamp": 1564525276527,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "093dbf1f-c7c7-43cc-bc8f-4cfc83b23cb0",
@@ -77586,7 +77586,7 @@
     "sequenceNumber": 2914,
     "timestamp": 1564525336535,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "42f5db03-9fc0-498f-9309-8e96fc11df00",
@@ -87019,7 +87019,7 @@
     "sequenceNumber": 3255,
     "timestamp": 1564525685525,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -87033,7 +87033,7 @@
     "sequenceNumber": 3256,
     "timestamp": 1564525685525,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c27f7136-f696-4d16-a987-b016864acfc9",
@@ -87128,7 +87128,7 @@
     "sequenceNumber": 3264,
     "timestamp": 1564526392569,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": null,
@@ -87153,7 +87153,7 @@
     "sequenceNumber": 3266,
     "timestamp": 1564526404747,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "edf10435-ba01-4111-a5c7-41de4e49af58",
@@ -87189,7 +87189,7 @@
     "sequenceNumber": 3269,
     "timestamp": 1564526407138,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "edf10435-ba01-4111-a5c7-41de4e49af58",
@@ -87249,7 +87249,7 @@
     "sequenceNumber": 3274,
     "timestamp": 1564526783034,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "77351d9c-8048-4a83-9cf5-a8da9daaab88",
@@ -87426,7 +87426,7 @@
     "sequenceNumber": 3283,
     "timestamp": 1564529080793,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "cc9656f8-511a-4025-bab7-df3fe1eea3c4",
@@ -87603,7 +87603,7 @@
     "sequenceNumber": 3292,
     "timestamp": 1564531184722,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "121ec271-17af-43ce-ad10-ce4b23ca92e3",
@@ -87823,7 +87823,7 @@
     "sequenceNumber": 3303,
     "timestamp": 1564532566158,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "26ead75d-b715-415c-b719-0b02ddeb96b4",
@@ -88036,7 +88036,7 @@
     "sequenceNumber": 3315,
     "timestamp": 1564534213622,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "f187fe10-806f-4ca9-8e44-9fff9f93ff6a",
@@ -88213,7 +88213,7 @@
     "sequenceNumber": 3324,
     "timestamp": 1564534345000,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "9dc26562-79dc-46d1-889d-32034ba60cd9",
@@ -88433,7 +88433,7 @@
     "sequenceNumber": 3335,
     "timestamp": 1564534438960,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "8c849af5-fba8-4602-bb2a-32ecc6d77db6",
@@ -88610,7 +88610,7 @@
     "sequenceNumber": 3344,
     "timestamp": 1564537328041,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "c971947e-a319-4ebc-afa0-d50d2fad30c5",
@@ -88787,7 +88787,7 @@
     "sequenceNumber": 3353,
     "timestamp": 1564557840480,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "657737e7-a9bf-4eb9-9d6c-45a643b3e53f",
@@ -88989,7 +88989,7 @@
     "sequenceNumber": 3364,
     "timestamp": 1564615228875,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "a5ad1986-5423-45f6-9ec4-2b1ab895a5c5",
@@ -89037,7 +89037,7 @@
     "sequenceNumber": 3368,
     "timestamp": 1564616219471,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "3ce4624a-d7bc-4b17-ba9e-a1e933c9b506",
@@ -89139,7 +89139,7 @@
     "sequenceNumber": 3372,
     "timestamp": 1564616219518,
     "traces": [],
-    "type": "reject"
+    "type": "noop"
   },
   {
     "clientId": "3ce4624a-d7bc-4b17-ba9e-a1e933c9b506",
@@ -89214,7 +89214,7 @@
     "sequenceNumber": 3377,
     "timestamp": 1564645742235,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "24f7d247-0c6c-49d9-b9b2-be2894ec32b7",
@@ -89316,7 +89316,7 @@
     "sequenceNumber": 3381,
     "timestamp": 1564645742313,
     "traces": [],
-    "type": "reject"
+    "type": "noop"
   },
   {
     "clientId": "24f7d247-0c6c-49d9-b9b2-be2894ec32b7",
@@ -89391,7 +89391,7 @@
     "sequenceNumber": 3386,
     "timestamp": 1564682079310,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "5ba296e6-d0a0-4929-b4c2-acb9de4a88f8",
@@ -89611,7 +89611,7 @@
     "sequenceNumber": 3397,
     "timestamp": 1564682105049,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "f22e3316-6078-48a2-b7da-0b85e1a7a59b",
@@ -89776,7 +89776,7 @@
     "sequenceNumber": 3405,
     "timestamp": 1564682184315,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "0a682141-1813-4aa9-b123-218ca3b15079",
@@ -89856,7 +89856,7 @@
     "sequenceNumber": 3410,
     "timestamp": 1564684281322,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "5222e4ca-8060-4081-b363-a7eb6b612d1d",
@@ -89979,7 +89979,7 @@
     "sequenceNumber": 3417,
     "timestamp": 1564684300560,
     "traces": [],
-    "type": "propose"
+    "type": "noop"
   },
   {
     "clientId": "7f5cde67-3ca8-4108-94be-ace2cad19bb7",

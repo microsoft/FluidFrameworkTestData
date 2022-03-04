@@ -822,7 +822,7 @@
         "path": "quorumProposals",
         "type": "Blob",
         "value": {
-          "contents": "[[5806,{\"sequenceNumber\":5806,\"key\":\"leader\"},[]]]",
+          "contents": "[]",
           "encoding": "utf-8"
         }
       },
@@ -831,7 +831,7 @@
         "path": "quorumValues",
         "type": "Blob",
         "value": {
-          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":4,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-prague-container\"}}],[\"leader\",{\"approvalSequenceNumber\":5795,\"commitSequenceNumber\":5796,\"key\":\"leader\",\"sequenceNumber\":5793}]]",
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":3,\"commitSequenceNumber\":-1,\"key\":\"code\",\"sequenceNumber\":2,\"value\":{\"package\":\"@ms/office-prague-container\"}}]]",
           "encoding": "utf-8"
         }
       }
