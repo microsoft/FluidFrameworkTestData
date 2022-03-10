@@ -227,6 +227,15 @@
                             "entries": [
                               {
                                 "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
