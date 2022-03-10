@@ -8,7 +8,7 @@
         "path": ".attributes",
         "type": "Blob",
         "value": {
-          "contents": "{\"minimumSequenceNumber\":72,\"sequenceNumber\":72,\"term\":1}",
+          "contents": "{\"minimumSequenceNumber\":62,\"sequenceNumber\":64,\"term\":1}",
           "encoding": "utf-8"
         }
       },
@@ -17,7 +17,7 @@
         "path": "quorumMembers",
         "type": "Blob",
         "value": {
-          "contents": "[]",
+          "contents": "[[\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\",{\"client\":{\"user\":{\"id\":\"mbjknz0djsm08533mpw1@test.com\",\"name\":\"ip mfn8\",\"email\":\"mbjknz0djsm08533mpw1@test.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"scopes\":[\"doc:read\",\"doc:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":true}},\"timestamp\":1641336101952,\"mode\":\"write\"},\"sequenceNumber\":1}],[\"d3bd935c-94c9-4de1-b992-08d6554b3465\",{\"client\":{\"user\":{\"id\":\"mbjknz0djsm08533mpw1@test.com\",\"name\":\"ip mfn8\",\"email\":\"mbjknz0djsm08533mpw1@test.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"scopes\":[\"doc:read\",\"doc:write\",\"summary:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":false},\"type\":\"summarizer\"},\"timestamp\":1641336107084,\"mode\":\"write\"},\"sequenceNumber\":14}]]",
           "encoding": "utf-8"
         }
       },
@@ -95,7 +95,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"leader\":{\"atomic\":{\"sequenceNumber\":68,\"value\":{\"type\":\"Plain\",\"value\":null}},\"versions\":[{\"sequenceNumber\":68,\"value\":{\"type\":\"Plain\",\"value\":null}}]}}",
+                                  "contents": "{\"leader\":{\"atomic\":{\"sequenceNumber\":5,\"value\":{\"type\":\"Plain\",\"value\":\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\"}},\"versions\":[{\"sequenceNumber\":5,\"value\":{\"type\":\"Plain\",\"value\":\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\"}}]}}",
                                   "encoding": "utf-8"
                                 }
                               },
@@ -227,6 +227,15 @@
                             "entries": [
                               {
                                 "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
@@ -308,7 +317,7 @@
                                       "path": "header",
                                       "type": "Blob",
                                       "value": {
-                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":13,\"totalLengthChars\":13,\"totalSegmentCount\":2,\"chunkSequenceNumber\":72,\"segmentTexts\":[{\"text\":\"new document\",\"props\":{\"attribution\":{\"id\":\"mbjknz0djsm08533mpw1@test.com\",\"name\":\"ip mfn8\",\"email\":\"mbjknz0djsm08533mpw1@test.com\",\"timestamp\":1641336000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"1925c045-d6e5-4161-86b2-16201ee4cf7e\",\"nodeType\":\"Paragraph\",\"list!reference\":\"0;list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060;0\",\"placeholder!attributeText\":\"Add item\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":72,\"totalLength\":13,\"totalSegmentCount\":2}}",
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":13,\"totalLengthChars\":13,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"new document\",\"props\":{\"attribution\":{\"id\":\"mbjknz0djsm08533mpw1@test.com\",\"name\":\"ip mfn8\",\"email\":\"mbjknz0djsm08533mpw1@test.com\",\"timestamp\":1641336000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"1925c045-d6e5-4161-86b2-16201ee4cf7e\",\"nodeType\":\"Paragraph\",\"list!reference\":\"0;list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060;0\",\"placeholder!attributeText\":\"Add item\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":13,\"totalSegmentCount\":2}}",
                                         "encoding": "utf-8"
                                       }
                                     }
@@ -431,7 +440,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryFormatVersion\":1,\"gcFeature\":1,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"}}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryFormatVersion\":1,\"gcFeature\":1,\"message\":{\"clientId\":\"dbaa67b7-31f2-4fbf-b3a7-6c0b484c5406\",\"clientSequenceNumber\":59,\"minimumSequenceNumber\":62,\"referenceSequenceNumber\":63,\"sequenceNumber\":64,\"timestamp\":1641336122086,\"type\":\"noop\"}}",
           "encoding": "utf-8"
         }
       },
