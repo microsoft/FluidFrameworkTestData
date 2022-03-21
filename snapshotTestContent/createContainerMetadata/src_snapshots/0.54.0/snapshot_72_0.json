@@ -297,6 +297,14 @@
                           "value": {
                             "entries": [
                               {
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
                                 "path": ".attributes",
                                 "mode": "100644",
                                 "type": "Blob",
