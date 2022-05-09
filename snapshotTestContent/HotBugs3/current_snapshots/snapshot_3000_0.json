@@ -755,7 +755,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"type\":\"op\"}}",
+          "contents": "{\"summaryCount\":3,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"type\":\"op\"}}",
           "encoding": "utf-8"
         }
       }

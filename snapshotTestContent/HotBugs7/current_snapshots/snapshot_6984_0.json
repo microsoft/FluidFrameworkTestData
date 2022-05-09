@@ -953,7 +953,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":6982,\"referenceSequenceNumber\":-1,\"sequenceNumber\":6984,\"timestamp\":1564966532253,\"type\":\"join\"}}",
+          "contents": "{\"summaryCount\":7,\"summaryNumber\":7,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":6982,\"referenceSequenceNumber\":-1,\"sequenceNumber\":6984,\"timestamp\":1564966532253,\"type\":\"join\"}}",
           "encoding": "utf-8"
         }
       }

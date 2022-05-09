@@ -809,7 +809,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"c3931334-2f54-414d-932d-002cee6f4280\",\"clientSequenceNumber\":1051,\"minimumSequenceNumber\":999,\"referenceSequenceNumber\":999,\"sequenceNumber\":1000,\"timestamp\":1564433223162,\"type\":\"op\"}}",
+          "contents": "{\"summaryCount\":1,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"c3931334-2f54-414d-932d-002cee6f4280\",\"clientSequenceNumber\":1051,\"minimumSequenceNumber\":999,\"referenceSequenceNumber\":999,\"sequenceNumber\":1000,\"timestamp\":1564433223162,\"type\":\"op\"}}",
           "encoding": "utf-8"
         }
       }
