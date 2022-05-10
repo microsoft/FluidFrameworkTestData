@@ -701,7 +701,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryCount\":3,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"caff9589-9475-42dc-98b0-d2ed3fef2a95\",\"clientSequenceNumber\":2804,\"minimumSequenceNumber\":2953,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1562607288633,\"type\":\"op\"}}",
+          "contents": "{\"summaryCount\":3,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"caff9589-9475-42dc-98b0-d2ed3fef2a95\",\"clientSequenceNumber\":2804,\"minimumSequenceNumber\":2953,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1562607288633,\"type\":\"op\"}}",
           "encoding": "utf-8"
         }
       }

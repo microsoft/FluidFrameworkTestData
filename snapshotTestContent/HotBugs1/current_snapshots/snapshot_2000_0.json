@@ -944,7 +944,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryCount\":2,\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"13a2ffa3-69ef-4b11-aa42-ab5b1badbe97\",\"clientSequenceNumber\":1264,\"minimumSequenceNumber\":1655,\"referenceSequenceNumber\":1996,\"sequenceNumber\":2000,\"timestamp\":1564070537280,\"type\":\"op\"}}",
+          "contents": "{\"summaryCount\":2,\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"13a2ffa3-69ef-4b11-aa42-ab5b1badbe97\",\"clientSequenceNumber\":1264,\"minimumSequenceNumber\":1655,\"referenceSequenceNumber\":1996,\"sequenceNumber\":2000,\"timestamp\":1564070537280,\"type\":\"op\"}}",
           "encoding": "utf-8"
         }
       }

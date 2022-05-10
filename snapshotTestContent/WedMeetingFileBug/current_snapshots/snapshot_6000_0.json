@@ -1205,7 +1205,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryCount\":6,\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"07c5a642-9050-4792-8a83-f54a8366c127\",\"clientSequenceNumber\":7,\"minimumSequenceNumber\":5991,\"referenceSequenceNumber\":5991,\"sequenceNumber\":6000,\"timestamp\":1562374303629,\"type\":\"noop\"}}",
+          "contents": "{\"summaryCount\":6,\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"07c5a642-9050-4792-8a83-f54a8366c127\",\"clientSequenceNumber\":7,\"minimumSequenceNumber\":5991,\"referenceSequenceNumber\":5991,\"sequenceNumber\":6000,\"timestamp\":1562374303629,\"type\":\"noop\"}}",
           "encoding": "utf-8"
         }
       }
