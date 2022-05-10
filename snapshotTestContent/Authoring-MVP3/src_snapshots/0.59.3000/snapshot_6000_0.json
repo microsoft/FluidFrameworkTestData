@@ -971,7 +971,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"c47745c0-c165-4fb5-9ef0-ffc9c4dd29ff\",\"clientSequenceNumber\":2375,\"minimumSequenceNumber\":5999,\"referenceSequenceNumber\":5999,\"sequenceNumber\":6000,\"timestamp\":1564443650811,\"type\":\"op\"}}",
+          "contents": "{\"summaryCount\":6,\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"c47745c0-c165-4fb5-9ef0-ffc9c4dd29ff\",\"clientSequenceNumber\":2375,\"minimumSequenceNumber\":5999,\"referenceSequenceNumber\":5999,\"sequenceNumber\":6000,\"timestamp\":1564443650811,\"type\":\"op\"}}",
           "encoding": "utf-8"
         }
       }

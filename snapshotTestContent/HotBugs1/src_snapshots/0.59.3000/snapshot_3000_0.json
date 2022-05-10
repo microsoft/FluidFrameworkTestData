@@ -989,7 +989,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"d7e3c1a2-4d06-49cd-bc4f-e889fdd47524\",\"clientSequenceNumber\":4,\"minimumSequenceNumber\":2997,\"referenceSequenceNumber\":2997,\"sequenceNumber\":3000,\"timestamp\":1564088588407,\"type\":\"noop\"}}",
+          "contents": "{\"summaryCount\":3,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"d7e3c1a2-4d06-49cd-bc4f-e889fdd47524\",\"clientSequenceNumber\":4,\"minimumSequenceNumber\":2997,\"referenceSequenceNumber\":2997,\"sequenceNumber\":3000,\"timestamp\":1564088588407,\"type\":\"noop\"}}",
           "encoding": "utf-8"
         }
       }

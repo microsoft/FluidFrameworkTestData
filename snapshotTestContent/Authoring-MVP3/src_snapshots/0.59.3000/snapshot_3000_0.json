@@ -881,7 +881,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":2999,\"referenceSequenceNumber\":-1,\"sequenceNumber\":3000,\"timestamp\":1564433912486,\"type\":\"noop\"}}",
+          "contents": "{\"summaryCount\":3,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":2999,\"referenceSequenceNumber\":-1,\"sequenceNumber\":3000,\"timestamp\":1564433912486,\"type\":\"noop\"}}",
           "encoding": "utf-8"
         }
       }

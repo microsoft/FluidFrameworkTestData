@@ -1097,7 +1097,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryCount\":13,\"summaryNumber\":13,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":12480,\"referenceSequenceNumber\":-1,\"sequenceNumber\":12483,\"timestamp\":1564604456541,\"type\":\"join\"}}",
+          "contents": "{\"summaryCount\":13,\"summaryNumber\":13,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":12480,\"referenceSequenceNumber\":-1,\"sequenceNumber\":12483,\"timestamp\":1564604456541,\"type\":\"join\"}}",
           "encoding": "utf-8"
         }
       }

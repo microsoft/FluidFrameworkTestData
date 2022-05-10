@@ -5162,7 +5162,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":1,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":461,\"referenceSequenceNumber\":461,\"sequenceNumber\":461,\"timestamp\":1627344403198,\"type\":\"noClient\"}}",
+          "contents": "{\"summaryCount\":1,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":1,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":461,\"referenceSequenceNumber\":461,\"sequenceNumber\":461,\"timestamp\":1627344403198,\"type\":\"noClient\"}}",
           "encoding": "utf-8"
         }
       },

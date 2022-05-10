@@ -1160,7 +1160,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"061c803f-727c-4b5b-b9b4-865892dd3d58\",\"clientSequenceNumber\":30,\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4998,\"sequenceNumber\":5000,\"timestamp\":1562188611417,\"type\":\"noop\"}}",
+          "contents": "{\"summaryCount\":5,\"summaryNumber\":5,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"061c803f-727c-4b5b-b9b4-865892dd3d58\",\"clientSequenceNumber\":30,\"minimumSequenceNumber\":4068,\"referenceSequenceNumber\":4998,\"sequenceNumber\":5000,\"timestamp\":1562188611417,\"type\":\"noop\"}}",
           "encoding": "utf-8"
         }
       }
