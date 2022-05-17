@@ -845,7 +845,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":8855,\"referenceSequenceNumber\":-1,\"sequenceNumber\":8858,\"timestamp\":1565148898593,\"type\":\"join\"}}",
+          "contents": "{\"summaryCount\":9,\"summaryNumber\":9,\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":8855,\"referenceSequenceNumber\":-1,\"sequenceNumber\":8858,\"timestamp\":1565148898593,\"type\":\"join\"}}",
           "encoding": "utf-8"
         }
       }
