@@ -226,15 +226,6 @@
                           "value": {
                             "entries": [
                               {
-                                "mode": "100644",
-                                "path": "header",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"intervalCollections\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/f94f4423-5464-403d-9197-35838845afd7\"}}}",
-                                  "encoding": "utf-8"
-                                }
-                              },
-                              {
                                 "mode": "040000",
                                 "path": "content",
                                 "type": "Tree",
@@ -728,7 +719,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryFormatVersion\":1,\"gcFeature\":0,\"message\":{\"clientId\":\"caff9589-9475-42dc-98b0-d2ed3fef2a95\",\"clientSequenceNumber\":4947,\"minimumSequenceNumber\":4768,\"referenceSequenceNumber\":4997,\"sequenceNumber\":5000,\"timestamp\":1562608789028,\"type\":\"op\"}}",
+          "contents": "{\"summaryCount\":5,\"summaryNumber\":5,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"caff9589-9475-42dc-98b0-d2ed3fef2a95\",\"clientSequenceNumber\":4947,\"minimumSequenceNumber\":4768,\"referenceSequenceNumber\":4997,\"sequenceNumber\":5000,\"timestamp\":1562608789028,\"type\":\"op\"}}",
           "encoding": "utf-8"
         }
       }

@@ -3618,7 +3618,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryFormatVersion\":1,\"gcFeature\":1,\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":42,\"minimumSequenceNumber\":189,\"referenceSequenceNumber\":472,\"sequenceNumber\":473,\"timestamp\":1646688512878,\"type\":\"summarize\"}}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryCount\":1,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":1,\"sweepEnabled\":false,\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":42,\"minimumSequenceNumber\":189,\"referenceSequenceNumber\":472,\"sequenceNumber\":473,\"timestamp\":1646688512878,\"type\":\"summarize\"}}",
           "encoding": "utf-8"
         }
       },
