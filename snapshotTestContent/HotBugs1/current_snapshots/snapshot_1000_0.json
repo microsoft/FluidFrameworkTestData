@@ -874,15 +874,6 @@
                           "value": {
                             "entries": [
                               {
-                                "mode": "100644",
-                                "path": "header",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"intervalCollections\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/219bc753-71a8-43ee-aed4-8a71ae7eee46\"}}}",
-                                  "encoding": "utf-8"
-                                }
-                              },
-                              {
                                 "mode": "040000",
                                 "path": "content",
                                 "type": "Tree",

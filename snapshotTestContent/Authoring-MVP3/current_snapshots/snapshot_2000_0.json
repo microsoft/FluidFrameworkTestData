@@ -388,15 +388,6 @@
                           "value": {
                             "entries": [
                               {
-                                "mode": "100644",
-                                "path": "header",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"intervalCollections\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/defaultComponent/347f0495-5605-4622-bcf1-0571a2bc2178\"}}}",
-                                  "encoding": "utf-8"
-                                }
-                              },
-                              {
                                 "mode": "040000",
                                 "path": "content",
                                 "type": "Tree",
