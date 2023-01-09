@@ -440,7 +440,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":1,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"}}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":2,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"}}",
           "encoding": "utf-8"
         }
       },
