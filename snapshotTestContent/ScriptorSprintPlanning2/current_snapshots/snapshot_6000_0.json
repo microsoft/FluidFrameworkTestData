@@ -827,7 +827,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"a87adae8-3c20-45e7-bd5c-96a65787c2ff\",\"clientSequenceNumber\":225,\"minimumSequenceNumber\":5803,\"referenceSequenceNumber\":5996,\"sequenceNumber\":6000,\"timestamp\":1563902618480,\"type\":\"op\"}}",
+          "contents": "{\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"a87adae8-3c20-45e7-bd5c-96a65787c2ff\",\"clientSequenceNumber\":225,\"minimumSequenceNumber\":5803,\"referenceSequenceNumber\":5996,\"sequenceNumber\":6000,\"timestamp\":1563902618480,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }

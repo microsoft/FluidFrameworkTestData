@@ -746,7 +746,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"type\":\"op\"}}",
+          "contents": "{\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }

@@ -980,7 +980,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":1343,\"referenceSequenceNumber\":-1,\"sequenceNumber\":1344,\"timestamp\":1565366518810,\"type\":\"join\"}}",
+          "contents": "{\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":1343,\"referenceSequenceNumber\":-1,\"sequenceNumber\":1344,\"timestamp\":1565366518810,\"type\":\"join\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }

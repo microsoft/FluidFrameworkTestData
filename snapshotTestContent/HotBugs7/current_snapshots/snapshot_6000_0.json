@@ -962,7 +962,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"685663d8-b87b-4040-af13-ffc3d4d4b386\",\"clientSequenceNumber\":1830,\"minimumSequenceNumber\":5998,\"referenceSequenceNumber\":5998,\"sequenceNumber\":6000,\"timestamp\":1564949503149,\"type\":\"op\"}}",
+          "contents": "{\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"685663d8-b87b-4040-af13-ffc3d4d4b386\",\"clientSequenceNumber\":1830,\"minimumSequenceNumber\":5998,\"referenceSequenceNumber\":5998,\"sequenceNumber\":6000,\"timestamp\":1564949503149,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }
