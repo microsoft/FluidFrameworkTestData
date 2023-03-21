@@ -1088,7 +1088,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":11,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"7f2fa709-5f9b-4c49-9db0-aabc8539d881\",\"clientSequenceNumber\":50,\"minimumSequenceNumber\":10996,\"referenceSequenceNumber\":10997,\"sequenceNumber\":11000,\"timestamp\":1564524451897,\"type\":\"op\"},\"telemetryDocumentId\":\"a\"}",
+          "contents": "{\"summaryNumber\":11,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"7f2fa709-5f9b-4c49-9db0-aabc8539d881\",\"clientSequenceNumber\":50,\"minimumSequenceNumber\":10996,\"referenceSequenceNumber\":10997,\"sequenceNumber\":11000,\"timestamp\":1564524451897,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }

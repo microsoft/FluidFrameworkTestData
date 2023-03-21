@@ -719,7 +719,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":4,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"caff9589-9475-42dc-98b0-d2ed3fef2a95\",\"clientSequenceNumber\":3878,\"minimumSequenceNumber\":3991,\"referenceSequenceNumber\":3998,\"sequenceNumber\":4000,\"timestamp\":1562607953895,\"type\":\"op\"},\"telemetryDocumentId\":\"a\"}",
+          "contents": "{\"summaryNumber\":4,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"caff9589-9475-42dc-98b0-d2ed3fef2a95\",\"clientSequenceNumber\":3878,\"minimumSequenceNumber\":3991,\"referenceSequenceNumber\":3998,\"sequenceNumber\":4000,\"timestamp\":1562607953895,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }

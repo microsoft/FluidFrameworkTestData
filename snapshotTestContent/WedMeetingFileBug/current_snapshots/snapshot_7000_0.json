@@ -1196,7 +1196,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":7,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":6997,\"referenceSequenceNumber\":-1,\"sequenceNumber\":7000,\"timestamp\":1562575707832,\"type\":\"leave\"},\"telemetryDocumentId\":\"a\"}",
+          "contents": "{\"summaryNumber\":7,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":6997,\"referenceSequenceNumber\":-1,\"sequenceNumber\":7000,\"timestamp\":1562575707832,\"type\":\"leave\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       }

@@ -2861,7 +2861,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":5,\"summaryFormatVersion\":1,\"gcFeature\":1,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":123,\"referenceSequenceNumber\":-1,\"sequenceNumber\":128,\"timestamp\":1646688360834,\"type\":\"leave\"},\"telemetryDocumentId\":\"a\"}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":5,\"summaryFormatVersion\":1,\"gcFeature\":1,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":123,\"referenceSequenceNumber\":-1,\"sequenceNumber\":128,\"timestamp\":1646688360834,\"type\":\"leave\"},\"telemetryDocumentId\":\"x\"}",
           "encoding": "utf-8"
         }
       },
