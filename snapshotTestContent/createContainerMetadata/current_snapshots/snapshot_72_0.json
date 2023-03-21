@@ -149,7 +149,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"rootComponentConfig\":{\"type\":\"Plain\",\"value\":{\"canvasComponentType\":\"@ms/scriptor\"}},\"lastEditedId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/c8333ec1-92e3-4451-9873-c53d48282cbc\"}},\"defaultViewId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"}}}}}",
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":\"[]\"},\"storage\":{\"rootComponentConfig\":{\"type\":\"Plain\",\"value\":{\"canvasComponentType\":\"@ms/scriptor\"}},\"lastEditedId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/c8333ec1-92e3-4451-9873-c53d48282cbc\"}},\"defaultViewId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f\"}}}}}",
                                   "encoding": "utf-8"
                                 }
                               },
@@ -203,7 +203,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"lastEditedSharedSummaryBlockKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\"}},\"lastEditCreatorKey\":{\"type\":\"Plain\",\"value\":{\"user\":{\"id\":\"mbjknz0djsm08533mpw1@test.com\",\"name\":\"ip mfn8\",\"email\":\"mbjknz0djsm08533mpw1@test.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"timestamp\":1641336102541}}}}}",
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":\"[]\"},\"storage\":{\"lastEditedSharedSummaryBlockKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/c8333ec1-92e3-4451-9873-c53d48282cbc/8ec45b33-c82c-493d-9b6e-8ee1c04f6226\"}},\"lastEditCreatorKey\":{\"type\":\"Plain\",\"value\":{\"user\":{\"id\":\"mbjknz0djsm08533mpw1@test.com\",\"name\":\"ip mfn8\",\"email\":\"mbjknz0djsm08533mpw1@test.com\",\"oid\":\"a0d1c626-5205-44c7-8b91-301299ac86a9\"},\"timestamp\":1641336102541}}}}}",
                                   "encoding": "utf-8"
                                 }
                               },
@@ -284,7 +284,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"},\"text:style!registry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\"}},\"text:list!registry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\"}}}}}",
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":\"[]\"},\"storage\":{\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/50b4442b-cea2-458a-9218-7e79974509b1\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"},\"text:style!registry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/03d14e28-6fef-4bf7-a61b-c2407d01f080\"}},\"text:list!registry\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/faf33ea9-7629-46b6-9c47-15897d998dd8\"}}}}}",
                                   "encoding": "utf-8"
                                 }
                               },
@@ -347,7 +347,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"}}}}",
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":\"[]\"},\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"StyleRegistry\"}}}}",
                                   "encoding": "utf-8"
                                 }
                               },
@@ -374,7 +374,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\"}}}}}",
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":\"[]\"},\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"ListRegistry\"},\"list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/9552e6f6-028f-46f5-8f7c-f6e4d15c953f/153fb535-437e-443f-b2cf-f8b1456215cc\"}}}}}",
                                   "encoding": "utf-8"
                                 }
                               },
@@ -401,7 +401,7 @@
                                 "path": "header",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"List\"},\"list!id\":{\"type\":\"Plain\",\"value\":\"list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060\"},\"list!itemFormat-0\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-1\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-2\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-3\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-4\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-5\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-6\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-7\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-8\":{\"type\":\"Plain\",\"value\":\"%cb\"}}}}",
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":\"[]\"},\"storage\":{\"nodeType\":{\"type\":\"Plain\",\"value\":\"List\"},\"list!id\":{\"type\":\"Plain\",\"value\":\"list!list-dbaa67b7-31f2-4fbf-b3a7-6c0b484c54060\"},\"list!itemFormat-0\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-1\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-2\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-3\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-4\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-5\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-6\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-7\":{\"type\":\"Plain\",\"value\":\"%cb\"},\"list!itemFormat-8\":{\"type\":\"Plain\",\"value\":\"%cb\"}}}}",
                                   "encoding": "utf-8"
                                 }
                               },
