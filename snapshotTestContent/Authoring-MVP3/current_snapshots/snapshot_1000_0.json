@@ -800,7 +800,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"c3931334-2f54-414d-932d-002cee6f4280\",\"clientSequenceNumber\":1051,\"minimumSequenceNumber\":999,\"referenceSequenceNumber\":999,\"sequenceNumber\":1000,\"timestamp\":1564433223162,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
+          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"c3931334-2f54-414d-932d-002cee6f4280\",\"clientSequenceNumber\":1051,\"minimumSequenceNumber\":999,\"referenceSequenceNumber\":999,\"sequenceNumber\":1000,\"timestamp\":1564433223162,\"type\":\"op\"},\"telemetryDocumentId\":\"a65f99f5-0d95-4a38-ac3d-0887711ba273\"}",
           "encoding": "utf-8"
         }
       }

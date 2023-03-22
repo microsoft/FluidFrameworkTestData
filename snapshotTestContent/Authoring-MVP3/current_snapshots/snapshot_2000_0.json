@@ -854,7 +854,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"c3931334-2f54-414d-932d-002cee6f4280\",\"clientSequenceNumber\":2137,\"minimumSequenceNumber\":1998,\"referenceSequenceNumber\":1998,\"sequenceNumber\":2000,\"timestamp\":1564433442125,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
+          "contents": "{\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"c3931334-2f54-414d-932d-002cee6f4280\",\"clientSequenceNumber\":2137,\"minimumSequenceNumber\":1998,\"referenceSequenceNumber\":1998,\"sequenceNumber\":2000,\"timestamp\":1564433442125,\"type\":\"op\"},\"telemetryDocumentId\":\"a65f99f5-0d95-4a38-ac3d-0887711ba273\"}",
           "encoding": "utf-8"
         }
       }

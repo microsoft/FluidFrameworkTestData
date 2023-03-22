@@ -872,7 +872,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":9,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":8998,\"referenceSequenceNumber\":-1,\"sequenceNumber\":9000,\"timestamp\":1564504146734,\"type\":\"noop\"},\"telemetryDocumentId\":\"x\"}",
+          "contents": "{\"summaryNumber\":9,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":8998,\"referenceSequenceNumber\":-1,\"sequenceNumber\":9000,\"timestamp\":1564504146734,\"type\":\"noop\"},\"telemetryDocumentId\":\"d170f711-3339-4299-8798-08f720f85e73\"}",
           "encoding": "utf-8"
         }
       }
