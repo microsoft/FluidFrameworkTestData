@@ -881,7 +881,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"3e1d4dec-e660-4522-ba47-b3640d08629d\",\"clientSequenceNumber\":1616,\"minimumSequenceNumber\":1998,\"referenceSequenceNumber\":1998,\"sequenceNumber\":2000,\"timestamp\":1564948441986,\"type\":\"op\"},\"telemetryDocumentId\":\"x\"}",
+          "contents": "{\"summaryNumber\":2,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"3e1d4dec-e660-4522-ba47-b3640d08629d\",\"clientSequenceNumber\":1616,\"minimumSequenceNumber\":1998,\"referenceSequenceNumber\":1998,\"sequenceNumber\":2000,\"timestamp\":1564948441986,\"type\":\"op\"},\"telemetryDocumentId\":\"88087799-a1da-4db3-ba18-617bed096f64\"}",
           "encoding": "utf-8"
         }
       }

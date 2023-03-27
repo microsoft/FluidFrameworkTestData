@@ -791,7 +791,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":975,\"referenceSequenceNumber\":-1,\"sequenceNumber\":978,\"timestamp\":1565283345226,\"type\":\"join\"},\"telemetryDocumentId\":\"x\"}",
+          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":975,\"referenceSequenceNumber\":-1,\"sequenceNumber\":978,\"timestamp\":1565283345226,\"type\":\"join\"},\"telemetryDocumentId\":\"34e32893-8809-4f0e-bc8c-8d60a57fa861\"}",
           "encoding": "utf-8"
         }
       }
