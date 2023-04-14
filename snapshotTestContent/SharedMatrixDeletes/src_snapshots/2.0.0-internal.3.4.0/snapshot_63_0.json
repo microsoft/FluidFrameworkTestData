@@ -1,0 +1,2168 @@
+{
+  "commits": {
+  },
+  "tree": {
+    "entries": [
+      {
+        "mode": "100644",
+        "path": ".attributes",
+        "type": "Blob",
+        "value": {
+          "contents": "{\"minimumSequenceNumber\":62,\"sequenceNumber\":63,\"term\":1}",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": "quorumMembers",
+        "type": "Blob",
+        "value": {
+          "contents": "[[\"0c200397-abdc-47ca-905d-ab3ef7329c8f\",{\"client\":{\"user\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"oid\":\"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\"},\"scopes\":[\"doc:read\",\"doc:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":true},\"environment\":\"; loaderVersion:0.55.4\"},\"timestamp\":1646688161581,\"mode\":\"write\"},\"sequenceNumber\":1}],[\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",{\"client\":{\"user\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"oid\":\"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\"},\"scopes\":[\"doc:read\",\"doc:write\",\"summary:write\"],\"permission\":[],\"details\":{\"capabilities\":{\"interactive\":false},\"type\":\"summarizer\",\"environment\":\"; loaderVersion:0.55.4\"},\"timestamp\":1646688166844,\"mode\":\"write\"},\"sequenceNumber\":7}]]",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": "quorumProposals",
+        "type": "Blob",
+        "value": {
+          "contents": "[]",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": "quorumValues",
+        "type": "Blob",
+        "value": {
+          "contents": "[[\"code\",{\"approvalSequenceNumber\":5,\"commitSequenceNumber\":-1,\"key\":\"code\",\"sequenceNumber\":4,\"value\":{\"package\":{\"name\":\"@ms/office-fluid-container\",\"version\":\"20220303004\",\"fluid\":{\"browser\":{\"umd\":{\"files\":[\"https://cdn.fluidpreview.office.net/fluid/df/container/hashed/runtime.05151478ba716cec7672.js\",\"https://cdn.fluidpreview.office.net/fluid/df/container/hashed/officeContainer.bbfe12ec621d7dc80d28.js\"],\"library\":\"officeContainer\"}}}},\"config\":{}}}]]",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "040000",
+        "path": ".channels",
+        "type": "Tree",
+        "value": {
+          "entries": [
+            {
+              "mode": "040000",
+              "path": "_scheduler",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"scheduler\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/_scheduler/bb6b1aaa-ed9b-4679-b654-dc414501670a\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "bb6b1aaa-ed9b-4679-b654-dc414501670a",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"leader\":{\"atomic\":{\"sequenceNumber\":3,\"value\":{\"type\":\"Plain\",\"value\":\"0c200397-abdc-47ca-905d-ab3ef7329c8f\"}},\"versions\":[{\"sequenceNumber\":3,\"value\":{\"type\":\"Plain\",\"value\":\"0c200397-abdc-47ca-905d-ab3ef7329c8f\"}}]}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/consensus-register-collection\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"_scheduler\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "defaultComponent",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"rootComponentConfig\":{\"type\":\"Plain\",\"value\":{\"canvasComponentType\":\"@ms/scriptor\"}},\"lastEditedId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/3330095c-a43b-4518-8222-9dad8f7b1f46\"}},\"defaultViewId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/69d4f850-127d-4415-ae0e-20848df3a163\"}}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"OfficeRootComponent\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "3330095c-a43b-4518-8222-9dad8f7b1f46",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"lastEditedSharedSummaryBlockKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/3330095c-a43b-4518-8222-9dad8f7b1f46/38cb8e29-292c-4994-9833-24b30eb821ea\"}},\"lastEditCreatorKey\":{\"type\":\"Plain\",\"value\":{\"user\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"oid\":\"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\"},\"timestamp\":1646688161717}}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "38cb8e29-292c-4994-9833-24b30eb821ea",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/shared-summary-block\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"OfficeRootComponent\\\",\\\"LastEditedComponent\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "69d4f850-127d-4415-ae0e-20848df3a163",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/69d4f850-127d-4415-ae0e-20848df3a163/18477e11-3bf4-4885-9e4c-7f4d8142922d\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "18477e11-3bf4-4885-9e4c-7f4d8142922d",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"component!renderOptions\":\"{ \\\"hideTitle\\\": true}\",\"component!display\":\"block\",\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000},\"nodeType\":\"FluidComponent\",\"markerId\":\"268ced7c-ed33-4ec0-9587-34fcedb9a49e\",\"component!url\":{\"type\":\"__fluid_handle__\",\"url\":\"/151634f5-cf9a-4c97-aee7-1afdde0acae1\"},\"content!locale\":\"en-us\"}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"d13919f4-e515-4b00-8322-c9629a6aeeac\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/scriptor\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "5a26dafb-fe0b-4c53-8a30-56c3a467eb02",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02/a5f5d59d-b938-4755-bb77-43f05ba09c43\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "a5f5d59d-b938-4755-bb77-43f05ba09c43",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"a\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"8f3120f9-8ca9-4169-855a-e03c90d407fe\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f/56bfeaff-2842-4c98-a1a2-14206e928ddf\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "56bfeaff-2842-4c98-a1a2-14206e928ddf",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"b\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"a88251c5-814e-42c6-a229-0496a8bd4a74\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "83168cfa-bc66-4156-968d-8bdf2c84bfbe",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe/e4ef90cd-7842-4aa4-ad69-956e1a833ddb\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "e4ef90cd-7842-4aa4-ad69-956e1a833ddb",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"c\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"cd3eb727-fa75-43d2-b150-b5985dea410e\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "07bb1f75-ddb6-472d-aaf8-96245ca8c278",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278/94d5a85a-a3b6-4550-8d4f-e2a623b9e1ae\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "94d5a85a-a3b6-4550-8d4f-e2a623b9e1ae",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"d\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"ce83bbd5-a5cc-4172-a1f5-8bc385392666\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "f84b3c4c-7daf-4d7a-8a55-844d0339c52d",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d/15413f4e-28c9-4d69-ab07-85f7a3b862cc\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "15413f4e-28c9-4d69-ab07-85f7a3b862cc",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"1\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"2307f9a4-952b-427c-9ab7-e298595c5371\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "f347b0de-2617-40f7-a964-01163fb3e7af",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/f347b0de-2617-40f7-a964-01163fb3e7af/dc7effd0-c753-4e5c-aa9d-f0f5f599d4df\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "dc7effd0-c753-4e5c-aa9d-f0f5f599d4df",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"2\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"375dcea4-7051-4617-a119-24c25012634b\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a/6901dfef-fdcc-4ab4-b23a-a6ffdf1708d1\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "6901dfef-fdcc-4ab4-b23a-a6ffdf1708d1",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"3\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"7ea167fc-0b98-4183-bafa-d56848d20803\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1/4085f3d8-0c61-4667-91e8-bda35ef591d9\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "4085f3d8-0c61-4667-91e8-bda35ef591d9",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":2,\"chunkLengthChars\":2,\"totalLengthChars\":2,\"totalSegmentCount\":2,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"text\":\"4\",\"props\":{\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\",\"timestamp\":1646688000000}}},{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"83d2717e-a1da-4977-b09f-405de4466517\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":2,\"totalSegmentCount\":2}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "bf4216e0-9fc0-48fd-a17a-772b5200989c",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/bf4216e0-9fc0-48fd-a17a-772b5200989c/660c330b-c129-4fb9-953a-9011cd72b5e0\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "660c330b-c129-4fb9-953a-9011cd72b5e0",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"ba36d979-380a-4dc0-ae85-71d59a525eb9\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "f08e03d6-4305-46a3-9d20-67f8da5ab970",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/f08e03d6-4305-46a3-9d20-67f8da5ab970/cc20d76a-704c-47fd-84f2-abc3c63d7aaa\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "cc20d76a-704c-47fd-84f2-abc3c63d7aaa",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"a81b37b7-0b66-46f5-a5d7-39b5dc168129\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "bde77ebe-9970-4c1e-857d-d2926f9bc7a5",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5/7bdee5f1-4d8f-4567-bf87-323f91cb53dc\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "7bdee5f1-4d8f-4567-bf87-323f91cb53dc",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"50c439c7-c312-4e5d-961d-f9ffb700ebc8\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "579306e5-bb64-4f3a-a1ec-62a5b63e4ad0",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0/b8fd4d00-980b-4f28-af3a-8d4306292074\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "b8fd4d00-980b-4f28-af3a-8d4306292074",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"0fbbe644-b1f7-40a5-8e3f-0f2d69b13b2f\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "42425ac3-0629-4ef4-9c01-c0a0b50307c6",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6/f588d2f6-5a15-43c8-a0f2-8f2a852c1856\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "f588d2f6-5a15-43c8-a0f2-8f2a852c1856",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"7d1b48ec-76f7-42eb-8c28-51095e007b06\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "c23e0a70-1c9b-4f8d-a926-24b5d2224ae6",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6/48932546-243f-42b0-b95c-dd64aece154d\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "48932546-243f-42b0-b95c-dd64aece154d",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"55042d8d-4965-46d8-82e8-c18a8529e5fb\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "2d73328f-4993-4642-904b-8657735570a0",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/2d73328f-4993-4642-904b-8657735570a0/1f66174e-6672-4307-9059-11555da1ccb3\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "1f66174e-6672-4307-9059-11555da1ccb3",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"02deaf0a-57e9-4a73-916d-98b81f86c433\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "663e6819-d035-4b2a-850f-7bff14454b0f",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"configuration\":{\"type\":\"Plain\",\"value\":{\"presetName\":\"RichTextCell\"}},\"isTextBoxMode\":{\"type\":\"Plain\",\"value\":true},\"text\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/663e6819-d035-4b2a-850f-7bff14454b0f/4a804b04-bee2-4590-8ead-c85c7d8e07bb\"}},\"text:nodeType\":{\"type\":\"Plain\",\"value\":\"StoryNode\"},\"defaultContentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"},\"defaultContentDirection\":{\"type\":\"Plain\",\"value\":\"ltr\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "4a804b04-bee2-4590-8ead-c85c7d8e07bb",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "content",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "100644",
+                                      "path": "header",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":1,\"chunkLengthChars\":1,\"totalLengthChars\":1,\"totalSegmentCount\":1,\"chunkSequenceNumber\":62,\"segmentTexts\":[{\"marker\":{\"refType\":1},\"props\":{\"markerId\":\"97a607bb-93d0-4ef6-90fc-4622e8883c41\",\"nodeType\":\"Paragraph\"}}],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":62,\"totalLength\":1,\"totalSegmentCount\":1}}",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"IRichTextData\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "47b85e14-d60d-4543-8e3e-cfe15c8a97e3",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"matrixIdKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3/matrixId-95efe124-a593-464f-872d-5052f804e76e\"}}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "matrixId-95efe124-a593-464f-872d-5052f804e76e",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "040000",
+                                "path": "rows",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "040000",
+                                      "path": "segments",
+                                      "type": "Tree",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "mode": "100644",
+                                            "path": "header",
+                                            "type": "Blob",
+                                            "value": {
+                                              "contents": "{\"version\":\"1\",\"segmentCount\":2,\"length\":4,\"segments\":[[1,4],[3,1]],\"startIndex\":0,\"headerMetadata\":{\"minSequenceNumber\":62,\"sequenceNumber\":63,\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"totalLength\":4,\"totalSegmentCount\":2}}",
+                                              "encoding": "utf-8"
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "mode": "100644",
+                                      "path": "handleTable",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "[5,0,0,0,0]",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "040000",
+                                "path": "cols",
+                                "type": "Tree",
+                                "value": {
+                                  "entries": [
+                                    {
+                                      "mode": "040000",
+                                      "path": "segments",
+                                      "type": "Tree",
+                                      "value": {
+                                        "entries": [
+                                          {
+                                            "mode": "100644",
+                                            "path": "header",
+                                            "type": "Blob",
+                                            "value": {
+                                              "contents": "{\"version\":\"1\",\"segmentCount\":1,\"length\":5,\"segments\":[[5,1]],\"startIndex\":0,\"headerMetadata\":{\"minSequenceNumber\":62,\"sequenceNumber\":63,\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"totalLength\":5,\"totalSegmentCount\":1}}",
+                                              "encoding": "utf-8"
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "mode": "100644",
+                                      "path": "handleTable",
+                                      "type": "Blob",
+                                      "value": {
+                                        "contents": "[6,0,0,0,0,0]",
+                                        "encoding": "utf-8"
+                                      }
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": "cells",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "[[[[[[null,null,null,{\"id\":\"initialRow-0\"},null,null,{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/f347b0de-2617-40f7-a964-01163fb3e7af\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},null,{\"id\":\"initialRow-1\"},null,{\"id\":\"initialRow-2\"},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/bf4216e0-9fc0-48fd-a17a-772b5200989c\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/f08e03d6-4305-46a3-9d20-67f8da5ab970\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},null,null,{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},null,null,null,null,{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/2d73328f-4993-4642-904b-8657735570a0\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},{\"value\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/663e6819-d035-4b2a-850f-7bff14454b0f\"}},\"attribution\":{\"id\":\"UnknownPerson@example.com\",\"name\":\"UnknownPerson\",\"email\":\"UnknownPerson@example.com\"}},null,null,null,null,null,null,null,null,{\"id\":\"initialColumn-0\",\"type\":\"IRichTextData\",\"title\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02\"}},\"titleType\":\"IRichTextData\",\"dataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}},\"titleDataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}}},{\"id\":\"initialColumn-1\",\"type\":\"IRichTextData\",\"title\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f\"}},\"titleType\":\"IRichTextData\",\"dataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}},\"titleDataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}}},null,null,null,null,null,null,null,null,null,null,{\"id\":\"initialColumn-2\",\"type\":\"IRichTextData\",\"title\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe\"}},\"titleType\":\"IRichTextData\",\"dataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}},\"titleDataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}}},{\"id\":\"initialColumn-3\",\"type\":\"IRichTextData\",\"title\":{\"componentHandle\":{\"type\":\"__fluid_handle__\",\"url\":\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278\"}},\"titleType\":\"IRichTextData\",\"dataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}},\"titleDataTypeProps\":{\"initialConfig\":{\"isTextBoxMode\":true,\"disableGuestComponents\":true,\"richTextServicesConfiguration\":{\"presetName\":\"RichTextCell\"}}}},null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[null]]",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/sharedmatrix\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"@ms/tablero/TableViewModel\\\",\\\"@ms/tablero/TableDataModel\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "0442acda-dc4a-4858-9465-c9cd0a949b06",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"tableroDocumentId\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3\"}},\"rowSequenceKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/0442acda-dc4a-4858-9465-c9cd0a949b06/rowSequence-0954ad8a-f059-4e57-8794-1e315fcbd899\"}},\"colSequenceKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/0442acda-dc4a-4858-9465-c9cd0a949b06/colSequence-8ed6a702-906a-432e-9a88-8adcf3e04c0d\"}},\"sharedSignalKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/0442acda-dc4a-4858-9465-c9cd0a949b06/sharedSignal-45d35084-5687-4ee4-9bf9-7ee5db08b42c\"}},\"viewDataPropertyBagKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/0442acda-dc4a-4858-9465-c9cd0a949b06/viewDataPropertyBag-21a7bb41-c415-4fdc-8d0d-6bad7e72dbff\"}},\"componentConfigurationType\":{\"type\":\"Plain\",\"value\":\"richTextTablero\"},\"columnTitleType\":{\"type\":\"Plain\",\"value\":\"IRichTextData\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "rowSequence-0954ad8a-f059-4e57-8794-1e315fcbd899",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/SharedArray\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.25\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "colSequence-8ed6a702-906a-432e-9a88-8adcf3e04c0d",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/SharedArray\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.25\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "sharedSignal-45d35084-5687-4ee4-9bf9-7ee5db08b42c",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/signal\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.25.0\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "viewDataPropertyBag-21a7bb41-c415-4fdc-8d0d-6bad7e72dbff",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"subdirectories\":{\"tableViewDataPropertyBag\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"contentLocale\":{\"type\":\"Plain\",\"value\":\"en-us\"}},\"subdirectories\":{\"tableFormattingOptionPropertyBag\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"isRTL\":{\"type\":\"Plain\",\"value\":false}}}}},\"columnViewDataPropertyBag\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"subdirectories\":{\"initialColumn-0\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"width\":{\"type\":\"Plain\",\"value\":170},\"minWidth\":{\"type\":\"Plain\",\"value\":56},\"widthRatio\":{\"type\":\"Plain\",\"value\":1}}},\"initialColumn-1\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"width\":{\"type\":\"Plain\",\"value\":170},\"minWidth\":{\"type\":\"Plain\",\"value\":56},\"widthRatio\":{\"type\":\"Plain\",\"value\":1}}},\"initialColumn-2\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"width\":{\"type\":\"Plain\",\"value\":170},\"minWidth\":{\"type\":\"Plain\",\"value\":56},\"widthRatio\":{\"type\":\"Plain\",\"value\":1}}},\"initialColumn-3\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"width\":{\"type\":\"Plain\",\"value\":170},\"minWidth\":{\"type\":\"Plain\",\"value\":56},\"widthRatio\":{\"type\":\"Plain\",\"value\":1}}}}}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\",\\\"@ms/tablero/TableViewModel\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
+              "path": "151634f5-cf9a-4c97-aee7-1afdde0acae1",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]},\"storage\":{\"componentConfigurationType\":{\"type\":\"Plain\",\"value\":\"richTextTablero\"},\"tableViewModelIdKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/0442acda-dc4a-4858-9465-c9cd0a949b06\"}}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"0.56.6\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/tablero/TableroView\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":false}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "mode": "100644",
+        "path": ".metadata",
+        "type": "Blob",
+        "value": {
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":6,\"minimumSequenceNumber\":62,\"referenceSequenceNumber\":62,\"sequenceNumber\":63,\"timestamp\":1646688197647,\"type\":\"noop\"},\"telemetryDocumentId\":\"022f2354-a63c-45cd-8df3-bdf61139fbfe\"}",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "040000",
+        "path": "gc",
+        "type": "Tree",
+        "value": {
+          "entries": [
+            {
+              "mode": "100644",
+              "path": "__gc_root",
+              "type": "Blob",
+              "value": {
+                "contents": "{\"gcNodes\":{\"/\":{\"outboundRoutes\":[\"/_scheduler\",\"/defaultComponent\"]},\"/_scheduler\":{\"outboundRoutes\":[\"/_scheduler/bb6b1aaa-ed9b-4679-b654-dc414501670a\",\"/_scheduler/root\"]},\"/_scheduler/bb6b1aaa-ed9b-4679-b654-dc414501670a\":{\"outboundRoutes\":[\"/_scheduler\"]},\"/_scheduler/root\":{\"outboundRoutes\":[\"/_scheduler\",\"/_scheduler/bb6b1aaa-ed9b-4679-b654-dc414501670a\"]},\"/0442acda-dc4a-4858-9465-c9cd0a949b06\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06/colSequence-8ed6a702-906a-432e-9a88-8adcf3e04c0d\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/root\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/rowSequence-0954ad8a-f059-4e57-8794-1e315fcbd899\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/sharedSignal-45d35084-5687-4ee4-9bf9-7ee5db08b42c\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/viewDataPropertyBag-21a7bb41-c415-4fdc-8d0d-6bad7e72dbff\"]},\"/0442acda-dc4a-4858-9465-c9cd0a949b06/colSequence-8ed6a702-906a-432e-9a88-8adcf3e04c0d\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06\"]},\"/0442acda-dc4a-4858-9465-c9cd0a949b06/root\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/colSequence-8ed6a702-906a-432e-9a88-8adcf3e04c0d\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/rowSequence-0954ad8a-f059-4e57-8794-1e315fcbd899\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/sharedSignal-45d35084-5687-4ee4-9bf9-7ee5db08b42c\",\"/0442acda-dc4a-4858-9465-c9cd0a949b06/viewDataPropertyBag-21a7bb41-c415-4fdc-8d0d-6bad7e72dbff\",\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3\"]},\"/0442acda-dc4a-4858-9465-c9cd0a949b06/rowSequence-0954ad8a-f059-4e57-8794-1e315fcbd899\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06\"]},\"/0442acda-dc4a-4858-9465-c9cd0a949b06/sharedSignal-45d35084-5687-4ee4-9bf9-7ee5db08b42c\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06\"]},\"/0442acda-dc4a-4858-9465-c9cd0a949b06/viewDataPropertyBag-21a7bb41-c415-4fdc-8d0d-6bad7e72dbff\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06\"]},\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a\":{\"outboundRoutes\":[\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a/6901dfef-fdcc-4ab4-b23a-a6ffdf1708d1\",\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a/root\"]},\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a/6901dfef-fdcc-4ab4-b23a-a6ffdf1708d1\":{\"outboundRoutes\":[\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a\"]},\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a/root\":{\"outboundRoutes\":[\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a\",\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a/6901dfef-fdcc-4ab4-b23a-a6ffdf1708d1\"]},\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278\":{\"outboundRoutes\":[\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278/94d5a85a-a3b6-4550-8d4f-e2a623b9e1ae\",\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278/root\"]},\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278/94d5a85a-a3b6-4550-8d4f-e2a623b9e1ae\":{\"outboundRoutes\":[\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278\"]},\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278/root\":{\"outboundRoutes\":[\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278\",\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278/94d5a85a-a3b6-4550-8d4f-e2a623b9e1ae\"]},\"/151634f5-cf9a-4c97-aee7-1afdde0acae1\":{\"outboundRoutes\":[\"/151634f5-cf9a-4c97-aee7-1afdde0acae1/root\"]},\"/151634f5-cf9a-4c97-aee7-1afdde0acae1/root\":{\"outboundRoutes\":[\"/0442acda-dc4a-4858-9465-c9cd0a949b06\",\"/151634f5-cf9a-4c97-aee7-1afdde0acae1\"]},\"/2d73328f-4993-4642-904b-8657735570a0\":{\"outboundRoutes\":[\"/2d73328f-4993-4642-904b-8657735570a0/1f66174e-6672-4307-9059-11555da1ccb3\",\"/2d73328f-4993-4642-904b-8657735570a0/root\"]},\"/2d73328f-4993-4642-904b-8657735570a0/1f66174e-6672-4307-9059-11555da1ccb3\":{\"outboundRoutes\":[\"/2d73328f-4993-4642-904b-8657735570a0\"]},\"/2d73328f-4993-4642-904b-8657735570a0/root\":{\"outboundRoutes\":[\"/2d73328f-4993-4642-904b-8657735570a0\",\"/2d73328f-4993-4642-904b-8657735570a0/1f66174e-6672-4307-9059-11555da1ccb3\"]},\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1\":{\"outboundRoutes\":[\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1/4085f3d8-0c61-4667-91e8-bda35ef591d9\",\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1/root\"]},\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1/4085f3d8-0c61-4667-91e8-bda35ef591d9\":{\"outboundRoutes\":[\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1\"]},\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1/root\":{\"outboundRoutes\":[\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1\",\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1/4085f3d8-0c61-4667-91e8-bda35ef591d9\"]},\"/3330095c-a43b-4518-8222-9dad8f7b1f46\":{\"outboundRoutes\":[\"/3330095c-a43b-4518-8222-9dad8f7b1f46/38cb8e29-292c-4994-9833-24b30eb821ea\",\"/3330095c-a43b-4518-8222-9dad8f7b1f46/root\"]},\"/3330095c-a43b-4518-8222-9dad8f7b1f46/38cb8e29-292c-4994-9833-24b30eb821ea\":{\"outboundRoutes\":[\"/3330095c-a43b-4518-8222-9dad8f7b1f46\"]},\"/3330095c-a43b-4518-8222-9dad8f7b1f46/root\":{\"outboundRoutes\":[\"/3330095c-a43b-4518-8222-9dad8f7b1f46\",\"/3330095c-a43b-4518-8222-9dad8f7b1f46/38cb8e29-292c-4994-9833-24b30eb821ea\"]},\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6\":{\"outboundRoutes\":[\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6/f588d2f6-5a15-43c8-a0f2-8f2a852c1856\",\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6/root\"]},\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6/f588d2f6-5a15-43c8-a0f2-8f2a852c1856\":{\"outboundRoutes\":[\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6\"]},\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6/root\":{\"outboundRoutes\":[\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6\",\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6/f588d2f6-5a15-43c8-a0f2-8f2a852c1856\"]},\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3\":{\"outboundRoutes\":[\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3/matrixId-95efe124-a593-464f-872d-5052f804e76e\",\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3/root\"]},\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3/matrixId-95efe124-a593-464f-872d-5052f804e76e\":{\"outboundRoutes\":[\"/06e1c3bd-6ce1-4362-8f1a-40b5e0782c7a\",\"/07bb1f75-ddb6-472d-aaf8-96245ca8c278\",\"/2d73328f-4993-4642-904b-8657735570a0\",\"/307bf7c6-fa1e-474b-b79e-ac8f7b77c3d1\",\"/42425ac3-0629-4ef4-9c01-c0a0b50307c6\",\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3\",\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0\",\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02\",\"/663e6819-d035-4b2a-850f-7bff14454b0f\",\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe\",\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5\",\"/bf4216e0-9fc0-48fd-a17a-772b5200989c\",\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6\",\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f\",\"/f08e03d6-4305-46a3-9d20-67f8da5ab970\",\"/f347b0de-2617-40f7-a964-01163fb3e7af\",\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d\"]},\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3/root\":{\"outboundRoutes\":[\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3\",\"/47b85e14-d60d-4543-8e3e-cfe15c8a97e3/matrixId-95efe124-a593-464f-872d-5052f804e76e\"]},\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0\":{\"outboundRoutes\":[\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0/b8fd4d00-980b-4f28-af3a-8d4306292074\",\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0/root\"]},\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0/b8fd4d00-980b-4f28-af3a-8d4306292074\":{\"outboundRoutes\":[\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0\"]},\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0/root\":{\"outboundRoutes\":[\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0\",\"/579306e5-bb64-4f3a-a1ec-62a5b63e4ad0/b8fd4d00-980b-4f28-af3a-8d4306292074\"]},\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02\":{\"outboundRoutes\":[\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02/a5f5d59d-b938-4755-bb77-43f05ba09c43\",\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02/root\"]},\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02/a5f5d59d-b938-4755-bb77-43f05ba09c43\":{\"outboundRoutes\":[\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02\"]},\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02/root\":{\"outboundRoutes\":[\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02\",\"/5a26dafb-fe0b-4c53-8a30-56c3a467eb02/a5f5d59d-b938-4755-bb77-43f05ba09c43\"]},\"/663e6819-d035-4b2a-850f-7bff14454b0f\":{\"outboundRoutes\":[\"/663e6819-d035-4b2a-850f-7bff14454b0f/4a804b04-bee2-4590-8ead-c85c7d8e07bb\",\"/663e6819-d035-4b2a-850f-7bff14454b0f/root\"]},\"/663e6819-d035-4b2a-850f-7bff14454b0f/4a804b04-bee2-4590-8ead-c85c7d8e07bb\":{\"outboundRoutes\":[\"/663e6819-d035-4b2a-850f-7bff14454b0f\"]},\"/663e6819-d035-4b2a-850f-7bff14454b0f/root\":{\"outboundRoutes\":[\"/663e6819-d035-4b2a-850f-7bff14454b0f\",\"/663e6819-d035-4b2a-850f-7bff14454b0f/4a804b04-bee2-4590-8ead-c85c7d8e07bb\"]},\"/69d4f850-127d-4415-ae0e-20848df3a163\":{\"outboundRoutes\":[\"/69d4f850-127d-4415-ae0e-20848df3a163/18477e11-3bf4-4885-9e4c-7f4d8142922d\",\"/69d4f850-127d-4415-ae0e-20848df3a163/root\"]},\"/69d4f850-127d-4415-ae0e-20848df3a163/18477e11-3bf4-4885-9e4c-7f4d8142922d\":{\"outboundRoutes\":[\"/151634f5-cf9a-4c97-aee7-1afdde0acae1\",\"/69d4f850-127d-4415-ae0e-20848df3a163\"]},\"/69d4f850-127d-4415-ae0e-20848df3a163/root\":{\"outboundRoutes\":[\"/69d4f850-127d-4415-ae0e-20848df3a163\",\"/69d4f850-127d-4415-ae0e-20848df3a163/18477e11-3bf4-4885-9e4c-7f4d8142922d\"]},\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe\":{\"outboundRoutes\":[\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe/e4ef90cd-7842-4aa4-ad69-956e1a833ddb\",\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe/root\"]},\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe/e4ef90cd-7842-4aa4-ad69-956e1a833ddb\":{\"outboundRoutes\":[\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe\"]},\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe/root\":{\"outboundRoutes\":[\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe\",\"/83168cfa-bc66-4156-968d-8bdf2c84bfbe/e4ef90cd-7842-4aa4-ad69-956e1a833ddb\"]},\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5\":{\"outboundRoutes\":[\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5/7bdee5f1-4d8f-4567-bf87-323f91cb53dc\",\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5/root\"]},\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5/7bdee5f1-4d8f-4567-bf87-323f91cb53dc\":{\"outboundRoutes\":[\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5\"]},\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5/root\":{\"outboundRoutes\":[\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5\",\"/bde77ebe-9970-4c1e-857d-d2926f9bc7a5/7bdee5f1-4d8f-4567-bf87-323f91cb53dc\"]},\"/bf4216e0-9fc0-48fd-a17a-772b5200989c\":{\"outboundRoutes\":[\"/bf4216e0-9fc0-48fd-a17a-772b5200989c/660c330b-c129-4fb9-953a-9011cd72b5e0\",\"/bf4216e0-9fc0-48fd-a17a-772b5200989c/root\"]},\"/bf4216e0-9fc0-48fd-a17a-772b5200989c/660c330b-c129-4fb9-953a-9011cd72b5e0\":{\"outboundRoutes\":[\"/bf4216e0-9fc0-48fd-a17a-772b5200989c\"]},\"/bf4216e0-9fc0-48fd-a17a-772b5200989c/root\":{\"outboundRoutes\":[\"/bf4216e0-9fc0-48fd-a17a-772b5200989c\",\"/bf4216e0-9fc0-48fd-a17a-772b5200989c/660c330b-c129-4fb9-953a-9011cd72b5e0\"]},\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6\":{\"outboundRoutes\":[\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6/48932546-243f-42b0-b95c-dd64aece154d\",\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6/root\"]},\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6/48932546-243f-42b0-b95c-dd64aece154d\":{\"outboundRoutes\":[\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6\"]},\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6/root\":{\"outboundRoutes\":[\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6\",\"/c23e0a70-1c9b-4f8d-a926-24b5d2224ae6/48932546-243f-42b0-b95c-dd64aece154d\"]},\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f\":{\"outboundRoutes\":[\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f/56bfeaff-2842-4c98-a1a2-14206e928ddf\",\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f/root\"]},\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f/56bfeaff-2842-4c98-a1a2-14206e928ddf\":{\"outboundRoutes\":[\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f\"]},\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f/root\":{\"outboundRoutes\":[\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f\",\"/c9d51e0b-09f0-4b95-a884-ed39fbd1ef8f/56bfeaff-2842-4c98-a1a2-14206e928ddf\"]},\"/defaultComponent\":{\"outboundRoutes\":[\"/defaultComponent/root\"]},\"/defaultComponent/root\":{\"outboundRoutes\":[\"/3330095c-a43b-4518-8222-9dad8f7b1f46\",\"/69d4f850-127d-4415-ae0e-20848df3a163\",\"/defaultComponent\"]},\"/f08e03d6-4305-46a3-9d20-67f8da5ab970\":{\"outboundRoutes\":[\"/f08e03d6-4305-46a3-9d20-67f8da5ab970/cc20d76a-704c-47fd-84f2-abc3c63d7aaa\",\"/f08e03d6-4305-46a3-9d20-67f8da5ab970/root\"]},\"/f08e03d6-4305-46a3-9d20-67f8da5ab970/cc20d76a-704c-47fd-84f2-abc3c63d7aaa\":{\"outboundRoutes\":[\"/f08e03d6-4305-46a3-9d20-67f8da5ab970\"]},\"/f08e03d6-4305-46a3-9d20-67f8da5ab970/root\":{\"outboundRoutes\":[\"/f08e03d6-4305-46a3-9d20-67f8da5ab970\",\"/f08e03d6-4305-46a3-9d20-67f8da5ab970/cc20d76a-704c-47fd-84f2-abc3c63d7aaa\"]},\"/f347b0de-2617-40f7-a964-01163fb3e7af\":{\"outboundRoutes\":[\"/f347b0de-2617-40f7-a964-01163fb3e7af/dc7effd0-c753-4e5c-aa9d-f0f5f599d4df\",\"/f347b0de-2617-40f7-a964-01163fb3e7af/root\"]},\"/f347b0de-2617-40f7-a964-01163fb3e7af/dc7effd0-c753-4e5c-aa9d-f0f5f599d4df\":{\"outboundRoutes\":[\"/f347b0de-2617-40f7-a964-01163fb3e7af\"]},\"/f347b0de-2617-40f7-a964-01163fb3e7af/root\":{\"outboundRoutes\":[\"/f347b0de-2617-40f7-a964-01163fb3e7af\",\"/f347b0de-2617-40f7-a964-01163fb3e7af/dc7effd0-c753-4e5c-aa9d-f0f5f599d4df\"]},\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d\":{\"outboundRoutes\":[\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d/15413f4e-28c9-4d69-ab07-85f7a3b862cc\",\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d/root\"]},\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d/15413f4e-28c9-4d69-ab07-85f7a3b862cc\":{\"outboundRoutes\":[\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d\"]},\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d/root\":{\"outboundRoutes\":[\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d\",\"/f84b3c4c-7daf-4d7a-8a55-844d0339c52d/15413f4e-28c9-4d69-ab07-85f7a3b862cc\"]}}}",
+                "encoding": "utf-8"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
