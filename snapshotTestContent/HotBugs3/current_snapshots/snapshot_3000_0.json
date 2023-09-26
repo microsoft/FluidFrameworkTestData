@@ -8,7 +8,7 @@
         "path": ".attributes",
         "type": "Blob",
         "value": {
-          "contents": "{\"minimumSequenceNumber\":2929,\"sequenceNumber\":3000,\"term\":1}",
+          "contents": "{\"minimumSequenceNumber\":2929,\"sequenceNumber\":3000}",
           "encoding": "utf-8"
         }
       },
@@ -239,7 +239,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -266,7 +266,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -293,7 +293,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -320,7 +320,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -353,7 +353,7 @@
                                       "path": "catchupOps",
                                       "type": "Blob",
                                       "value": {
-                                        "contents": "[{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":525,\"contents\":{\"pos1\":577,\"pos2\":578,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2934,\"sequenceNumber\":2935,\"timestamp\":1564422883637,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":527,\"contents\":{\"pos1\":577,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2935,\"sequenceNumber\":2936,\"timestamp\":1564422883934,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":529,\"contents\":{\"pos1\":578,\"seg\":\"7\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2937,\"sequenceNumber\":2938,\"timestamp\":1564422884168,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":532,\"contents\":{\"pos1\":579,\"seg\":\"9\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2939,\"sequenceNumber\":2940,\"timestamp\":1564422885326,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":534,\"contents\":{\"pos1\":580,\"seg\":\"h\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2941,\"sequenceNumber\":2942,\"timestamp\":1564422885529,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":536,\"contents\":{\"pos1\":581,\"seg\":\"p\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2943,\"sequenceNumber\":2944,\"timestamp\":1564422885638,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":538,\"contents\":{\"pos1\":582,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2945,\"sequenceNumber\":2946,\"timestamp\":1564422885872,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":540,\"contents\":{\"pos1\":583,\"seg\":\"o\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2947,\"sequenceNumber\":2948,\"timestamp\":1564422885982,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":543,\"contents\":{\"pos1\":584,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2949,\"sequenceNumber\":2950,\"timestamp\":1564422886294,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":587,\"contents\":{\"pos1\":632,\"pos2\":633,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2974,\"sequenceNumber\":2975,\"timestamp\":1564422892595,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":589,\"contents\":{\"pos1\":631,\"pos2\":632,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2976,\"sequenceNumber\":2977,\"timestamp\":1564422892766,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":591,\"contents\":{\"pos1\":631,\"seg\":\"q\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2977,\"sequenceNumber\":2978,\"timestamp\":1564422893110,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":594,\"contents\":{\"pos1\":632,\"seg\":\"f\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2979,\"sequenceNumber\":2980,\"timestamp\":1564422893536,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":599,\"contents\":{\"pos1\":641,\"seg\":\"3\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2982,\"sequenceNumber\":2983,\"timestamp\":1564422894592,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":618,\"contents\":{\"pos1\":629,\"pos2\":630,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2997,\"sequenceNumber\":2998,\"timestamp\":1564422896467,\"traces\":[],\"type\":\"op\",\"term\":1},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"contents\":{\"pos1\":628,\"pos2\":629,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2999,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"traces\":[],\"type\":\"op\",\"term\":1}]",
+                                        "contents": "[{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":525,\"contents\":{\"pos1\":577,\"pos2\":578,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2934,\"sequenceNumber\":2935,\"timestamp\":1564422883637,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":527,\"contents\":{\"pos1\":577,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2935,\"sequenceNumber\":2936,\"timestamp\":1564422883934,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":529,\"contents\":{\"pos1\":578,\"seg\":\"7\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2937,\"sequenceNumber\":2938,\"timestamp\":1564422884168,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":532,\"contents\":{\"pos1\":579,\"seg\":\"9\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2939,\"sequenceNumber\":2940,\"timestamp\":1564422885326,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":534,\"contents\":{\"pos1\":580,\"seg\":\"h\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2941,\"sequenceNumber\":2942,\"timestamp\":1564422885529,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":536,\"contents\":{\"pos1\":581,\"seg\":\"p\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2943,\"sequenceNumber\":2944,\"timestamp\":1564422885638,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":538,\"contents\":{\"pos1\":582,\"seg\":\"2\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2945,\"sequenceNumber\":2946,\"timestamp\":1564422885872,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":540,\"contents\":{\"pos1\":583,\"seg\":\"o\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2947,\"sequenceNumber\":2948,\"timestamp\":1564422885982,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":543,\"contents\":{\"pos1\":584,\"seg\":\"r\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2949,\"sequenceNumber\":2950,\"timestamp\":1564422886294,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":587,\"contents\":{\"pos1\":632,\"pos2\":633,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2974,\"sequenceNumber\":2975,\"timestamp\":1564422892595,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":589,\"contents\":{\"pos1\":631,\"pos2\":632,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2976,\"sequenceNumber\":2977,\"timestamp\":1564422892766,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":591,\"contents\":{\"pos1\":631,\"seg\":\"q\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2977,\"sequenceNumber\":2978,\"timestamp\":1564422893110,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":594,\"contents\":{\"pos1\":632,\"seg\":\"f\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2979,\"sequenceNumber\":2980,\"timestamp\":1564422893536,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":599,\"contents\":{\"pos1\":641,\"seg\":\"3\",\"type\":0},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2982,\"sequenceNumber\":2983,\"timestamp\":1564422894592,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":618,\"contents\":{\"pos1\":629,\"pos2\":630,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2997,\"sequenceNumber\":2998,\"timestamp\":1564422896467,\"traces\":[],\"type\":\"op\"},{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"contents\":{\"pos1\":628,\"pos2\":629,\"type\":1},\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2999,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"traces\":[],\"type\":\"op\"}]",
                                         "encoding": "utf-8"
                                       }
                                     }
@@ -365,7 +365,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -392,7 +392,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -419,7 +419,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -446,7 +446,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -473,7 +473,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -500,7 +500,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -527,7 +527,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -554,7 +554,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -581,7 +581,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -608,7 +608,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -635,7 +635,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -662,7 +662,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.3.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.0.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -746,7 +746,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"type\":\"op\"},\"telemetryDocumentId\":\"d170f711-3339-4299-8798-08f720f85e73\"}",
+          "contents": "{\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":\"05c0e3f7-41e7-404f-a556-e950977fccf8\",\"clientSequenceNumber\":620,\"minimumSequenceNumber\":2929,\"referenceSequenceNumber\":2998,\"sequenceNumber\":3000,\"timestamp\":1564422896655,\"type\":\"op\"},\"telemetryDocumentId\":\"a0e155b7-3167-4600-ba5f-4e753e1afdf6\"}",
           "encoding": "utf-8"
         }
       }
