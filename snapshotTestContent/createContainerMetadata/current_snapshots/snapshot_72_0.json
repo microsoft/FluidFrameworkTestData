@@ -8,7 +8,7 @@
         "path": ".attributes",
         "type": "Blob",
         "value": {
-          "contents": "{\"minimumSequenceNumber\":72,\"sequenceNumber\":72,\"term\":1}",
+          "contents": "{\"minimumSequenceNumber\":72,\"sequenceNumber\":72}",
           "encoding": "utf-8"
         }
       },
@@ -440,7 +440,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"},\"telemetryDocumentId\":\"e3a7a3d8-4200-4532-8bf8-785483113f7e\"}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"},\"telemetryDocumentId\":\"d20f7fd4-c734-476c-9591-6204d3a8d558\"}",
           "encoding": "utf-8"
         }
       },

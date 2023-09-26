@@ -8,7 +8,7 @@
         "path": ".attributes",
         "type": "Blob",
         "value": {
-          "contents": "{\"minimumSequenceNumber\":123,\"sequenceNumber\":125,\"term\":1}",
+          "contents": "{\"minimumSequenceNumber\":123,\"sequenceNumber\":125}",
           "encoding": "utf-8"
         }
       },
@@ -2861,7 +2861,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":4,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":\"bcbbe258-bd3d-479d-8ea0-c6873855bca1\",\"clientSequenceNumber\":19,\"minimumSequenceNumber\":123,\"referenceSequenceNumber\":124,\"sequenceNumber\":125,\"timestamp\":1646688337947,\"type\":\"noop\"},\"telemetryDocumentId\":\"022f2354-a63c-45cd-8df3-bdf61139fbfe\"}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":4,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":\"bcbbe258-bd3d-479d-8ea0-c6873855bca1\",\"clientSequenceNumber\":19,\"minimumSequenceNumber\":123,\"referenceSequenceNumber\":124,\"sequenceNumber\":125,\"timestamp\":1646688337947,\"type\":\"noop\"},\"telemetryDocumentId\":\"0be87598-6dff-4a29-95d0-b6a764f2f650\"}",
           "encoding": "utf-8"
         }
       },
