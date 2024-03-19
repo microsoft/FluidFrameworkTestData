@@ -1,230 +1,232 @@
 {
 	"attached": false,
-	"baseSnapshot": {
-	  "blobs": {
+	"pendingSnapshot": {
+		"snapshotTree": {
+		"blobs": {
 		".metadata": "250d220c-25cd-4297-9fac-b8b2850acc5c",
 		".aliases": "ecdb4367-e6d5-430b-b8f3-b641d8d5488b",
 		".electedSummarizer": "ba9f946b-e0e3-4d39-88b2-3f469aabfca3"
-	  },
-	  "trees": {
+		},
+		"trees": {
 		".channels": {
-		  "blobs": {
-		  },
-		  "trees": {
+			"blobs": {
+			},
+			"trees": {
 			"default": {
-			  "blobs": {
+				"blobs": {
 				".component": "e308540d-2c74-488e-847b-bbc425c16824"
-			  },
-			  "trees": {
+				},
+				"trees": {
 				".channels": {
-				  "blobs": {
-				  },
-				  "trees": {
+					"blobs": {
+					},
+					"trees": {
 					"root": {
-					  "blobs": {
+						"blobs": {
 						"header": "c87b0041-deba-49a0-95c5-ce0c4a739f0b",
 						".attributes": "77ebffd3-df33-4564-a840-60a1010bedf4"
-					  },
-					  "trees": {
-					  },
-					  "id": "76b3cf85-bfe2-4961-a7d9-2696df8bb702"
+						},
+						"trees": {
+						},
+						"id": "76b3cf85-bfe2-4961-a7d9-2696df8bb702"
 					},
 					"ss1Key": {
-					  "blobs": {
+						"blobs": {
 						".attributes": "05393035-f4d4-4d8e-8d2f-ade009b9a496"
-					  },
-					  "trees": {
+						},
+						"trees": {
 						"content": {
-						  "blobs": {
+							"blobs": {
 							"header": "f8952047-dc3c-4598-bf3a-e76e65de2d9c"
-						  },
-						  "trees": {
-						  },
-						  "id": "afdfcdb9-9cb5-4eac-906a-b84e447c36e6"
+							},
+							"trees": {
+							},
+							"id": "afdfcdb9-9cb5-4eac-906a-b84e447c36e6"
 						}
-					  },
-					  "id": "fd22bae6-a05f-44bd-93c9-3ffb1a6cea91"
+						},
+						"id": "fd22bae6-a05f-44bd-93c9-3ffb1a6cea91"
 					},
 					"sm1Key": {
-					  "blobs": {
+						"blobs": {
 						"header": "335e1770-53b4-41a7-9f17-517e85e99557",
 						".attributes": "137da099-b89f-4542-a15f-89a5fee01cbe"
-					  },
-					  "trees": {
-					  },
-					  "id": "91ad7d6a-96b0-48e8-b5a1-973f7deb4968"
+						},
+						"trees": {
+						},
+						"id": "91ad7d6a-96b0-48e8-b5a1-973f7deb4968"
 					},
 					"crc1Key": {
-					  "blobs": {
+						"blobs": {
 						"header": "430cc326-aac6-4ddb-acd6-b537bf1bd0da",
 						".attributes": "0bcbe3fb-f325-4d6a-8649-90c5f92314cf"
-					  },
-					  "trees": {
-					  },
-					  "id": "edd2a523-5fc1-4a2e-b174-17c0b8bd2b66"
+						},
+						"trees": {
+						},
+						"id": "edd2a523-5fc1-4a2e-b174-17c0b8bd2b66"
 					},
 					"sd1Key": {
-					  "blobs": {
+						"blobs": {
 						"header": "71706c97-55e7-483e-9e22-ee340157c708",
 						".attributes": "5b2ea43d-505b-437f-8257-22ee4d24d1e6"
-					  },
-					  "trees": {
-					  },
-					  "id": "7554b0a8-a9ed-42af-b604-eb3405851a5d"
+						},
+						"trees": {
+						},
+						"id": "7554b0a8-a9ed-42af-b604-eb3405851a5d"
 					},
 					"scell1Key": {
-					  "blobs": {
+						"blobs": {
 						"header": "b53414e8-dae8-45ef-9ff8-7601dfb5edd4",
 						".attributes": "655bf13d-b310-4481-a6a3-f3c001643e14"
-					  },
-					  "trees": {
-					  },
-					  "id": "6c26d410-92a9-4e85-84d3-cb0c45bb4c14"
+						},
+						"trees": {
+						},
+						"id": "6c26d410-92a9-4e85-84d3-cb0c45bb4c14"
 					},
 					"sink1Key": {
-					  "blobs": {
+						"blobs": {
 						"header": "6ecf4d63-b001-48d3-9d03-0a58a1ec77a0",
 						".attributes": "ebc8254d-22b6-4cfe-91d2-25a202d4c34e"
-					  },
-					  "trees": {
-					  },
-					  "id": "854b9047-b5e3-431b-9962-42439c2b0112"
+						},
+						"trees": {
+						},
+						"id": "854b9047-b5e3-431b-9962-42439c2b0112"
 					},
 					"smatrix1Key": {
-					  "blobs": {
+						"blobs": {
 						"cells": "1b752291-9838-42a6-a044-838bfaaa6221",
 						".attributes": "84e582c1-f1ec-4969-84cc-fcf7153990b4"
-					  },
-					  "trees": {
+						},
+						"trees": {
 						"rows": {
-						  "blobs": {
+							"blobs": {
 							"handleTable": "64fc3098-7b68-4abb-8dca-080d9e334f7b"
-						  },
-						  "trees": {
+							},
+							"trees": {
 							"segments": {
-							  "blobs": {
+								"blobs": {
 								"header": "e98dfc66-3fa0-4c0d-8918-959000347fd9"
-							  },
-							  "trees": {
-							  },
-							  "id": "8c003ad4-fe1b-4518-973a-2cb695d8b344"
+								},
+								"trees": {
+								},
+								"id": "8c003ad4-fe1b-4518-973a-2cb695d8b344"
 							}
-						  },
-						  "id": "6156d15b-f39d-450d-87f1-8bf89f9a1f3c"
+							},
+							"id": "6156d15b-f39d-450d-87f1-8bf89f9a1f3c"
 						},
 						"cols": {
-						  "blobs": {
+							"blobs": {
 							"handleTable": "fc7c2bef-58da-4092-93bf-c9ec7c8db3c9"
-						  },
-						  "trees": {
+							},
+							"trees": {
 							"segments": {
-							  "blobs": {
+								"blobs": {
 								"header": "cad0e82f-efec-4035-9f58-983bc9bde8cc"
-							  },
-							  "trees": {
-							  },
-							  "id": "b7954077-6341-43a9-81b3-6cdee2bad2e0"
+								},
+								"trees": {
+								},
+								"id": "b7954077-6341-43a9-81b3-6cdee2bad2e0"
 							}
-						  },
-						  "id": "2f2814cb-a899-44a3-83b9-0f12ef1fa7aa"
+							},
+							"id": "2f2814cb-a899-44a3-83b9-0f12ef1fa7aa"
 						}
-					  },
-					  "id": "d42692a2-a3cb-496a-b256-644c13acd5be"
+						},
+						"id": "d42692a2-a3cb-496a-b256-644c13acd5be"
 					},
 					"coc1Key": {
-					  "blobs": {
+						"blobs": {
 						"header": "1c37ce7b-86ff-4f8a-a6d0-40dfb29369f3",
 						"jobTracking": "be23f2d7-f5cd-4b7f-8ff0-49a1dc3bfe85",
 						".attributes": "76d6da8f-0c7c-4ff1-8847-f84618766005"
-					  },
-					  "trees": {
-					  },
-					  "id": "211fd01c-909c-49de-ab52-2d3b17c43646"
+						},
+						"trees": {
+						},
+						"id": "211fd01c-909c-49de-ab52-2d3b17c43646"
 					},
 					"sparsematrixKey": {
-					  "blobs": {
+						"blobs": {
 						".attributes": "99915d10-b762-4f4f-a81a-840dc51dee2a"
-					  },
-					  "trees": {
+						},
+						"trees": {
 						"content": {
-						  "blobs": {
+							"blobs": {
 							"header": "cc7e7e3b-4499-4fa8-9686-65b5f9b1ed79"
-						  },
-						  "trees": {
-						  },
-						  "id": "025eb9ed-4d71-448f-acac-e692d63190c2"
+							},
+							"trees": {
+							},
+							"id": "025eb9ed-4d71-448f-acac-e692d63190c2"
 						}
-					  },
-					  "id": "16ee2d77-2c04-43d5-bae6-79f6342bb304"
+						},
+						"id": "16ee2d77-2c04-43d5-bae6-79f6342bb304"
 					},
 					"sharedcounterKey": {
-					  "blobs": {
+						"blobs": {
 						"header": "33659ddf-6ea9-4ecf-8b0b-a59dc270bdc1",
 						".attributes": "3fe675bb-07cb-4a79-874c-c1c57a08fdc0"
-					  },
-					  "trees": {
-					  },
-					  "id": "50812e21-1579-4597-abf4-93e2e6f2f387"
+						},
+						"trees": {
+						},
+						"id": "50812e21-1579-4597-abf4-93e2e6f2f387"
 					}
-				  },
-				  "id": "f1d554c6-5b5a-410d-a3f1-55c23c74ca0e"
+					},
+					"id": "f1d554c6-5b5a-410d-a3f1-55c23c74ca0e"
 				}
-			  },
-			  "id": "af178024-8542-4a91-89b9-3bfa8a40c14e"
+				},
+				"id": "af178024-8542-4a91-89b9-3bfa8a40c14e"
 			}
-		  },
-		  "id": "45e52700-0c17-4cc4-b29a-08c3910f3bc6"
+			},
+			"id": "45e52700-0c17-4cc4-b29a-08c3910f3bc6"
 		},
 		".protocol": {
-		  "blobs": {
+			"blobs": {
 			"attributes": "334b877b-660d-4115-a0e0-927840994c4d",
 			"quorumMembers": "afbedafc-fe8e-4550-9147-efffc1ede9ce",
 			"quorumProposals": "8eb8a2b0-d313-4746-952d-4a93b9a0ec8f",
 			"quorumValues": "bf426ebf-92ca-43af-ab1b-5ccf7817f867"
-		  },
-		  "trees": {
-		  },
-		  "id": "c5a3b28f-119c-41d5-bfb8-004fd0321a5b"
+			},
+			"trees": {
+			},
+			"id": "c5a3b28f-119c-41d5-bfb8-004fd0321a5b"
 		}
-	  },
-	  "id": "ddb46cb4-706b-441e-9c82-6ec565dc5af9"
-	},
-	"snapshotBlobs": {
-	  "c87b0041-deba-49a0-95c5-ce0c4a739f0b": "{\"blobs\":[],\"content\":{\"ss1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/ss1Key\"}},\"sm1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sm1Key\"}},\"crc1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/crc1Key\"}},\"sd1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sd1Key\"}},\"scell1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/scell1Key\"}},\"sink1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sink1Key\"}},\"smatrix1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/smatrix1Key\"}},\"coc1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/coc1Key\"}},\"sparsematrixKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sparsematrixKey\"}},\"sharedcounterKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sharedcounterKey\"}}}}",
-	  "77ebffd3-df33-4564-a840-60a1010bedf4": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "f8952047-dc3c-4598-bf3a-e76e65de2d9c": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":0,\"chunkLengthChars\":0,\"totalLengthChars\":0,\"totalSegmentCount\":0,\"chunkSequenceNumber\":0,\"segmentTexts\":[],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":0,\"totalLength\":0,\"totalSegmentCount\":0}}",
-	  "05393035-f4d4-4d8e-8d2f-ade009b9a496": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "335e1770-53b4-41a7-9f17-517e85e99557": "{\"blobs\":[],\"content\":{}}",
-	  "137da099-b89f-4542-a15f-89a5fee01cbe": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "430cc326-aac6-4ddb-acd6-b537bf1bd0da": "{}",
-	  "0bcbe3fb-f325-4d6a-8649-90c5f92314cf": "{\"type\":\"https://graph.microsoft.com/types/consensus-register-collection\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "71706c97-55e7-483e-9e22-ee340157c708": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]}}}",
-	  "5b2ea43d-505b-437f-8257-22ee4d24d1e6": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "b53414e8-dae8-45ef-9ff8-7601dfb5edd4": "{}",
-	  "655bf13d-b310-4481-a6a3-f3c001643e14": "{\"type\":\"https://graph.microsoft.com/types/cell\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "6ecf4d63-b001-48d3-9d03-0a58a1ec77a0": "{\"strokes\":[],\"strokeIndex\":{}}",
-	  "ebc8254d-22b6-4cfe-91d2-25a202d4c34e": "{\"type\":\"https://graph.microsoft.com/types/ink\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "e98dfc66-3fa0-4c0d-8918-959000347fd9": "{\"version\":\"1\",\"segmentCount\":0,\"length\":0,\"segments\":[],\"startIndex\":0,\"headerMetadata\":{\"minSequenceNumber\":0,\"sequenceNumber\":0,\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"totalLength\":0,\"totalSegmentCount\":0}}",
-	  "64fc3098-7b68-4abb-8dca-080d9e334f7b": "[1]",
-	  "cad0e82f-efec-4035-9f58-983bc9bde8cc": "{\"version\":\"1\",\"segmentCount\":0,\"length\":0,\"segments\":[],\"startIndex\":0,\"headerMetadata\":{\"minSequenceNumber\":0,\"sequenceNumber\":0,\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"totalLength\":0,\"totalSegmentCount\":0}}",
-	  "fc7c2bef-58da-4092-93bf-c9ec7c8db3c9": "[1]",
-	  "1b752291-9838-42a6-a044-838bfaaa6221": "[[null],[null],-1]",
-	  "84e582c1-f1ec-4969-84cc-fcf7153990b4": "{\"type\":\"https://graph.microsoft.com/types/sharedmatrix\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "1c37ce7b-86ff-4f8a-a6d0-40dfb29369f3": "[]",
-	  "be23f2d7-f5cd-4b7f-8ff0-49a1dc3bfe85": "[]",
-	  "76d6da8f-0c7c-4ff1-8847-f84618766005": "{\"type\":\"https://graph.microsoft.com/types/consensus-queue\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "cc7e7e3b-4499-4fa8-9686-65b5f9b1ed79": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":0,\"chunkLengthChars\":0,\"totalLengthChars\":0,\"totalSegmentCount\":0,\"chunkSequenceNumber\":0,\"segmentTexts\":[],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":0,\"totalLength\":0,\"totalSegmentCount\":0}}",
-	  "99915d10-b762-4f4f-a81a-840dc51dee2a": "{\"type\":\"https://graph.microsoft.com/types/mergeTree/sparse-matrix\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "33659ddf-6ea9-4ecf-8b0b-a59dc270bdc1": "{\"value\":0}",
-	  "3fe675bb-07cb-4a79-874c-c1c57a08fdc0": "{\"type\":\"https://graph.microsoft.com/types/counter\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
-	  "e308540d-2c74-488e-847b-bbc425c16824": "{\"pkg\":\"[\\\"default\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
-	  "250d220c-25cd-4297-9fac-b8b2850acc5c": "{\"createContainerRuntimeVersion\":\"2.0.0-rc.1.0.0\",\"createContainerTimestamp\":1704233147145,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sessionExpiryTimeoutMs\":2592000000,\"sweepEnabled\":false,\"tombstoneTimeoutMs\":3110400000,\"telemetryDocumentId\":\"ee846088-07f5-4048-a70d-723af43e3abd\"}",
-	  "ecdb4367-e6d5-430b-b8f3-b641d8d5488b": "[[\"default\",\"default\"]]",
-	  "ba9f946b-e0e3-4d39-88b2-3f469aabfca3": "{\"electionSequenceNumber\":0}",
-	  "334b877b-660d-4115-a0e0-927840994c4d": "{\"minimumSequenceNumber\":0,\"sequenceNumber\":0}",
-	  "afbedafc-fe8e-4550-9147-efffc1ede9ce": "[]",
-	  "8eb8a2b0-d313-4746-952d-4a93b9a0ec8f": "[]",
-	  "bf426ebf-92ca-43af-ab1b-5ccf7817f867": "[[\"code\",{\"key\":\"code\",\"value\":{\"package\":\"detachedContainerTestPackage1\",\"config\":{}},\"approvalSequenceNumber\":0,\"commitSequenceNumber\":0,\"sequenceNumber\":0}]]"
+		},
+		"id": "ddb46cb4-706b-441e-9c82-6ec565dc5af9"
+		},
+		"snapshotBlobs": {
+		"c87b0041-deba-49a0-95c5-ce0c4a739f0b": "{\"blobs\":[],\"content\":{\"ss1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/ss1Key\"}},\"sm1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sm1Key\"}},\"crc1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/crc1Key\"}},\"sd1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sd1Key\"}},\"scell1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/scell1Key\"}},\"sink1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sink1Key\"}},\"smatrix1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/smatrix1Key\"}},\"coc1Key\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/coc1Key\"}},\"sparsematrixKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sparsematrixKey\"}},\"sharedcounterKey\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/default/sharedcounterKey\"}}}}",
+		"77ebffd3-df33-4564-a840-60a1010bedf4": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"f8952047-dc3c-4598-bf3a-e76e65de2d9c": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":0,\"chunkLengthChars\":0,\"totalLengthChars\":0,\"totalSegmentCount\":0,\"chunkSequenceNumber\":0,\"segmentTexts\":[],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":0,\"totalLength\":0,\"totalSegmentCount\":0}}",
+		"05393035-f4d4-4d8e-8d2f-ade009b9a496": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"335e1770-53b4-41a7-9f17-517e85e99557": "{\"blobs\":[],\"content\":{}}",
+		"137da099-b89f-4542-a15f-89a5fee01cbe": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"430cc326-aac6-4ddb-acd6-b537bf1bd0da": "{}",
+		"0bcbe3fb-f325-4d6a-8649-90c5f92314cf": "{\"type\":\"https://graph.microsoft.com/types/consensus-register-collection\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"71706c97-55e7-483e-9e22-ee340157c708": "{\"blobs\":[],\"content\":{\"ci\":{\"csn\":0,\"ccIds\":[]}}}",
+		"5b2ea43d-505b-437f-8257-22ee4d24d1e6": "{\"type\":\"https://graph.microsoft.com/types/directory\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"b53414e8-dae8-45ef-9ff8-7601dfb5edd4": "{}",
+		"655bf13d-b310-4481-a6a3-f3c001643e14": "{\"type\":\"https://graph.microsoft.com/types/cell\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"6ecf4d63-b001-48d3-9d03-0a58a1ec77a0": "{\"strokes\":[],\"strokeIndex\":{}}",
+		"ebc8254d-22b6-4cfe-91d2-25a202d4c34e": "{\"type\":\"https://graph.microsoft.com/types/ink\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"e98dfc66-3fa0-4c0d-8918-959000347fd9": "{\"version\":\"1\",\"segmentCount\":0,\"length\":0,\"segments\":[],\"startIndex\":0,\"headerMetadata\":{\"minSequenceNumber\":0,\"sequenceNumber\":0,\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"totalLength\":0,\"totalSegmentCount\":0}}",
+		"64fc3098-7b68-4abb-8dca-080d9e334f7b": "[1]",
+		"cad0e82f-efec-4035-9f58-983bc9bde8cc": "{\"version\":\"1\",\"segmentCount\":0,\"length\":0,\"segments\":[],\"startIndex\":0,\"headerMetadata\":{\"minSequenceNumber\":0,\"sequenceNumber\":0,\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"totalLength\":0,\"totalSegmentCount\":0}}",
+		"fc7c2bef-58da-4092-93bf-c9ec7c8db3c9": "[1]",
+		"1b752291-9838-42a6-a044-838bfaaa6221": "[[null],[null],-1]",
+		"84e582c1-f1ec-4969-84cc-fcf7153990b4": "{\"type\":\"https://graph.microsoft.com/types/sharedmatrix\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"1c37ce7b-86ff-4f8a-a6d0-40dfb29369f3": "[]",
+		"be23f2d7-f5cd-4b7f-8ff0-49a1dc3bfe85": "[]",
+		"76d6da8f-0c7c-4ff1-8847-f84618766005": "{\"type\":\"https://graph.microsoft.com/types/consensus-queue\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"cc7e7e3b-4499-4fa8-9686-65b5f9b1ed79": "{\"chunkStartSegmentIndex\":0,\"chunkSegmentCount\":0,\"chunkLengthChars\":0,\"totalLengthChars\":0,\"totalSegmentCount\":0,\"chunkSequenceNumber\":0,\"segmentTexts\":[],\"headerMetadata\":{\"orderedChunkMetadata\":[{\"id\":\"header\"}],\"sequenceNumber\":0,\"totalLength\":0,\"totalSegmentCount\":0}}",
+		"99915d10-b762-4f4f-a81a-840dc51dee2a": "{\"type\":\"https://graph.microsoft.com/types/mergeTree/sparse-matrix\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"33659ddf-6ea9-4ecf-8b0b-a59dc270bdc1": "{\"value\":0}",
+		"3fe675bb-07cb-4a79-874c-c1c57a08fdc0": "{\"type\":\"https://graph.microsoft.com/types/counter\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-rc.1.0.0\"}",
+		"e308540d-2c74-488e-847b-bbc425c16824": "{\"pkg\":\"[\\\"default\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
+		"250d220c-25cd-4297-9fac-b8b2850acc5c": "{\"createContainerRuntimeVersion\":\"2.0.0-rc.1.0.0\",\"createContainerTimestamp\":1704233147145,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sessionExpiryTimeoutMs\":2592000000,\"sweepEnabled\":false,\"tombstoneTimeoutMs\":3110400000,\"telemetryDocumentId\":\"ee846088-07f5-4048-a70d-723af43e3abd\"}",
+		"ecdb4367-e6d5-430b-b8f3-b641d8d5488b": "[[\"default\",\"default\"]]",
+		"ba9f946b-e0e3-4d39-88b2-3f469aabfca3": "{\"electionSequenceNumber\":0}",
+		"334b877b-660d-4115-a0e0-927840994c4d": "{\"minimumSequenceNumber\":0,\"sequenceNumber\":0}",
+		"afbedafc-fe8e-4550-9147-efffc1ede9ce": "[]",
+		"8eb8a2b0-d313-4746-952d-4a93b9a0ec8f": "[]",
+		"bf426ebf-92ca-43af-ab1b-5ccf7817f867": "[[\"code\",{\"key\":\"code\",\"value\":{\"package\":\"detachedContainerTestPackage1\",\"config\":{}},\"approvalSequenceNumber\":0,\"commitSequenceNumber\":0,\"sequenceNumber\":0}]]"
+		}
 	},
 	"hasAttachmentBlobs": false
-  }
+}
