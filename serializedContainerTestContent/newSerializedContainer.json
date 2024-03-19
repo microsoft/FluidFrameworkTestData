@@ -1,6 +1,6 @@
 {
 	"attached": false,
-	"baseSnapshot": {
+	"snapshotTree": {
 	  "blobs": {
 		".metadata": "250d220c-25cd-4297-9fac-b8b2850acc5c",
 		".aliases": "ecdb4367-e6d5-430b-b8f3-b641d8d5488b",
