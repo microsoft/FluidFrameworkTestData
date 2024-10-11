@@ -5162,7 +5162,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":461,\"referenceSequenceNumber\":461,\"sequenceNumber\":461,\"timestamp\":1627344403198,\"type\":\"noClient\"},\"telemetryDocumentId\":\"66056f68-542f-4e78-8160-065a3123fbca\"}",
+          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"4cdf3058-d337-45df-ae80-bc4855dc7ca5\",\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":461,\"referenceSequenceNumber\":461,\"sequenceNumber\":461,\"timestamp\":1627344403198,\"type\":\"noClient\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
           "encoding": "utf-8"
         }
       },

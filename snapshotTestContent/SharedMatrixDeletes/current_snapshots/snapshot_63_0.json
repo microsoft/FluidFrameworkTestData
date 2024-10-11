@@ -2141,7 +2141,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":6,\"minimumSequenceNumber\":62,\"referenceSequenceNumber\":62,\"sequenceNumber\":63,\"timestamp\":1646688197647,\"type\":\"noop\"},\"telemetryDocumentId\":\"db2ed0c7-afd3-4b5c-9bc3-12282506ba16\"}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"dcdcc4b2-26b0-428a-b724-56067bfa2983\",\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":6,\"minimumSequenceNumber\":62,\"referenceSequenceNumber\":62,\"sequenceNumber\":63,\"timestamp\":1646688197647,\"type\":\"noop\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
           "encoding": "utf-8"
         }
       },
