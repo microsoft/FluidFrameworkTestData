@@ -47,6 +47,87 @@
           "entries": [
             {
               "mode": "040000",
+              "path": "_scheduler",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                        {
+                          "mode": "040000",
+                          "path": "root",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"blobs\":[],\"content\":{\"scheduler\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/_scheduler/a2b2dc01-6191-4f19-a07c-2384baac6b03\"}}}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "mode": "040000",
+                          "path": "a2b2dc01-6191-4f19-a07c-2384baac6b03",
+                          "type": "Tree",
+                          "value": {
+                            "entries": [
+                              {
+                                "mode": "100644",
+                                "path": "header",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"leader\":{\"atomic\":{\"sequenceNumber\":53,\"value\":{\"type\":\"Plain\",\"value\":\"45726b48-c467-4dc2-ab8e-2866e2524273\"}},\"versions\":[{\"sequenceNumber\":53,\"value\":{\"type\":\"Plain\",\"value\":\"45726b48-c467-4dc2-ab8e-2866e2524273\"}}]}}",
+                                  "encoding": "utf-8"
+                                }
+                              },
+                              {
+                                "mode": "100644",
+                                "path": ".attributes",
+                                "type": "Blob",
+                                "value": {
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/consensus-register-collection\"}",
+                                  "encoding": "utf-8"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"_scheduler\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "mode": "040000",
               "path": "applicationServices",
               "type": "Tree",
               "value": {
@@ -155,114 +236,6 @@
             },
             {
               "mode": "040000",
-              "path": "discover",
-              "type": "Tree",
-              "value": {
-                "entries": [
-                  {
-                    "mode": "040000",
-                    "path": ".channels",
-                    "type": "Tree",
-                    "value": {
-                      "entries": [
-                      ]
-                    }
-                  },
-                  {
-                    "mode": "100644",
-                    "path": ".component",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"pkg\":\"[\\\"@ms/discover\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
-                      "encoding": "utf-8"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "mode": "040000",
-              "path": "_scheduler",
-              "type": "Tree",
-              "value": {
-                "entries": [
-                  {
-                    "mode": "040000",
-                    "path": ".channels",
-                    "type": "Tree",
-                    "value": {
-                      "entries": [
-                        {
-                          "mode": "040000",
-                          "path": "root",
-                          "type": "Tree",
-                          "value": {
-                            "entries": [
-                              {
-                                "mode": "100644",
-                                "path": "header",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"blobs\":[],\"content\":{\"scheduler\":{\"type\":\"Plain\",\"value\":{\"type\":\"__fluid_handle__\",\"url\":\"/_scheduler/a2b2dc01-6191-4f19-a07c-2384baac6b03\"}}}}",
-                                  "encoding": "utf-8"
-                                }
-                              },
-                              {
-                                "mode": "100644",
-                                "path": ".attributes",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\"}",
-                                  "encoding": "utf-8"
-                                }
-                              }
-                            ]
-                          }
-                        },
-                        {
-                          "mode": "040000",
-                          "path": "a2b2dc01-6191-4f19-a07c-2384baac6b03",
-                          "type": "Tree",
-                          "value": {
-                            "entries": [
-                              {
-                                "mode": "100644",
-                                "path": "header",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"leader\":{\"atomic\":{\"sequenceNumber\":53,\"value\":{\"type\":\"Plain\",\"value\":\"45726b48-c467-4dc2-ab8e-2866e2524273\"}},\"versions\":[{\"sequenceNumber\":53,\"value\":{\"type\":\"Plain\",\"value\":\"45726b48-c467-4dc2-ab8e-2866e2524273\"}}]}}",
-                                  "encoding": "utf-8"
-                                }
-                              },
-                              {
-                                "mode": "100644",
-                                "path": ".attributes",
-                                "type": "Blob",
-                                "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/consensus-register-collection\"}",
-                                  "encoding": "utf-8"
-                                }
-                              }
-                            ]
-                          }
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "mode": "100644",
-                    "path": ".component",
-                    "type": "Blob",
-                    "value": {
-                      "contents": "{\"pkg\":\"[\\\"_scheduler\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
-                      "encoding": "utf-8"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "mode": "040000",
               "path": "defaultComponent",
               "type": "Tree",
               "value": {
@@ -293,7 +266,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -320,7 +293,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -347,7 +320,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -383,7 +356,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/mergeTree\",\"snapshotFormatVersion\":\"0.1\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -410,7 +383,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -437,7 +410,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -464,7 +437,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -491,7 +464,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -518,7 +491,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -545,7 +518,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -572,7 +545,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -599,7 +572,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -626,7 +599,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -653,7 +626,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -680,7 +653,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -707,7 +680,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -734,7 +707,7 @@
                                 "path": ".attributes",
                                 "type": "Blob",
                                 "value": {
-                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.0.0-internal.7.4.0\"}",
+                                  "contents": "{\"type\":\"https://graph.microsoft.com/types/map\",\"snapshotFormatVersion\":\"0.2\",\"packageVersion\":\"2.101.0\"}",
                                   "encoding": "utf-8"
                                 }
                               }
@@ -809,6 +782,33 @@
                   }
                 ]
               }
+            },
+            {
+              "mode": "040000",
+              "path": "discover",
+              "type": "Tree",
+              "value": {
+                "entries": [
+                  {
+                    "mode": "040000",
+                    "path": ".channels",
+                    "type": "Tree",
+                    "value": {
+                      "entries": [
+                      ]
+                    }
+                  },
+                  {
+                    "mode": "100644",
+                    "path": ".component",
+                    "type": "Blob",
+                    "value": {
+                      "contents": "{\"pkg\":\"[\\\"@ms/discover\\\"]\",\"summaryFormatVersion\":2,\"isRootDataStore\":true}",
+                      "encoding": "utf-8"
+                    }
+                  }
+                ]
+              }
             }
           ]
         }
@@ -818,7 +818,16 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":8,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":7994,\"referenceSequenceNumber\":-1,\"sequenceNumber\":8000,\"timestamp\":1565139143549,\"type\":\"leave\"},\"telemetryDocumentId\":\"9db5d8ab-cfa2-43bd-b962-989c68658103\"}",
+          "contents": "{\"summaryNumber\":8,\"summaryFormatVersion\":1,\"gcFeature\":0,\"sweepEnabled\":false,\"telemetryDocumentId\":\"54243221-0d28-4ea2-bd6a-16974aa464be\",\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":7994,\"referenceSequenceNumber\":-1,\"sequenceNumber\":8000,\"timestamp\":1565139143549,\"type\":\"leave\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0-defaults\"},\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": ".recentBatchInfo",
+        "type": "Blob",
+        "value": {
+          "contents": "[[7993,\"42e5022b-3faf-4b1f-b29d-951a633ff38f_[2]\"],[7994,\"42e5022b-3faf-4b1f-b29d-951a633ff38f_[3]\"]]",
           "encoding": "utf-8"
         }
       }

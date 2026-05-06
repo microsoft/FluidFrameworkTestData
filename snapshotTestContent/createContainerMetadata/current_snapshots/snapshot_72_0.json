@@ -440,7 +440,16 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"},\"telemetryDocumentId\":\"9788d977-746f-46f1-931e-c9fcf4e50076\"}",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.53.0\",\"createContainerTimestamp\":1641336100567,\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"43ccde78-bdaa-41fb-8089-db95385de53d\",\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":72,\"referenceSequenceNumber\":72,\"sequenceNumber\":72,\"timestamp\":1641336438129,\"type\":\"noClient\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0-defaults\"},\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
+          "encoding": "utf-8"
+        }
+      },
+      {
+        "mode": "100644",
+        "path": ".recentBatchInfo",
+        "type": "Blob",
+        "value": {
+          "contents": "[[68,\"d3bd935c-94c9-4de1-b992-08d6554b3465_[7]\"]]",
           "encoding": "utf-8"
         }
       },
