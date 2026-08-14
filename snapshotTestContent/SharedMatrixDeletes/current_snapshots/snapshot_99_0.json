@@ -2501,16 +2501,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"b636ffcd-e385-4e02-9ba6-64ab2e2ab667\",\"message\":{\"clientId\":\"2043528d-03b2-4eac-afd4-6f05ed83d1ac\",\"clientSequenceNumber\":18,\"minimumSequenceNumber\":97,\"referenceSequenceNumber\":98,\"sequenceNumber\":99,\"timestamp\":1646688280365,\"type\":\"noop\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0-defaults\"},\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
-          "encoding": "utf-8"
-        }
-      },
-      {
-        "mode": "100644",
-        "path": ".recentBatchInfo",
-        "type": "Blob",
-        "value": {
-          "contents": "[[93,\"2043528d-03b2-4eac-afd4-6f05ed83d1ac_[15]\"],[96,\"2043528d-03b2-4eac-afd4-6f05ed83d1ac_[16]\"],[97,\"2043528d-03b2-4eac-afd4-6f05ed83d1ac_[17]\"]]",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":3,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"4b88f827-9a6f-463b-8974-33ddfc189045\",\"message\":{\"clientId\":\"2043528d-03b2-4eac-afd4-6f05ed83d1ac\",\"clientSequenceNumber\":18,\"minimumSequenceNumber\":97,\"referenceSequenceNumber\":98,\"sequenceNumber\":99,\"timestamp\":1646688280365,\"type\":\"noop\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0\"},\"runtime\":{}}}",
           "encoding": "utf-8"
         }
       },

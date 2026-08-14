@@ -3581,16 +3581,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"b636ffcd-e385-4e02-9ba6-64ab2e2ab667\",\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":24,\"minimumSequenceNumber\":187,\"referenceSequenceNumber\":188,\"sequenceNumber\":189,\"timestamp\":1646688419462,\"type\":\"noop\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0-defaults\"},\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
-          "encoding": "utf-8"
-        }
-      },
-      {
-        "mode": "100644",
-        "path": ".recentBatchInfo",
-        "type": "Blob",
-        "value": {
-          "contents": "[[183,\"0c200397-abdc-47ca-905d-ab3ef7329c8f_[70]\"],[184,\"cec2de69-45a7-4a6b-9baf-c0ef0c3f0860_[27]\"],[185,\"cec2de69-45a7-4a6b-9baf-c0ef0c3f0860_[28]\"],[187,\"0c200397-abdc-47ca-905d-ab3ef7329c8f_[71]\"]]",
+          "contents": "{\"createContainerRuntimeVersion\":\"0.56.6\",\"createContainerTimestamp\":1646688156435,\"summaryNumber\":6,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"4b88f827-9a6f-463b-8974-33ddfc189045\",\"message\":{\"clientId\":\"49522d62-8131-448f-bcd6-c5ce9bff5d59\",\"clientSequenceNumber\":24,\"minimumSequenceNumber\":187,\"referenceSequenceNumber\":188,\"sequenceNumber\":189,\"timestamp\":1646688419462,\"type\":\"noop\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0\"},\"runtime\":{}}}",
           "encoding": "utf-8"
         }
       },

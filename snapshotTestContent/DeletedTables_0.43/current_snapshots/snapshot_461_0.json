@@ -5162,16 +5162,7 @@
         "path": ".metadata",
         "type": "Blob",
         "value": {
-          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"a0662285-b67d-48ae-a4db-21d5f1fcc9f0\",\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":461,\"referenceSequenceNumber\":461,\"sequenceNumber\":461,\"timestamp\":1627344403198,\"type\":\"noClient\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0-defaults\"},\"runtime\":{\"compressionLz4\":true,\"opGroupingEnabled\":true}}}",
-          "encoding": "utf-8"
-        }
-      },
-      {
-        "mode": "100644",
-        "path": ".recentBatchInfo",
-        "type": "Blob",
-        "value": {
-          "contents": "[[445,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[439]\"],[448,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[440]\"],[449,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[441]\"],[450,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[442]\"],[451,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[443]\"],[452,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[444]\"],[453,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[445]\"],[454,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[446]\"],[455,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[447]\"],[456,\"a090e8d2-bcd7-4a07-a04d-2fb9f52d1ced_[448]\"]]",
+          "contents": "{\"summaryNumber\":1,\"summaryFormatVersion\":1,\"gcFeature\":3,\"sweepEnabled\":false,\"telemetryDocumentId\":\"60f299d2-57ec-4db6-9946-ebc6673beb4e\",\"message\":{\"clientId\":null,\"clientSequenceNumber\":-1,\"minimumSequenceNumber\":461,\"referenceSequenceNumber\":461,\"sequenceNumber\":461,\"timestamp\":1627344403198,\"type\":\"noClient\"},\"documentSchema\":{\"version\":1,\"refSeq\":0,\"info\":{\"minVersionForCollab\":\"2.0.0\"},\"runtime\":{}}}",
           "encoding": "utf-8"
         }
       },
